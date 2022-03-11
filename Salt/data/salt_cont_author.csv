@@ -1,4 +1,4 @@
-ID,title,author_given_name,author_surname,author_id,organizational_author,manual
+﻿ID,title,author_given_name,author_surname,author_id,organizational_author,manual
 1,Systematic review of long term effects of advice to reduce dietary salt in adults,Lee,Hooper,57202855325,,FALSE
 1,Systematic review of long term effects of advice to reduce dietary salt in adults,Christopher,Bartlett,57194377301,,FALSE
 1,Systematic review of long term effects of advice to reduce dietary salt in adults,George Davey,Smith,35354080500,,FALSE
@@ -69,7 +69,6 @@ ID,title,author_given_name,author_surname,author_id,organizational_author,manual
 34,Urinary sodium excretion and myocardial infarction in hypertensive patients: A prospective cohort study,Hillel,Cohen,7402808799,,FALSE
 34,Urinary sodium excretion and myocardial infarction in hypertensive patients: A prospective cohort study,Shantha,Madhavan,7006217003,,FALSE
 34,Urinary sodium excretion and myocardial infarction in hypertensive patients: A prospective cohort study,John,Laragh,57217506894,,FALSE
-38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Jeffrey A.,Cutler,7102422991,,FALSE
 39,Comparison of the prediction by 27 different factors of coronary heart disease and death in men and women of the Scottish heart health study: cohort study,Hugh,Tunstall-Pedoe,7006489385,,FALSE
 39,Comparison of the prediction by 27 different factors of coronary heart disease and death in men and women of the Scottish heart health study: cohort study,Mark,Woodward,7102510958,,FALSE
 39,Comparison of the prediction by 27 different factors of coronary heart disease and death in men and women of the Scottish heart health study: cohort study,Roger,Tavendale,6603836549,,FALSE
@@ -468,14 +467,22 @@ ID,title,author_given_name,author_surname,author_id,organizational_author,manual
 46,Dietary sodium intake and incidence of congestive heart failure in overweight US men and women,Suma,Vupputuri,57203897559,,FALSE
 46,Dietary sodium intake and incidence of congestive heart failure in overweight US men and women,Catherine,Loria,7004668410,,FALSE
 46,Dietary sodium intake and incidence of congestive heart failure in overweight US men and women,Paul K.,Whelton,7103041111,,FALSE
-56,"Joint effects of sodium and potassium intake on subsequent cardiovascular disease:the Trials of Hypertension Prevention follow-up study",Nancy R.,Cook,7202992021,,FALSE
-56,"Joint effects of sodium and potassium intake on subsequent cardiovascular disease:the Trials of Hypertension Prevention follow-up study",Eva,Obarzanek,7006694590,,FALSE
-56,"Joint effects of sodium and potassium intake on subsequent cardiovascular disease:the Trials of Hypertension Prevention follow-up study",Jeffrey A.,Cutler,7102422991,,FALSE
-56,"Joint effects of sodium and potassium intake on subsequent cardiovascular disease:the Trials of Hypertension Prevention follow-up study",Julie E.,Buring,36047010400,,FALSE
-56,"Joint effects of sodium and potassium intake on subsequent cardiovascular disease:the Trials of Hypertension Prevention follow-up study",Kathryn M.,Rexrode,7003464052,,FALSE
-56,"Joint effects of sodium and potassium intake on subsequent cardiovascular disease:the Trials of Hypertension Prevention follow-up study",Shiriki K.,Kumanyika,35380806400,,FALSE
-56,"Joint effects of sodium and potassium intake on subsequent cardiovascular disease:the Trials of Hypertension Prevention follow-up study",Lawrence J.,Appel,7102658830,,FALSE
-56,"Joint effects of sodium and potassium intake on subsequent cardiovascular disease:the Trials of Hypertension Prevention follow-up study",Paul K.,Whelton,7103041111,,FALSE
+56,Joint effects of sodium and potassium intake on subsequent cardiovascular disease:,,,,,
+"the Trials of Hypertension Prevention follow-up study""",Nancy R.,Cook,7202992021,,FALSE,
+56,Joint effects of sodium and potassium intake on subsequent cardiovascular disease:,,,,,
+"the Trials of Hypertension Prevention follow-up study""",Eva,Obarzanek,7006694590,,FALSE,
+56,Joint effects of sodium and potassium intake on subsequent cardiovascular disease:,,,,,
+"the Trials of Hypertension Prevention follow-up study""",Jeffrey A.,Cutler,7102422991,,FALSE,
+56,Joint effects of sodium and potassium intake on subsequent cardiovascular disease:,,,,,
+"the Trials of Hypertension Prevention follow-up study""",Julie E.,Buring,36047010400,,FALSE,
+56,Joint effects of sodium and potassium intake on subsequent cardiovascular disease:,,,,,
+"the Trials of Hypertension Prevention follow-up study""",Kathryn M.,Rexrode,7003464052,,FALSE,
+56,Joint effects of sodium and potassium intake on subsequent cardiovascular disease:,,,,,
+"the Trials of Hypertension Prevention follow-up study""",Shiriki K.,Kumanyika,35380806400,,FALSE,
+56,Joint effects of sodium and potassium intake on subsequent cardiovascular disease:,,,,,
+"the Trials of Hypertension Prevention follow-up study""",Lawrence J.,Appel,7102658830,,FALSE,
+56,Joint effects of sodium and potassium intake on subsequent cardiovascular disease:,,,,,
+"the Trials of Hypertension Prevention follow-up study""",Paul K.,Whelton,7103041111,,FALSE,
 57,Lower levels of sodium intake and reduced cardiovascular risk,Nancy R.,Cook,7202992021,,FALSE
 57,Lower levels of sodium intake and reduced cardiovascular risk,Lawrence J.,Appel,7102658830,,FALSE
 57,Lower levels of sodium intake and reduced cardiovascular risk,Paul K.,Whelton,7103041111,,FALSE
@@ -558,12 +565,9 @@ ID,title,author_given_name,author_surname,author_id,organizational_author,manual
 29,The Hypertension Prevention Trial: three-year effects of dietary changes on blood pressure,Van,Nuys,37,Hypertension Prevention Trial Research Group,TRUE
 29,The Hypertension Prevention Trial: three-year effects of dietary changes on blood pressure,Penelope M.,Keyl,38,Hypertension Prevention Trial Research Group,TRUE
 29,The Hypertension Prevention Trial: three-year effects of dietary changes on blood pressure,James,Tonascia,39,Hypertension Prevention Trial Research Group,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Paul K.,Whelton,7103041111,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Appel,Lawrence,7102658830,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Jeanne,Charleston,5,,TRUE
 35,Sodium intake and mortality from myocardial infarction: multiple risk factor intervention trial (MRFIT),J,Stamler,6,,TRUE
 35,Sodium intake and mortality from myocardial infarction: multiple risk factor intervention trial (MRFIT),J,Cohen,1,,TRUE
-35,Sodium intake and mortality from myocardial infarction: multiple risk factor intervention trial (MRFIT),JA,Culter,2,,TRUE
+35,Sodium intake and mortality from myocardial infarction: multiple risk factor intervention trial (MRFIT),JA,Cutler,7102422991,,TRUE
 36,Multiple Risk Factor Intervention Trial follow-up,J,Cohen,1,,TRUE
 37,Dietary sodium intake and mortality: MRFIT Followup Study Results,JD,Cohen,1,,TRUE
 37,Dietary sodium intake and mortality: MRFIT Followup Study Results,G,Grandis,7,,TRUE
@@ -579,93 +583,210 @@ ID,title,author_given_name,author_surname,author_id,organizational_author,manual
 72,Abstract 2236: Three Gram Sodium Intake is Associated with Better Event-Free Survival Only in Patients with Advanced Heart Failure,S,Heo,14,,TRUE
 72,Abstract 2236: Three Gram Sodium Intake is Associated with Better Event-Free Survival Only in Patients with Advanced Heart Failure,RL,Dekker,15,,TRUE
 72,Abstract 2236: Three Gram Sodium Intake is Associated with Better Event-Free Survival Only in Patients with Advanced Heart Failure,DK,Moser,7101785555,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Paul K.,Whelton,7103041111,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Lawrence,Appel,7102658830,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Jeanne,Charleston,5,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Arlene Taylor,Dalcin,40,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Craig,Ewart,41,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Linda,Fried,42,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Delores,Kaidy,43,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Michael J.,Klag,44,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Shiriki,Kumanyika,35380806400,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Lyn,Steffen,45,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,W. Gordon,Walker,46,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Albert,Oberman,16,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Karen,Counts,47,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Heidi,Hataway,48,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,James,Raczynski,49,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Neil,Rappaport,50,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Roland,Weinsier,51,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Nemat O.,Borhani,18,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Edmund,Bernauer,52,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Patricia,Borhani,19,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Carlos de,la,53,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Andrew,Ertl,54,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Doug,Heustis,55,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Marshall,Lee,56,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Wade,Lovelace,57,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Ellen,O'Connor,58,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Liz,Peel,59,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Carolyn,Sugars,20,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,James O.,Taylor,60,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Beth Walker,Corkery,61,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Denis A.,Evans,62,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Mary Ellen,Keough,63,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Martha Clare,Morris,64,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Eleanor,Pistorino,65,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Frank,Sacks,66,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Mary,Cameron,67,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Sheila,Corrigan,22,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Nancy King,Wright,68,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,William B.,Applegate,7004891687,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Amy,Brewer,69,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Laretha,Goodwin,70,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Stephen,Miller,71,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Joe,Murphy,72,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Judy,Randle,73,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Jay,Sullivan,74,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Norman L.,Lasser,75,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,David M.,Batey,76,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Lee,Dolan,77,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Sheila,Hamill,78,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Pat,Kennedy,79,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Vera I.,Lasser,80,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Lewis H.,Kuller,81,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Arlene W.,Caggiula,31,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,N. Carole,Milas,32,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Monica E.,Yamamoto,33,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Thomas M.,Vogt,82,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Merwyn R.,Greenlick,83,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Jack,Hollis,84,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Victor,Stevens,85,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Jerome D.,Cohen,86,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Mildred,Mattfeldt-Beman,87,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Connie,Brinkmann,88,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Katherine,Roth,89,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Lana,Shepek,90,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Charles H.,Hennekens,91,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Julie,Buring,36047010400,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Nancy,Cook,7202992021,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Ellie,Danielson,92,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Kim,Eberlein,93,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,David,Gordon,94,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Patricia,Hebert,95,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Jean,MacFadyen,96,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Sherry,Mayrent,97,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Bernard,Rosner,98,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Suzanne,Satterfield,99,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Heather,Tosteson,100,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Martin Van,Denburgh,101,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Jeffrey A.,Cutler,7102422991,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Erica,Brittain,102,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Marilyn,Farrand,103,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Peter,Kaufmann,104,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Ed,Lakatos,105,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Eva,Obarzanek,7006694590,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,John,Belcher,106,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Andrea,Dommeyer,107,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Ivan,Mills,108,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Peggy,Neibling,109,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Margo,Woods,110,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,B.J. Kremen,Goldman,111,,TRUE
-32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Elaine,Blethen,112,,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Paul K.,Whelton,7103041111,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Lawrence,Appel,7102658830,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Jeanne,Charleston,5,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Arlene Taylor,Dalcin,40,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Craig,Ewart,41,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Linda,Fried,42,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Delores,Kaidy,43,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Michael J.,Klag,44,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Shiriki,Kumanyika,35380806400,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Lyn,Steffen,45,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,W. Gordon,Walker,46,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Albert,Oberman,16,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Karen,Counts,47,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Heidi,Hataway,48,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,James,Raczynski,49,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Neil,Rappaport,50,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Roland,Weinsier,51,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Nemat O.,Borhani,18,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Edmund,Bernauer,52,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Patricia,Borhani,19,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Carlos de,la,53,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Andrew,Ertl,54,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Doug,Heustis,55,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Marshall,Lee,56,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Wade,Lovelace,57,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Ellen,O'Connor,58,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Liz,Peel,59,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Carolyn,Sugars,20,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,James O.,Taylor,60,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Beth Walker,Corkery,61,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Denis A.,Evans,62,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Mary Ellen,Keough,63,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Martha Clare,Morris,64,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Eleanor,Pistorino,65,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Frank,Sacks,66,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Mary,Cameron,67,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Sheila,Corrigan,22,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Nancy King,Wright,68,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,William B.,Applegate,7004891687,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Amy,Brewer,69,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Laretha,Goodwin,70,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Stephen,Miller,71,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Joe,Murphy,72,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Judy,Randle,73,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Jay,Sullivan,74,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Norman L.,Lasser,75,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,David M.,Batey,76,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Lee,Dolan,77,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Sheila,Hamill,78,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Pat,Kennedy,79,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Vera I.,Lasser,80,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Lewis H.,Kuller,81,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Arlene W.,Caggiula,31,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,N. Carole,Milas,32,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Monica E.,Yamamoto,33,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Thomas M.,Vogt,82,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Merwyn R.,Greenlick,83,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Jack,Hollis,84,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Victor,Stevens,85,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Jerome D.,Cohen,1,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Mildred,Mattfeldt-Beman,87,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Connie,Brinkmann,88,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Katherine,Roth,89,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Lana,Shepek,90,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Charles H.,Hennekens,91,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Julie,Buring,36047010400,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Nancy,Cook,7202992021,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Ellie,Danielson,92,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Kim,Eberlein,93,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,David,Gordon,94,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Patricia,Hebert,95,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Jean,MacFadyen,96,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Sherry,Mayrent,97,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Bernard,Rosner,98,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Suzanne,Satterfield,99,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Heather,Tosteson,100,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Martin Van,Denburgh,101,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Jeffrey A.,Cutler,7102422991,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Erica,Brittain,102,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Marilyn,Farrand,103,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Peter,Kaufmann,104,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Ed,Lakatos,105,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Eva,Obarzanek,7006694590,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,John,Belcher,106,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Andrea,Dommeyer,107,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Ivan,Mills,108,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Peggy,Neibling,109,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Margo,Woods,110,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,B.J. Kremen,Goldman,111,Hypertension Prevention Trial Research Group,TRUE
+32,The effects of nonpharmacologic interventions on blood pressure of persons with high normal levels,Elaine,Blethen,112,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Paul K.,Whelton,7102422991,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Lawrence,Appel,7102658830,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Jeanne,Charleston,5,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Arlene,Dalcin,40,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Jennifer,Haythornthwaite,113,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Wendie,Rosofsky,114,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Karen,Wanek,115,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",W. Gordon,Walker,46,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Charlotte,Bragg,116,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Mona,Fouad,117,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Yvonne,Krekeler,118,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Anne,Owens,119,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",James,Raczynski,49,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Janet,Raines,17,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Delia,Smith,120,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Lorna,Beiden,121,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Ang??lique,Salonga,122,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Trina,Guly,123,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Marian,Millstone,124,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Tracy,Smith,125,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Joe,Salonga,126,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Lena Ardell,Hinton,127,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Nancy,King,128,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Kent A.,Kirchner,129,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Cynthia,Sadler,130,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Thomas,Payne,131,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Catherine,Adair,132,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Carla,Russell,133,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Jennifer,Graham,134,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Iris,Isaacs,135,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Mary E.,Cameron,67,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",William B.,Applegate,7004891687,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Julie,Bottom,136,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Amy,Brewer,69,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Mace,Coday,137,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Beth,Jensen,138,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Carla,Miller,139,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Stephen T.,Miller,71,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Judy,Randle,73,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Laretha Goodwin,Randolph,140,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Debbi,Slawson,141,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Beverly,Sousoulas,142,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Jay,Sullivan,74,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Vera I.,Lasser,80,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",David M.,Batey,76,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Lee,Dolan,77,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Rhonda,Greenberg,143,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Paulette,McMillan,144,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Lana,Olsson,145,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Susan,Ritter,146,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Bali,Singh,147,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Robert,Schultz,148,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Arlene W.,Caggiula,31,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",N. Carole,Milas,32,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Monica,Yamamoto,33,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Fran,Averbach,149,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Mary Anne,Biagetti,150,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Janet,Bonk,151,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Debbie,Cusick,152,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Marge,Geason,153,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Bonnie,Gillis,154,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Ed,Gregg,155,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Barbara,Haggerty,156,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Beth,Hall,157,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Piera,Kost,158,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Marcella,Link,159,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Kim,Lucas,160,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Peg,Meyer,161,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Bobbie,Moyer,162,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Joan,Procopio,163,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Laurey,Simkin-Silverman,164,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Elaine,Stano,165,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Mary Hellen,Turek,166,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Charlene,Walters,167,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Steve,Berg-Smith,168,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Shirley,Craddick,169,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Denise,Ernst,170,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Stephanie,Hertert,171,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Elizabeth,Packer,172,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Luanna,Diller,173,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Victor,Stevens,85,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Thomas M.,Vogt,82,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Judy,Wick,174,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Mildred,Mattfeldt-Beman,87,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Jane,Finn,175,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Ethel,Frese,176,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Al,Fressola,177,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Tricia,Gerhard,178,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Susan,Lukwago,179,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Lana,Shepek,90,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Carol,Weand,180,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Charles H.,Hennekens,91,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Nemat O.,Borhani,18,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Julie,Buring,36047010400,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Marilyn,Chown,181,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",William,Christen,182,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Nancy,Cook,7202992021,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Ellie,Danielson,92,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Patricia,Hebert,95,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Shiriki,Kumanyika,35380806400,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",I-Min,Lee,193,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Jean,MacFadyen,96,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Elizabeth,Reilly,194,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Bernard,Rosner,98,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",James O.,Taylor,60,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Martin Van,Denburgh,101,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Jeffrey A.,Cutler,7102422991,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",P. Scott,Allender,195,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Marguerite,Evans,196,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Dean,Follmann,197,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Eva,Obarzanek,7006694590,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Jennifer,Hayes,198,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Ivan,Mills,108,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Margo,Woods,110,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Elaine,Blethen,112,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Ann,LaBrode,199,Hypertension Prevention Trial Research Group,TRUE
+38,"Effects of weight loss and sodium reduction intervention on blood pressure and hypertension incidence in overweight people with high-normal blood pressure - The trials of hypertension prevention, phase II",Andrea,Dommeyer,107,Hypertension Prevention Trial Research Group,TRUE
