@@ -64,3 +64,10 @@ Exposure/Intervention - Exposures/Interventions to include, per inclusion criter
 outcome - Study outcomes required for inclusion, per inclusion criteria
 Language restriction - Report languages to include, per inclusion criteria
 follow-up period - Follow-up period required for inclusion, per inclusion criteria
+
+DIFFERENCES BETWEEN THIS VERSION AND THE PREVIOUS ONE
+- The file Article_attr.csv was removed due to redundancy. The file article_list.csv contains all information.
+- A new file salt_cont_author.csv was added
+- Corrected two mistakes in article_list.csv, and change all column names to lower cases for consistency.
+- A new column, "study_design" was added to article_list.csv
+ 
