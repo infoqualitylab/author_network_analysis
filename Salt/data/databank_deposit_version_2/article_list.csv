@@ -1,4 +1,4 @@
-ID,paper assigned ID,Type,Study Groupings,Title,year,Attitude,Doi,Retracted (Y/N),StudyDesign
+ID,short_name,type,study_groupings,title,year,attitude,doi,retracted(Y/N),study_design
 1,Hooper2002,Systematic Review,,Systematic review of long term effects of advice to reduce dietary salt in adults,2002,inconclusive,10.1136/bmj.325.7365.628,,Systematic Review
 2,Hooper2003,Systematic Review,,Reduced dietary salt for prevention of cardiovascular disease,2003,inconclusive,10.1002/14651858.CD003656,,Systematic Review
 3,Hooper2004,Systematic Review,,Advice to reduce dietary salt for prevention of cardiovascular disease,2004,inconclusive,10.1002/14651858.CD003656.pub2,,Systematic Review
