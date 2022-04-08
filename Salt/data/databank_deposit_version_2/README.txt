@@ -1,3 +1,7 @@
+
+Title: XXXX
+Author: Yuanxi Fu, Tzu-Kun Hsiao, Manasi Ballal Joshi
+
 Related Article 	
 Trinquart, L., Johns, D. M., & Galea, S. (2016). Why do we think we know what we know? A metaknowledge analysis of the salt controversy. International Journal of Epidemiology, 45(1), 251–260. https://doi.org/10.1093/ije/dyv184
 
