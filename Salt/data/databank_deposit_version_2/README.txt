@@ -71,3 +71,5 @@ DIFFERENCES BETWEEN THIS VERSION AND THE PREVIOUS ONE
 - Corrected two mistakes in article_list.csv, and change all column names to lower cases for consistency.
 - A new column, "study_design" was added to article_list.csv
 - Acronyms "Group, H. P. T. R" and "Group, T. of H. P. C. R." were corrected to "Hypertension Prevention Trial Research Group" in "Supplementary Reference List.pdf."
+
+Completion date: April 8, 2022
