@@ -1,5 +1,5 @@
 
-Title: XXXX
+Title: Evidence Production and Reuse for the Salt Controvery
 Author: Yuanxi Fu, Tzu-Kun Hsiao, Manasi Ballal Joshi
 
 Related Article 	
@@ -8,8 +8,12 @@ Trinquart, L., Johns, D. M., & Galea, S. (2016). Why do we think we know what we
 Related Article 	
 Hsiao, T. K., Fu, Y., & Schneider, J. (accepted). Visualizing evidence-based disagreement over time: the landscape of a public health controversy 2002-2014 [Short paper]. 83rd Annual Meeting of the Association for Information Science and Technology.
 
+Related Dataset
+Fu, Yuanxi; Hsiao, Tzu-Kun (2020): Dataset for "Visualizing evidence-based disagreement over time: the landscape of a public health controversy 2002-2014". University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-9222782_V1
+
 Dataset Description
-This is a network of 14 systematic reviews on the salt controversy and their included studies. Each edge in the network represents an inclusion from one systematic review to an article. Systematic reviews were collected from Trinquart (Trinquart, L., Johns, D. M., & Galea, S. (2016). Why do we think we know what we know? A metaknowledge analysis of the salt controversy. International Journal of Epidemiology, 45(1), 251–260. https://doi.org/10.1093/ije/dyv184 ).
+This dataset covers 14 systematic reviews and 67 primary study articles concerning the salt controversy (i.e., whether a population-level salt reduction is beneficial). Systematic reviews and primary studies, as well as their opinion classification (for, against, and inconclusive) were collected from Trinquart (Trinquart, L., Johns, D. M., & Galea, S. (2016). Why do we think we know what we know? A metaknowledge analysis of the salt controversy. International Journal of Epidemiology, 45(1), 251–260. https://doi.org/10.1093/ije/dyv184). Systematic reviews were published between 2002 and 2014, and primary study articles were published between 1978 and 2014. If a systematic review i include a primary study article j, the network will contain a directed edge from i to j.  
+We collected additional data on these 81 articles, including their authors (disambiguated) and inclusion criteria. 
 
 FILE FORMATS
 1) article_list.csv - Unicode CSV
@@ -39,7 +43,7 @@ year - Publication year of the paper
 attitude - Scientific opinion about the salt controversy from Trinquart et al. (2016)
 doi - DOIs of the paper. (if applicable, otherwise blank)
 retracted(Y/N) - Whether the paper was retracted or withdrawn (Y). Blank if not retracted or withdrawn.
-study_design - The study design of an article, which takes the following values: 
+study_design - The study design of an article, which takes the following values: Case Control, Cohort, Systematic Review, and RCT
 
 2) salt_cont_author.csv: 
 ID - numeric ID of the paper
