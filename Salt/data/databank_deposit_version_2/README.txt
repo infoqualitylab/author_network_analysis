@@ -15,7 +15,7 @@ Fu, Yuanxi; Hsiao, Tzu-Kun (2020): Dataset for "Visualizing evidence-based disag
 
 Dataset Description
 This dataset covers 14 systematic reviews and 68 primary study articles concerning the salt controversy (i.e., whether a population-level salt reduction is beneficial). Systematic reviews and primary studies, as well as their opinion classification (for, against, and inconclusive) were collected from Trinquart (Trinquart, L., Johns, D. M., & Galea, S. (2016). Why do we think we know what we know? A metaknowledge analysis of the salt controversy. International Journal of Epidemiology, 45(1), 251–260. https://doi.org/10.1093/ije/dyv184). Systematic reviews were published between 2002 and 2014, and primary study articles were published between 1978 and 2014. If a systematic review i include a primary study article j, the network will contain a directed edge from i to j.  
-We collected additional data on these 81 articles, including their authors (disambiguated) and inclusion criteria of the systematic reviews. 
+We collected additional data on these 82 articles, including their authors (disambiguated) and inclusion criteria of the systematic reviews. 
 
 FILE FORMATS
 1) article_list.csv - Unicode CSV
