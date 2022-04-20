@@ -31,7 +31,7 @@ ID,short_name,type,study_groupings,title,year,attitude,doi,retracted(Y/N),study_
 41,NHANESI1998,Primary Study Report,,Dietary sodium intake and mortality: the National Health and Nutrition Examination Survey (NHANES I),1998,against,10.1016/S0140-6736(97)09092-2,,Cohort
 42,TONEWhelton1998,Primary Study Report,S3,Sodium reduction and weight loss in the treatment of hypertension in older persons - A randomized controlled trial of nonpharmacologic interventions in the elderly (TONE),1998,for,10.1001/jama.279.11.839,,RCT
 43,TONEAppel2001,Primary Study Report,S3,Effects of reduced sodium intake on hypertension control in older individuals - Results from the trial of nonpharmacologic interventions in the elderly (TONE),2001,for,10.1001/archinte.161.5.685,,RCT
-44,Valkonen1998,Primary Study Report,,Sodium and potassium excretion and the risk of acute myocardial infarction,1998,against,,,Unknown
+44,Valkonen1998,Primary Study Report,,Sodium and potassium excretion and the risk of acute myocardial infarction,1998,against,,,Cohort
 45,He1999,Primary Study Report,S4,Dietary sodium intake and subsequent risk of cardiovascular disease in overweight adults,1999,for,10.1001/jama.282.21.2027,,Cohort
 46,He2002,Primary Study Report,S4,Dietary sodium intake and incidence of congestive heart failure in overweight US men and women,2002,for,10.1001/archinte.162.14.1619,,Cohort
 47,Tuomilehto2001,Primary Study Report,,Urinary sodium excretion and cardiovascular mortality in Finland: a prospective study,2001,for,10.1016/S0140-6736(00)04199-4,,Cohort
