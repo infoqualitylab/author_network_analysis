@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Manasi"
+  given-names: "Joshi"
+  orcid: "https://orcid.org/0000-0003-2176-4870"
+- family-names: "Yuanxi"
+  given-names: "Fu"
+  orcid: "https://orcid.org/0000-0003-2726-0999"
+title: "Salt Controvery and ExRx Datasets Author Network Visualization and Analysis"
+version: 1.0.0
+doi:
+date-released: 2022-05-16
+url: "https://github.com/infoqualitylab/author_network_analysis"
