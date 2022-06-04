@@ -13,13 +13,13 @@ The ExRx folder contains the below folders -
      - Final manual changes were made on the exrx_author_final.csv file and the dataset is in the folder **data/databank_deposit_v2** as of 4/9/2022.
       
   4. **CoAuthor Network Visualization** : The folder contains below two folders.
-    1. python_code - 
-       a. Generating co-author network.ipynb - A python script generates co-author visalizations (an entire graph and a main connected component graph. There are other tables that help understand the nodes and co-author network in a broader way. i.e. Degree centrality, betweness centrality, closeness_centrality, eigenvector_centrality, effective_size and top 10 authors with most number of co-authors.
-      b. edge_node_color_review_study_exrx.ipynb - Python script reading the data from authors and article list datasets. Replacing the different names of authors with same id with the same name. The visualizations are split into two **edge color** and **node color**. 
+     1. python_code - 
+        a. Generating co-author network.ipynb - A python script generates co-author visalizations (an entire graph and a main connected component graph. There are other tables that help understand the nodes and co-author network in a broader way. i.e. Degree centrality, betweness centrality, closeness_centrality, eigenvector_centrality, effective_size and top 10 authors with most number of co-authors.
+        b. edge_node_color_review_study_exrx.ipynb - Python script reading the data from authors and article list datasets. Replacing the different names of authors with same id with the same name. The visualizations are split into two **edge color** and **node color**. 
       **Edge color** - edge color displaying the review article percentage i.e. co-authors with 100% review or publisher 
       **Node color** - Calculated the review article type percent for each author i.e. node in the graph. Displays if the author/node of the graph is a 100% reviewer/publisher.
-      c. edge_node_color_publications_exrx.ipynb - Python script reading the data from authors and article list datasets. Replacing the different names of authors with same id with the same name. The difference is the authors included in the graph depends on the number of publications for each author. A threshold is set to 3 and authors with 3 or more publications are included in the graph as nodes. The visualizations are split into two **edge color** and **node color**. 
+        c. edge_node_color_publications_exrx.ipynb - Python script reading the data from authors and article list datasets. Replacing the different names of authors with same id with the same name. The difference is the authors included in the graph depends on the number of publications for each author. A threshold is set to 3 and authors with 3 or more publications are included in the graph as nodes. The visualizations are split into two **edge color** and **node color**. 
       **Edge color** - edge color displaying the review article percentage i.e. co-authors with 100% review or publisher 
       **Node color** - Calculated the review article type percent for each author i.e. node in the graph. Displays if the author/node of the graph is a 100% reviewer/publisher.
-   2. Visualizations - 
+    2. Visualizations - 
     Output for each generated graph/visualizations from the above mentioned python notebooks is present in this folder. 
