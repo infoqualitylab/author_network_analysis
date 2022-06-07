@@ -42,16 +42,16 @@ ID,short_name,type,study_groupings,title,year,attitude,doi,retracted(Y/N),study_
 52,NHANESII2006,Primary Study Report,,Sodium intake and mortality in the NHANES II follow-up study,2006,against,10.1016/j.amjmed.2005.10.042,,Cohort
 53,Geleijnse2007,Primary Study Report,,Sodium and potassium intake and risk of cardiovascular events and all-cause mortality: the Rotterdam Study,2007,against,10.1007/s10654-007-9186-2,,Cohort
 54,Li2007,Primary Study Report,,"Salt substitution: a low-cost strategy for blood pressure control among rural Chinese. A randomized, controlled trial",2007,for,10.1097/HJH.0b013e3282b9714b,,RCT
-55,TOHPI&IIfollow-upCook2007,Primary Study Report,S5,Long term effects of dietary sodium reduction on cardiovascular disease outcomes: observational follow-up of the trials of hypertension prevention (TOHP),2007,for,10.1136/bmj.39147.604896.55,,RCT
+55,TOHPI&IIfollow-upCook2007,Primary Study Report,S5,Long term effects of dietary sodium reduction on cardiovascular disease outcomes: observational follow-up of the trials of hypertension prevention (TOHP),2007,for,10.1136/bmj.39147.604896.55,,Cohort
 56,TOHPI&IIfollow-upCook2009,Primary Study Report,S5,"Joint effects of sodium and potassium intake on subsequent cardiovascular disease:the Trials of Hypertension Prevention follow-up study",2009,for,10.1001/archinternmed.2008.523,,Cohort
-57,TOHPI&IIfollow-upCook2014,Primary Study Report,S5,Lower levels of sodium intake and reduced cardiovascular risk,2014,for,10.1161/CIRCULATIONAHA.113.006032,,RCT
+57,TOHPI&IIfollow-upCook2014,Primary Study Report,S5,Lower levels of sodium intake and reduced cardiovascular risk,2014,for,10.1161/CIRCULATIONAHA.113.006032,,Cohort
 58,Larsson2008,Primary Study Report,,"Magnesium, calcium, potassium, and sodium intakes and risk of stroke in male smokers",2008,against,10.1001/archinte.168.5.459,,Cohort
 59,NHANESIII2008,Primary Study Report,,Sodium intake and mortality follow-up in the Third National Health and Nutrition Examination Survey (NHANES III),2008,against,10.1007/s11606-008-0645-6,,Cohort
 60,Paterna2008,Primary Study Report,,Normal-sodium diet compared with low-sodium diet in compensated congestive heart failure: is sodium an old enemy or a new friend?,2008,against,10.1042/CS20070193,,RCT
 61,Umesawa2008,Primary Study Report,,Relations between dietary sodium and potassium intakes and mortality from cardiovascular disease: the Japan Collaborative Cohort Study for Evaluation of Cancer Risks,2008,for,10.1093/ajcn/88.1.195,,Cohort
 62,Nakamura2009,Primary Study Report,,"A Japanese diet and 19-year mortality: National Integrated Project for Prospective Observation of Non-Communicable Diseases and its Trends in the Aged, 1980",2009,for,10.1017/S0007114508111503,,Cohort
 63,Parrinello2009,Primary Study Report,,Long-term effects of dietary sodium intake on cytokines and neurohormonal activation in patients with recently compensated congestive heart failure,2009,against,10.1016/j.cardfail.2009.06.002,,RCT
-64,Paterna2009,Primary Study Report,,"Medium term effects of different dosage of diuretic, sodium, and fluid administration on neurohormonal and clinical outcome in patients with recently compensated heart failure",2009,against,10.1016/j.amjcard.2008.08.043,,Cohort
+64,Paterna2009,Primary Study Report,,"Medium term effects of different dosage of diuretic, sodium, and fluid administration on neurohormonal and clinical outcome in patients with recently compensated heart failure",2009,against,10.1016/j.amjcard.2008.08.043,,RCT
 65,Dong2010,Primary Study Report,,Low dietary sodium intake increases the death risk in peritoneal dialysis,2010,against,10.2215/CJN.05410709,,Cohort
 66,Takachi2010,Primary Study Report,,Consumption of sodium and salted foods in relation to cancer and cardiovascular disease: the Japan Public Health Center-based Prospective Study,2010,for,10.3945/ajcn.2009.28587,,Cohort
 67,Tobari2010,Primary Study Report,,Physician-pharmacist cooperation program for blood pressure control in patients with hypertension: a randomized-controlled trial,2010,inconclusive,10.1038/ajh.2010.127,,RCT
@@ -59,7 +59,7 @@ ID,short_name,type,study_groupings,title,year,attitude,doi,retracted(Y/N),study_
 69,Ekinci2011,Primary Study Report,,Dietary salt intake and mortality in patients with type 2 diabetes,2011,against,10.2337/dc10-1723,,Cohort
 70,Kono2011,Primary Study Report,,Recurrence risk after noncardioembolic mild ischemic stroke in a Japanese population,2011,for,10.1159/000323233,,Cohort
 71,Lennie2011,Primary Study Report,,Three gram sodium intake is associated with longer event-free survival only in patients with advanced heart failure,2011,against,10.1016/j.cardfail.2010.11.008,,Cohort
-72,Lennie2007,Primary Study Report,,Abstract 2236: Three Gram Sodium Intake is Associated with Better Event-Free Survival Only in Patients with Advanced Heart Failure,2011,against,,,RCT
+72,Lennie2007,Primary Study Report,,Abstract 2236: Three Gram Sodium Intake is Associated with Better Event-Free Survival Only in Patients with Advanced Heart Failure,2011,against,,,Cohort
 73,Liang2011,Primary Study Report,,"Dietary Intake of Minerals and the Risk of Ischemic Stroke in Guangdong Province, China, 2007-2008",2011,for,,,Case Control
 74,O'Donnell2011,Primary Study Report,,Urinary sodium and potassium excretion and risk of cardiovascular events,2011,against,10.1001/jama.2011.1729,,Cohort
 75,Paterna2011,Primary Study Report,,Short-Term Effects of Hypertonic Saline Solution in Acute Heart Failure and Long-Term Effects of a Moderate Sodium Restriction in Patients With Compensated Heart Failure With New York Heart Association Class III (Class C) (SMAC-HF Study),2011,against,10.1097/MAJ.0b013e31820f10ad,,RCT
