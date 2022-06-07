@@ -22,7 +22,10 @@ The ExRx folder contains the below folders -
     - edge_node_color_publications_exrx.ipynb - Python script reading the data from authors and article list datasets. Replacing the different names of authors with same id with the same name. The difference is the authors included in the graph depends on the number of publications for each author. A threshold is set to 3 and authors with 3 or more publications are included in the graph as nodes. The visualizations are split into two **edge color** and **node color**. 
       **Edge color** - edge color displaying the review article percentage i.e. co-authors with 100% review or publisher 
       **Node color** - Calculated the review article type percent for each author i.e. node in the graph. Displays if the author/node of the graph is a 100% reviewer/publisher.
-    
+      
+  ***color for the graphs edge and node can be changed in the edge_cmap(edge) or cmap (node) section as mentioned in the comment for the code.***
+  
+  
   * Visualizations - 
     Output for each generated graph/visualizations from the above mentioned python notebooks is present in this folder.
     
@@ -47,6 +50,9 @@ The ExRx folder contains the below folders -
     - edge_node_color_publications_salt.ipynb - Python script reading the data from authors and article list datasets. Replacing the different names of authors with same id with the same name. The difference is the authors included in the graph depends on the number of publications for each author. A threshold is set to 3 and authors with 3 or more publications are included in the graph as nodes. The visualizations are split into two **edge color** and **node color**. 
       **Edge color** - edge color displaying the review article percentage i.e. co-authors with 100% review or publisher 
       **Node color** - Calculated the review article type percent for each author i.e. node in the graph. Displays if the author/node of the graph is a 100% reviewer/publisher.
+   
+    ***color for the graphs edge and node can be changed in the edge_cmap(edge) or cmap (node) section as mentioned in the comment for the code.***
+ 
     
   * Visualizations - 
     Output for each generated graph/visualizations from the above mentioned python notebooks is present in this folder.
