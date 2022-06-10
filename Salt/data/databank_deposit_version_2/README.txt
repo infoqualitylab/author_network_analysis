@@ -36,7 +36,7 @@ ROW EXPLANATIONS
  
 COLUMN HEADER EXPLANATIONS
 1) article_list.csv: ID - Numeric ID of the paper
-short_name - short name assigned to each paper by Trinquart et al. (2016), usually first author's last name + publication year
+short_name - Short name assigned to each paper by Trinquart et al. (2016), usually first author's last name + publication year
 type - Systematic review / primary study report
 study_groupings - Groupings for related primary study reports from the same report, from Trinquart et al. (2016) (if applicable, otherwise blank)
 title - Title of the paper
@@ -47,7 +47,7 @@ retracted(Y/N) - Whether the paper was retracted or withdrawn (Y). Blank if not 
 study_design - The study design of an article, which takes the following values: Case Control, Cohort, Systematic Review, and RCT
  
 2) salt_cont_author.csv: 
-ID - numeric ID of the paper
+ID - Numeric ID of the paper
 title - Title of the paper
 author_given_name - The given name of the author
 author_surname - The surname of the author
@@ -60,31 +60,31 @@ citing_ID - The numeric ID of a systematic review report
 cited_ID - The numeric ID of the included article
  
 4) potential_inclusion_link.csv:
-This data was translated from the Sankey diagram given in Trinquart et al. (2016) as Web Figure 4. Each row indicates a systematic review report, and each column indicates a primary study. In the matrix, "p" indicates that a given primary study had been published as of the search date of a given systematic review report.
+This data was translated from Web Figure 4 in the data supplement of Trinquart et al. (2016). Each row indicates a systematic review report, and each column indicates a primary study. In the matrix, "p" indicates that a given primary study had been published as of the search date of a given systematic review report.
  
 5)systematic_review_inclusion_criteria.csv:
-ID - The numeric IDs of systematic review reports
-short_name - ID of the paper from Trinquart et al. (2016)
-attitude - Its scientific opinion about the salt controversy from Trinquart et al. (2016)
-no_of_studies_included - number of studies included in the systematic review report
-no_of_articles_included – Number of articles included in the systematic review report
-article_included_in_Trinquart_data – Number of articles included in the Trinquart dataset
-study_design - Study designs to include, per inclusion criteria, as described in the article
-study_design_unified – unified coding for the study_design, reduced from study_design column
-population - Populations to include, per inclusion criteria, as described in the article
-population_unified – unified coding for population, reduced from population column
-exposure_intervention - Exposures/Interventions to include, per inclusion criteria, as described in the article
-exposure_intervention_unified – unified coding for exposure/intervention, reduced from the "exposure_intervention" column. 
+ID - The numeric IDs of systematic review reports.
+short_name - ID of the paper from Trinquart et al. (2016).
+attitude - Its scientific opinion about the salt controversy from Trinquart et al. (2016). We corrected the classification of two SRRs, Graudal 2014 (from “for” to “against”) and Poggio 2014 (from “against” to “for”), whose “statements” based on which “judgment” was made were mistakenly swapped in Web Table 2 of the supplement. 
+no_of_studies_included - Number of studies included in the systematic review report.
+no_of_articles_included – Number of articles included in the systematic review report.
+article_included_in_Trinquart_data – Number of articles included in the Trinquart dataset.
+study_design - Study designs to include, per inclusion criteria, as described in the article.
+study_design_unified – Unified coding for the study_design, reduced from study_design column.
+population - Populations to include, per inclusion criteria, as described in the article.
+population_unified – Unified coding for population, reduced from population column.
+exposure_intervention - Exposures/Interventions to include, per inclusion criteria, as described in the article.
+exposure_intervention_unified – Unified coding for exposure/intervention, reduced from the "exposure_intervention" column. 
 outcome - Study outcomes required for inclusion, per inclusion criteria, as described in the article. 
 Language_restriction - Report languages to include, per inclusion criteria. We did not reduce "outcome" to codes like previous columns because outcomes are too heterogeneous to be reduced.
 Follow_up_period - Follow-up period required for inclusion, per inclusion criteria, as described in the article. 
-Follow_up_period_unified – unified coding for follow-up period, reduced from te “follow_up_period” column. 
-Notes – notes about each entry
+Follow_up_period_unified – Unified coding for follow-up period, reduced from te “follow_up_period” column. 
+Notes – Notes about each entry.
 
 DIFFERENCES BETWEEN THIS DATASET AND RELATED DATASET (Fu and Hsiao, 2020)
 - The file Article_attr.csv was removed due to redundancy. The file article_list.csv contains all information.
 - A new file salt_cont_author.csv was added
-- Corrected two mistakes in article_list.csv, and change all column names to lower cases for consistency.
+- Corrected a couple of mistakes in article_list.csv, and change all column names to lower cases for consistency.
 - A new column, "study_design" was added to article_list.csv
 - Acronyms "Group, H. P. T. R" and "Group, T. of H. P. C. R." were corrected to "Hypertension Prevention Trial Research Group" in "Supplementary Reference List.pdf."
 - The edge list file "inclusion_net_edges.csv" was verified and corrected for a couple of mistakes.
