@@ -23,6 +23,7 @@ FILE FORMATS
 4) potential_inclusion_link.csv - Unicode CSV
 5) systematic_review_inclusion_criteria.csv - Unicode CSV
 6) Supplementary Reference List.pdf - PDF
+6) inclusion_net_edges_trinquart.csv - Unicode CSV
  
 ROW EXPLANATIONS
 1) article_list.csv - Each row describes a systematic review report or included article.
@@ -31,6 +32,7 @@ ROW EXPLANATIONS
 4) potential_inclusion_link.csv - Each row shows the available evidence base of a systematic review report.
 5) systematic_review_inclusion_criteria.csv - Each row is the inclusion criteria of a systematic review report.
 6) Supplementary Reference List.pdf - Each item is a bibliographic record of a systematic reviewreport/included primary study article.
+7) inclusion_net_edges_trinquart.csv - Each row represents an inclusion from a systematic review report to an article.
  
 COLUMN HEADER EXPLANATIONS
 1) article_list.csv: ID - Numeric ID of the paper
@@ -55,7 +57,7 @@ manual - If TRUE, the author information was extracted manually. If FALSE, the a
  
 3) inclusion_net_edges.csv:
 citing_ID - The numeric ID of a systematic review report
-cited_ID - The numeric ID of the included articles
+cited_ID - The numeric ID of the included article
  
 4) potential_inclusion_link.csv:
 This data was translated from the Sankey diagram given in Trinquart et al. (2016) as Web Figure 4. Each row indicates a systematic review report and each column indicates a primary study. In the matrix, "p" indicates that a given primary study had been published as of the search date of a given systematic review report.
@@ -88,17 +90,18 @@ DIFFERENCES BETWEEN THIS DATASET AND RELATED DATASET (Fu and Hsiao, 2020)
 - The edge list file "inclusion_net_edges.csv" was verified and corrected for a couple of mistakes.
 - A new file, "inclusion_net_edges_trinquart.csv" was added to record the edge list constructed by Trinquart et al., (2016), based on Web Figure 4 in the supplementary data file. Differences between "inclusion_net_edges.csv" and "inclusion_net_edges_trinquart.csv" is explained in the next section.
 
+7) inclusion_net_edges_trinquart.csv:
+citing_ID - The numeric ID of a systematic review report
+cited_ID - The numeric ID of the included article
+
 DIFFERENCES BETWEEN "INCLUION_NET_EDGES.CSV" AND "INCLUSION_NET_EDGES_TRINQUART.CSV"
 SRR1: identical
-
 SRR2: identical
-
 SRR3: identical
 
 SRR4: Web Figure 4 has 15 edges, our edge list has 13 edges. The differences are: 2-->34 and 2-->56. Articles 34 and 56 were not found as included study articles in SRR4.
 
 SRR5: identical
-
 SRR6: identical
 
 SRR7: Web Figure 4 has 13 edges, our edge list has 12 edges. Web Figure 4 has additional edges 2 --> 34. Article 34 were not found as an included study article in the SR.
