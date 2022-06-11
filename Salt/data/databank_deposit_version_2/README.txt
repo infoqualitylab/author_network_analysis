@@ -65,7 +65,7 @@ This data was translated from Web Figure 4 in the data supplement of Trinquart e
 5)systematic_review_inclusion_criteria.csv:
 ID - The numeric IDs of systematic review reports.
 short_name - ID of the paper from Trinquart et al. (2016).
-attitude - Its scientific opinion about the salt controversy from Trinquart et al. (2016). We corrected the classification of two SRRs, Graudal 2014 (from “for” to “against”) and Poggio 2014 (from “against” to “for”), whose “statements” based on which “judgment” was made were mistakenly swapped in Web Table 2 of the supplement. 
+attitude - Its scientific opinion about the salt controversy from Trinquart et al. (2016)s.
 no_of_studies_included - Number of studies included in the systematic review report.
 no_of_articles_included – Number of articles included in the systematic review report.
 article_included_in_Trinquart_data – Number of articles included in the Trinquart dataset.
@@ -84,8 +84,8 @@ Notes – Notes about each entry.
 DIFFERENCES BETWEEN THIS DATASET AND RELATED DATASET (Fu and Hsiao, 2020)
 - The file Article_attr.csv was removed due to redundancy. The file article_list.csv contains all information.
 - A new file salt_cont_author.csv was added
-- Corrected a couple of mistakes in article_list.csv, and change all column names to lower cases for consistency.
-- A new column, "study_design" was added to article_list.csv
+- Corrected a couple of mistakes in article_list.csv, and change all column names to lower cases for consistency. In particular, We corrected the classification of two SRRs, Graudal 2014 (from “for” to “against”) and Poggio 2014 (from “against” to “for”), whose “statements” based on which “judgment” was made were mistakenly swapped in Web Table 2 of the supplement. 
+- A new column, "study_design" was added to article_list.csv.
 - Acronyms "Group, H. P. T. R" and "Group, T. of H. P. C. R." were corrected to "Hypertension Prevention Trial Research Group" in "Supplementary Reference List.pdf."
 - The edge list file "inclusion_net_edges.csv" was verified and corrected for a couple of mistakes.
 - A new file, "inclusion_net_edges_trinquart.csv" was added to record the edge list constructed by Trinquart et al., (2016), based on Web Figure 4 in the supplementary data file. Differences between "inclusion_net_edges.csv" and "inclusion_net_edges_trinquart.csv" is explained in the next section.
@@ -128,3 +128,4 @@ Web Figure 4 has 14 --> 33, and our edge list has 14 --> 52 instead.
 Reason: 
 Article 33 was not found as an included study article in SRR14. It was excluded (figure 2)
 Article 52 was an included study article in SRR14. 
+
