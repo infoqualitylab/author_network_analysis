@@ -8,7 +8,7 @@ Related Article
 Trinquart, L., Johns, D. M., & Galea, S. (2016). Why do we think we know what we know? A metaknowledge analysis of the salt controversy. International Journal of Epidemiology, 45(1), 251–260. https://doi.org/10.1093/ije/dyv184
  
 Related Article 	
-Hsiao, T. K., Fu, Y., & Schneider, J. Visualizing evidence-based disagreement over time: the landscape of a public health controversy 2002-2014 [Short paper]. 83rd Annual Meeting of the Association for Information Science and Technology. In Proceedings of the Association for Information Science and Technology Volume 57, Issue 1:e315 http://doi.org/https://doi.org/10.1002/pra2.315 Preprint: http://jodischneider.com/pubs/asist2020.pdf
+Hsiao, T. K., Fu, Y., & Schneider, J. Visualizing evidence-based disagreement over time: the landscape of a public health controversy 2002-2014 [Short report]. 83rd Annual Meeting of the Association for Information Science and Technology. In Proceedings of the Association for Information Science and Technology Volume 57, Issue 1:e315 http://doi.org/https://doi.org/10.1002/pra2.315 Preprint: http://jodischneider.com/pubs/asist2020.pdf
  
 Related Dataset
 Fu, Yuanxi; Hsiao, Tzu-Kun (2020): Dataset for "Visualizing evidence-based disagreement over time: the landscape of a public health controversy 2002-2014". University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-9222782_V1
@@ -19,40 +19,40 @@ The salt controversy is the public health debate about whether a population-leve
 FILES AND FILE FORMATS
 1) article_list.csv - Unicode CSV
 2) salt_cont_author.csv - Unicode CSV
-3) inclusion_net_edges.csv - Unicode CSf
+3) inclusion_net_edges.csv - Unicode CSV
 4) potential_inclusion_link.csv - Unicode CSV
 5) systematic_review_inclusion_criteria.csv - Unicode CSV
 6) Supplementary Reference List.pdf - PDF
 6) inclusion_net_edges_trinquart.csv - Unicode CSV
  
 ROW EXPLANATIONS
-1) article_list.csv - Each row describes a systematic review report or included primary study article.
+1) article_list.csv - Each row describes a systematic review report or a primary study report.
 2) salt_cont_author.csv - Each row is an occurrence of one author authoring an article.
-3) inclusion_net_edges.csv - Each row represents an inclusion from a systematic review report to an article.
-4) potential_inclusion_link.csv - Each row shows the available evidence base of a systematic review report.
+3) inclusion_net_edges.csv - Each row represents an inclusion from a systematic review report to a primary study report.
+4) potential_inclusion_link.csv - A matrix showing systematic reviews in columns and primary studies in rows.  Cells with "p" denote where primary study reports were potentially eligible for systematic review reports, according to the publication date of the primary studies and the dates of last search in systematic reviews. This data was collected from Trinquart et al. (2016). 
 5) systematic_review_inclusion_criteria.csv - Each row is the inclusion criteria of a systematic review report.
-6) Supplementary Reference List.pdf - Each item is a bibliographic record of a systematic review report or included primary study article.
-7) inclusion_net_edges_trinquart.csv - Each row represents an inclusion from a systematic review report to a primary study article.
+6) Supplementary Reference List.pdf - Each item is a bibliographic record of a systematic review report or included primary study report.
+7) inclusion_net_edges_trinquart.csv - Each row represents an inclusion from a systematic review report to a primary study report.
  
 COLUMN HEADER EXPLANATIONS
-1) article_list.csv: ID - Numeric ID of the paper
-short_name - Short name assigned to each paper by Trinquart et al. (2016), usually first author's last name + publication year
+1) article_list.csv: ID - Numeric ID of the report
+short_name - Short name assigned to each report by Trinquart et al. (2016), usually first author's last name + publication year
 type - Systematic review report/ primary study report
 study_groupings - Groupings for related primary study reports from the same report, from Trinquart et al. (2016) (if applicable, otherwise blank)
-title - Title of the paper
-year - Publication year of the paper
+title - Title of the report
+year - Publication year of the report
 attitude - Scientific opinion about the salt controversy from Trinquart et al. (2016)
-doi - DOIs of the paper (if applicable, otherwise blank)
-retracted(Y/N) - Y if the paper was retracted or withdrawn. Blank if the paper was not retracted or withdrawn.
-study_design - The study design of an article, which takes the following values: Case Control, Cohort, Systematic Review, and RCT
+doi - DOIs of the report (if applicable, otherwise blank)
+retracted(Y/N) - Y if the report was retracted or withdrawn. Blank if the report was not retracted or withdrawn.
+study_design - The study design of an article, which takes the following values: Case Control Study, Cohort Study, Systematic Review, and Randomized Controlled Trial. 
  
 2) salt_cont_author.csv: 
-ID - Numeric ID of the paper
-title - Title of the paper
+ID - Numeric ID of the report
+title - Title of the report
 author_given_name - The given name of the author
 author_surname - The surname of the author
 author_id - Unique identifier of the author, either from Scopus Author ID or assigned by us.
-organizational_author - If a paper is published under the name of an organization, it is stored in this column. 
+organizational_author - If a report is published under the name of an organization, it is stored in this column. 
 Manual - If TRUE, the author information was extracted manually. If FALSE, the author information was retrieved from the Scopus citation database. 
  
 3) inclusion_net_edges.csv:
@@ -64,7 +64,7 @@ This data was translated from Web Figure 4 in the data supplement of Trinquart e
  
 5)systematic_review_inclusion_criteria.csv:
 ID - The numeric IDs of systematic review reports.
-short_name - ID of the paper from Trinquart et al. (2016).
+short_name - ID of the report from Trinquart et al. (2016).
 attitude - Its scientific opinion about the salt controversy from Trinquart et al. (2016)s.
 no_of_studies_included - Number of studies included in the systematic review report.
 no_of_articles_included – Number of articles included in the systematic review report.
