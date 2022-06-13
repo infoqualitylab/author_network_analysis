@@ -60,7 +60,7 @@ citing_ID - The numeric ID of an SSR
 cited_ID - The numeric ID of a PSR
  
 4) potential_inclusion_link.csv:
-This data was translated from Web Figure 4 in the data supplement of Trinquart et al. (2016). Each row indicates a systematic review report, and each column indicates a primary study. In the matrix, "p" indicates that a given primary study had been published as of the search date of a given systematic review report.
+This data was translated from Trinquart's edge list in the data supplement of Trinquart et al. (2016). Each row indicates a systematic review report, and each column indicates a primary study. In the matrix, "p" indicates that a given primary study had been published as of the search date of a given systematic review report.
  
 5)systematic_review_inclusion_criteria.csv:
 ID - The numeric IDs of systematic review reports.
@@ -89,43 +89,46 @@ DIFFERENCES BETWEEN THIS DATASET AND RELATED DATASET (Fu and Hsiao, 2020 https:/
 - A new column, "study_design" was added to report_list.csv.
 - Acronyms "Group, H. P. T. R" and "Group, T. of H. P. C. R." were corrected to "Hypertension Prevention Trial Research Group" in Supplementary Reference List.pdf.
 - The edge list file (inclusion_net_edges.csv) was verified and corrected for a couple of mistakes.
-- A new file inclusion_net_edges_trinquart.csv was added to record the adjacency matrix constructed by Trinquart et al. (2016), based on their Web Figure 4 in their supplementary data file. Differences between inclusion_net_edges.csv and inclusion_net_edges_trinquart.csv are explained in the next section.
+- A new file inclusion_net_edges_trinquart.csv was added to record the adjacency matrix constructed by Trinquart et al. (2016), based on their Trinquart's edge list in their supplementary data file. Differences between inclusion_net_edges.csv and inclusion_net_edges_trinquart.csv are explained in the next section.
 
 7) inclusion_net_edges_trinquart.csv:
 citing_ID - The numeric ID of an SRR.
 cited_ID - The numeric ID of a PSR.
 
 DIFFERENCES BETWEEN INCLUSION_NET_EDGES.CSV AND INCLUSION_NET_EDGES_TRINQUART.CSV
+
+Note: inclusion_net_edges_trinquart.csv will be referred as "Trinquart's edge list" from now on. It is translate from Web Figure 4 of Trinquart et al. (2016). Inclusion_net_edges.csv will be reffered to as "our edge list" from now on. 
+
 SRR1: identical
 SRR2: identical
 SRR3: identical
 
-SRR4: Web Figure 4 has 15 edges, and our edge list has 13 edges. The differences are 2-->34 and 2-->56. PSR34 and PSR56 were not found as included PSRs in SRR4.
+SRR4: Trinquart's edge list has 15 edges, and our edge list has 13 edges. Trinuart's edge list has addtional edges 2-->34 and 2-->56. We did not find PSR34 and PSR56 as included PSRs in SRR4.
 
 SRR5: identical
 SRR6: identical
 
-SRR7: Web Figure 4 has 13 edges, and our edge list has 12 edges. Web Figure 4 has additional edges 2 --> 34. PSR34 was not found as a included PSR in SRR7.
+SRR7: Trinquart's edge list has 13 edges, and our edge list has 12 edges. Trinquart's edge list has additional edges 2 --> 34. We did not find PSR34 as a included PSR in SRR7.
 
-SRR8: Web Figure 4 has 23 edges, and our edge list has 21 edges. Web Figure 4 has additional edges 2-->34 and 2-->43, and PSR34 and PSR43 were not found as included PSRs in SRR8.
+SRR8: Trinquart's edge list has 23 edges, and our edge list has 21 edges. Trinquart's edge list has additional edges 2-->34 and 2-->43. We did not find PSR34 and PSR43 as included PSRs in SRR8.
 
-SRR9: Web Figure 4 has 23 edges, and our edge list has 21 edges. Web Figure 4 has additional edges 2-->34 and 2-->43, and PSR34 and PSR43 were not found as included PSRs in SRR8.
+SRR9: Trinquart's edge list has 23 edges, and our edge list has 21 edges. Trinquart's edge list has additional edges 2-->34 and 2-->43. We did not find PSR34 and PSR43 as included PSRs in SRR8.
 
 SRR10: identical
 
-SRR11: Web Figure 4 has 26 edges, and our edge list has 27 edges. Our edge list has an additional edge 11 --> 75, PSR75 was found as an included PSR in SR11 (see Table F-4 of SRR11).
+SRR11: Trinquart's edge list has 26 edges, and our edge list has 27 edges. Our edge list has an additional edge 11 --> 75. We found PSR75 as an included PSR in SR11 (see Table F-4 of SRR11).
 
 SRR12: identical
 
-SRR13: Web Figure 4 has 28 edges, and our edge list has 26 edges. The differences:
-- our edge list has 13 --> 46, 13 --> 76 that are not in the Web Figure 4. 
-- Web Figure 4 has: 13 --> 34, 13 --> 42, 13 --> 55 that are not in the edge list.
+SRR13: Trinquart's edge list has 28 edges, and our edge list has 26 edges. The differences:
+- our edge list has 13 --> 46, 13 --> 76 that are not in the Trinquart's edge list. 
+- Trinquart's edge list has: 13 --> 34, 13 --> 42, 13 --> 55 that are not in the edge list.
 Reason:
-PSR46 and PSR76 were found as included PSRs in SRR13.
-PSR34, PSR42, and PSR55 were not found as included PSRs in SRR13. PSR55 met the inclusion criteria. However, since it is a report reporting a randomized controlled trial (RCT) study and two RCT studies were identified. The analysis of RCTs were abandoned, and did not contribute to the final conclusion reached by SRR13.   
+We found PSR46 and PSR76 as included PSRs in SRR13.
+We did not find PSR34, PSR42, and PSR55 as included PSRs in SRR13. In particular, PSR55 met the inclusion criteria. However, since it is a report reporting a randomized controlled trial (RCT) study and two RCT studies were identified. The analysis of RCTs were abandoned, and PSR55 did not contribute to evidence synthesis and the final conclusion reached by SRR13.   
 
-SRR14: Web Figure 4 has 11 edges, and our edge list has 11 edges too. The difference:
-Web Figure 4 has 14 --> 33, and our edge list has 14 --> 52 instead. 
+SRR14: Trinquart's edge list has 11 edges, and our edge list has 11 edges too. The difference:
+Trinquart's edge list has 14 --> 33, and our edge list has 14 --> 52 instead. 
 Reason: 
-PSR33 was not found as an included PSR in SRR14. It was identified by excluded (see Figure 2 of SRR14)
-PSR52 was found as an included PSR in SRR14. 
+We did not find PSR33 as an included PSR in SRR14. It was identified by excluded (see Figure 2 of SRR14)
+We found PSR52 as an included PSR in SRR14. 
