@@ -81,19 +81,22 @@ Follow_up_period - Follow-up period required for inclusion, per inclusion criter
 Follow_up_period_unified – Unified coding for follow-up period, reduced from te “follow_up_period” column. 
 Notes – Notes about each entry.
 
+6) inclusion_net_edges_trinquart.csv:
+citing_ID - The numeric ID of an SRR.
+cited_ID - The numeric ID of a PSR.
+
 DIFFERENCES BETWEEN THIS DATASET AND RELATED DATASET (Fu and Hsiao, 2020 https://doi.org/10.13012/B2IDB-9222782_V1 )
 - The file Article_attr.csv was removed due to redundancy. The old file article_list.csv contains all information.
 - The file article_list.csv was renamed report_list.csv
+- The file "Supplementary Reference List.pdf" was renamed "supplementary_reference_list.pdf."
 - A new file salt_cont_author.csv was added
 - Corrected a couple of mistakes in report_list.csv, and change all column names to lower cases for consistency. In particular, we corrected the classification of two SRRs, Graudal 2014 (from “for” to “against”) and Poggio 2014 (from “against” to “for”), whose “statements” based on which “judgment” was made were mistakenly swapped in Web Table 2 of the supplement of Trinquart et al. 2016. 
 - A new column, "study_design" was added to report_list.csv.
-- Acronyms "Group, H. P. T. R" and "Group, T. of H. P. C. R." were corrected to "Hypertension Prevention Trial Research Group" in Supplementary Reference List.pdf.
+- Acronyms "Group, H. P. T. R" and "Group, T. of H. P. C. R." were corrected to "Hypertension Prevention Trial Research Group" in supplementary_reference_list.pdf.
 - The edge list file (inclusion_net_edges.csv) was verified and corrected for a couple of mistakes.
 - A new file inclusion_net_edges_trinquart.csv was added to record the adjacency matrix constructed by Trinquart et al. (2016), based on their Trinquart's edge list in their supplementary data file. Differences between inclusion_net_edges.csv and inclusion_net_edges_trinquart.csv are explained in the next section.
 
-7) inclusion_net_edges_trinquart.csv:
-citing_ID - The numeric ID of an SRR.
-cited_ID - The numeric ID of a PSR.
+
 
 DIFFERENCES BETWEEN INCLUSION_NET_EDGES.CSV AND INCLUSION_NET_EDGES_TRINQUART.CSV
 
