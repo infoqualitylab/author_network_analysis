@@ -27,7 +27,7 @@ FILES AND FILE FORMATS
  
 ROW EXPLANATIONS
 1) report_list.csv - Each row describes an SSR or a PSR.
-2) salt_cont_author.csv - Each row is an occurrence of one author authoring an article.
+2) salt_cont_author.csv - Each row is an occurrence of one author authoring a report.
 3) inclusion_net_edges.csv - Each row represents an inclusion of a PSR in an SRR.
 4) potential_inclusion_link.csv - A matrix showing systematic reviews in columns and primary studies in rows.  Cells with "p" denote where primary study reports were potentially eligible for systematic review reports, according to the publication date of the primary studies and the dates of last search in systematic reviews. This data was collected from Trinquart et al. (2016). 
 5) systematic_review_inclusion_criteria.csv - Each row is the inclusion criteria of a systematic review report.
@@ -67,17 +67,17 @@ ID - The numeric IDs of systematic review reports.
 short_name - ID of the report from Trinquart et al. (2016).
 attitude - Its scientific opinion about the salt controversy from Trinquart et al. (2016)s.
 no_of_studies_included - Number of studies included in the systematic review report.
-no_of_articles_included – Number of articles included in the systematic review report.
-article_included_in_Trinquart_data – Number of articles included in the Trinquart dataset.
-study_design - Study designs to include, per inclusion criteria, as described in the article.
+no_of_reports_included – Number of PSRs included in the systematic review report.
+report_included_in_Trinquart_data – Number of PSRs that are also included in the Trinquart dataset' 68 PSRs.
+study_design - Study designs to include, per inclusion criteria, as described in the SSR.
 study_design_unified – Unified coding for the study_design, reduced from study_design column.
-population - Populations to include, per inclusion criteria, as described in the article.
+population - Populations to include, per inclusion criteria, as described in the SSR.
 population_unified – Unified coding for population, reduced from population column.
-exposure_intervention - Exposures/Interventions to include, per inclusion criteria, as described in the article.
+exposure_intervention - Exposures/Interventions to include, per inclusion criteria, as described in the SSR.
 exposure_intervention_unified – Unified coding for exposure/intervention, reduced from the "exposure_intervention" column. 
-outcome - Study outcomes required for inclusion, per inclusion criteria, as described in the article. 
+outcome - Study outcomes required for inclusion, per inclusion criteria, as described in the SSR. 
 Language_restriction - Report languages to include, per inclusion criteria. We did not reduce "outcome" to codes like previous columns because outcomes are too heterogeneous to be reduced.
-Follow_up_period - Follow-up period required for inclusion, per inclusion criteria, as described in the article. 
+Follow_up_period - Follow-up period required for inclusion, per inclusion criteria, as described in the SSR. 
 Follow_up_period_unified – Unified coding for follow-up period, reduced from te “follow_up_period” column. 
 Notes – Notes about each entry.
 
