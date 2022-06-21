@@ -14,7 +14,7 @@ Related Dataset
 Fu, Yuanxi; Hsiao, Tzu-Kun (2020): Dataset for "Visualizing evidence-based disagreement over time: the landscape of a public health controversy 2002-2014". University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-9222782_V1
  
 Dataset Description
-The salt controversy is the public health debate about whether a population-level salt reduction is beneficial. This dataset covers 14 systematic review reports (SRRs) and 68 primary study reports (PSRs) addressing the effect of sodium intake on cerebrocardiovascular disease or mortality. The systematic review reports, primary study reports, and their opinion classification (for, against, and inconclusive) were collected from Trinquart et al. (2016) (Trinquart, L., Johns, D. M., & Galea, S. (2016). Why do we think we know what we know? A metaknowledge analysis of the salt controversy. International Journal of Epidemiology, 45(1), 251–260. https://doi.org/10.1093/ije/dyv184) as a snapshot of the status of the salt controversy as of September, 2014. 
+The salt controversy is the public health debate about whether a population-level salt reduction is beneficial. This dataset covers 14 systematic review reports (SRRs) and 68 primary study reports (PSRs) addressing the effect of sodium intake on cerebrocardiovascular disease or mortality. The systematic review reports, primary study reports, and their opinion classification (for, against, and inconclusive) were collected from Trinquart et al. (2016) (Trinquart, L., Johns, D. M., & Galea, S. (2016). Why do we think we know what we know? A metaknowledge analysis of the salt controversy. International Journal of Epidemiology, 45(1), 251–260. https://doi.org/10.1093/ije/dyv184) as a snapshot of the salt controversy as of September, 2014. 
 
 This dataset can be used to construct the inclusion network and the co-author network of the 82 SRRs and PSRs identifed by Trinquart et al. (2016). A PSR is "included" in an SRR if it is considered in the evidence sysnthesis of the SRR. Based on which PSRs are included in which SRRs, we can construct the inclusion network. The inclusion network is a bipartite network with two types of nodes: one type represents SSRs, and the other represents PSRs. In a inclusion network, if a SRR includes a PSR, there is a directed edge from the SRR to the PSR. The attribute file (report_list.csv) includes attributes of the 82 reports, and the edge list file (inclusion_net_edges.csv) contains the edge list of the inclusion network. Notably, 11 PSRs have never been included in any SRR in the dataset. They are unused PSRs. If visualized with the inclusion network, they will appear as isolated nodes. 
 
@@ -64,7 +64,7 @@ citing_ID - The numeric ID of an SSR
 cited_ID - The numeric ID of a PSR
  
 4) potential_inclusion_link.csv:
-This data was translated from Trinquart's edge list in the data supplement of Trinquart et al. (2016). Each row indicates a systematic review report, and each column indicates a primary study. In the matrix, "p" indicates that a given primary study had been published as of the search date of a given systematic review report.
+This data was translated from Web Figure 4 in the data supplement of Trinquart et al. (2016). Each row indicates a systematic review report, and each column indicates a primary study. In the matrix, "p" indicates that a given primary study had been published as of the search date of a given systematic review report.
  
 5)systematic_review_inclusion_criteria.csv:
 ID - The numeric IDs of systematic review reports.
