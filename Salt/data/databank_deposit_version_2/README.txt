@@ -14,13 +14,13 @@ Related Dataset
 Fu, Y., Hsiao, T.K. (2020): Dataset for "Visualizing evidence-based disagreement over time: the landscape of a public health controversy 2002-2014". University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-9222782_V1
  
 Dataset Description
-The salt controversy is the public health debate about whether a population-level salt reduction is beneficial. This dataset covers 14 systematic review reports (SRRs) and 68 primary study reports (PSRs) addressing the effect of sodium intake on cerebrocardiovascular disease or mortality. The reports and their opinion classification (for, against, and inconclusive) were from Trinquart et al. (2016) (Trinquart, L., Johns, D. M., & Galea, S. (2016). Why do we think we know what we know? A metaknowledge analysis of the salt controversy. International Journal of Epidemiology, 45(1), 251–260. https://doi.org/10.1093/ije/dyv184) as a snapshot of the salt controversy as of September, 2014. 
+The salt controversy is the public health debate about whether a population-level salt reduction is beneficial. This dataset covers 14 systematic review reports (SRRs) and 68 primary study reports (PSRs) addressing the effect of sodium intake on cerebrocardiovascular disease or mortality. The reports and their opinion classification (for, against, and inconclusive) were from Trinquart et al. (2016) (Trinquart, L., Johns, D. M., & Galea, S. (2016). Why do we think we know what we know? A metaknowledge analysis of the salt controversy. International Journal of Epidemiology, 45(1), 251–260. https://doi.org/10.1093/ije/dyv184), which collected 68 PSRs, 14 SRRs, 11 clinical guideline reports, and 176 comments, letters, or narrative reviews a snapshot of the status of the salt controversy as of September, 2014. 
 
-This dataset can be used to construct the inclusion network and the co-author network of the 82 SRRs and PSRs identifed by Trinquart et al. (2016). A PSR is "included" in an SRR if it is considered in the evidence sysnthesis of the SRR. Based on which PSRs are included in which SRRs, we can construct the inclusion network. The inclusion network is a bipartite network with two types of nodes: one type represents SSRs, and the other represents PSRs. In a inclusion network, if a SRR includes a PSR, there is a directed edge from the SRR to the PSR. The attribute file (report_list.csv) includes attributes of the 82 reports, and the edge list file (inclusion_net_edges.csv) contains the edge list of the inclusion network. Notably, 11 PSRs have never been included in any SRR in the dataset. They are unused PSRs. If visualized with the inclusion network, they will appear as isolated nodes. 
+This dataset can be used to construct the inclusion network and the co-author network of the 14 SRRs and 68 PSRs. A PSR is "included" in an SRR if it is considered in the SRR's evidence sysnthesis. Based on which PSRs are included in which SRRs, we can construct the inclusion network. The inclusion network is a bipartite network with two types of nodes: one type represents SSRs, and the other represents PSRs. In a inclusion network, if a SRR includes a PSR, there is a directed edge from the SRR to the PSR. The attribute file (report_list.csv) includes attributes of the 82 reports, and the edge list file (inclusion_net_edges.csv) contains the edge list of the inclusion network. Notably, 11 PSRs have never been included in any SRR in the dataset. They are unused PSRs. If visualized with the inclusion network, they will appear as isolated nodes. 
 
-We used a house-made workflow (Fu, Y. (2022). Scopus author info tool (1.0.1) [Python]. https://github.com/infoqualitylab/Scopus_author_info_collection) that uses the Scopus API and manual work to extract and disambiguate authorship information of the 82 reports. The report-author file (salt_cont_author.csv), which records can be used to compute the co-author network of the 82 reports. 
+We used a house-made workflow (Fu, Y. (2022). Scopus author info tool (1.0.1) [Python]. https://github.com/infoqualitylab/Scopus_author_info_collection) that uses the Scopus API and manual work to extract and disambiguate authorship information for the 82 reports. The author information file (salt_cont_author.csv) can be used to compute the co-author network of the 82 reports. 
 
-We also included several other files in this dataset. We collected inclusion criteria (the criteria that make a PSR eligible to be included in a SRR) and recorded them in the file systematic_review_inclusion_criteria.csv. We included a file (potential_inclusion_link.csv) recording whether a given PSR had been published as of the search date of a given SRR, which makes the PSR potentially eligible for inclusion of the SRR. We also included the bibliography of the 82 reports (supplementary_reference_list.pdf).
+We also included several other files in this dataset. We collected inclusion criteria (the criteria that make a PSR eligible to be included in a SRR) and recorded them in the file systematic_review_inclusion_criteria.csv. We included a file (potential_inclusion_link.csv) recording whether a given PSR had been published as of the search date of a given SRR, which makes the PSR potentially eligible for inclusion of the SRR. We also included the bibliography of the 82 reports (supplementary_reference_list.pdf). Lastly, we discovered minor discripancies between the inclusion relationships identified by Trinquart et al. (2016) and us. Therefore, we decided to prepare an additional edge list (inclusion_net_edges_trinquart.csv) to preserve the inclusion relationships identified by Trinquart et al. (2016). 
  
 FILES AND FILE FORMATS
 1) report_list.csv - Unicode CSV
@@ -34,22 +34,22 @@ FILES AND FILE FORMATS
 ROW EXPLANATIONS
 1) report_list.csv - Each row describes an SSR or a PSR.
 2) salt_cont_author.csv - Each row is an occurrence of one author authoring a report.
-3) inclusion_net_edges.csv - Each row represents an inclusion of a PSR in an SRR.
-4) potential_inclusion_link.csv - A matrix showing systematic reviews in columns and primary studies in rows.  Cells with "p" denote where primary study reports were potentially eligible for systematic review reports, according to the publication date of the primary studies and the dates of last search in systematic reviews. This data was collected from Trinquart et al. (2016). 
-5) systematic_review_inclusion_criteria.csv - Each row is the inclusion criteria of a systematic review report.
-6) supplementary_reference_list.pdf - Each item is a bibliographic record of an SSR or a included PSR.
-7) inclusion_net_edges_trinquart.csv - Each row represents an inclusion of a PSR in an SRR.
+3) inclusion_net_edges.csv - Each row represents an inclusion of a PSR in an SRR identified by us from the full text of the SSRs. 
+4) potential_inclusion_link.csv - A matrix whose column indices are SSRs and row indices are PSRs.  Cells with "p" denote where PSRs were potentially eligible for inclusion in SRRs, according to the publication date of the PSRs and the dates of last search of the SRRs. This data was collected from Web Figure 4 of the data supplement of Trinquart et al. (2016). 
+5) systematic_review_inclusion_criteria.csv - Each row records inclusion criteria of a SRR.
+6) supplementary_reference_list.pdf - Each item is a bibliographic record of an SSR or a PSR.
+7) inclusion_net_edges_trinquart.csv - Each row represents an inclusion of a PSR in an SRR according to Web Figure 4 of Trinquart et al. (2016).
  
 COLUMN HEADER EXPLANATIONS
 1) report_list.csv: ID - Numeric ID of the report
 short_name - Short name assigned to each report by Trinquart et al. (2016), usually first author's last name + publication year
 type - Systematic review report/ primary study report
-study_groupings - Groupings for related primary study reports from the same report, from Trinquart et al. (2016) (if applicable, otherwise blank)
+study_groupings - Groupings for related PSRs from the same study, from Trinquart et al. (2016) (if applicable, otherwise blank)
 title - Title of the report
 year - Publication year of the report
-attitude - Scientific opinion about the salt controversy from Trinquart et al. (2016)
-doi - DOIs of the report (if applicable, otherwise blank)
-retracted(Y/N) - Y if the report was retracted or withdrawn. Blank if the report was not retracted or withdrawn.
+attitude - Scientific opinion about the salt controversy from Trinquart et al. (2016) and take the value of for, against, or inconclusive. 
+doi - the DOI of the report (if applicable, otherwise blank)
+retracted(Y/N) - Y if the report was retracted or withdrawn, N if the report was not retracted or withdrawn.
 study_design - The study design of a report, which takes the following values: Case Control Study, Cohort Study, Systematic Review, and Randomized Controlled Trial. 
  
 2) salt_cont_author.csv: 
@@ -58,7 +58,7 @@ title - Title of the report
 author_given_name - The given name of the author
 author_surname - The surname of the author
 author_id - Unique identifier of the author, either from Scopus Author ID or assigned by us.
-organizational_author - If a report is published under the name of an organization, it is stored in this column. 
+organizational_author - If a report is published under the name of an organization, it is stored in this column. Otherwise, the cell is filled with "NA."
 Manual - If TRUE, the author information was extracted manually. If FALSE, the author information was retrieved from the Scopus citation database. 
  
 3) inclusion_net_edges.csv:
@@ -66,41 +66,41 @@ citing_ID - The numeric ID of an SSR
 cited_ID - The numeric ID of a PSR
  
 4) potential_inclusion_link.csv:
-This data was translated from Web Figure 4 in the data supplement of Trinquart et al. (2016). Each row indicates a systematic review report, and each column indicates a primary study. In the matrix, "p" indicates that a given primary study had been published as of the search date of a given systematic review report.
+This data was translated from Web Figure 4 in the data supplement of Trinquart et al. (2016). A matrix whose column indices are SSRs and row indices are PSRs.  Cells with "p" denote where PSRs were potentially eligible for inclusion in SRRs, according to the publication date of the PSRs and the dates of last search of the SRRs. This data was collected from Web Figure 4 of the data supplement of Trinquart et al. (2016). 
  
 5)systematic_review_inclusion_criteria.csv:
-ID - The numeric IDs of systematic review reports.
-short_name - ID of the report from Trinquart et al. (2016).
-attitude - Its scientific opinion about the salt controversy from Trinquart et al. (2016)s.
-no_of_studies_included - Number of studies included in the systematic review report.
-no_of_reports_included – Number of PSRs included in the systematic review report.
-report_included_in_Trinquart_data – Number of PSRs that are also included in the Trinquart dataset' 68 PSRs.
+ID - The numeric ID of the SSR.
+short_name - ID of the SSR from Trinquart et al. (2016).
+attitude - An SSR's scientific opinion about the salt controversy from Trinquart et al. (2016), which takes the value of for, against, or inconclusive.
+no_of_studies_included - Number of studies included in the SSR.
+no_of_reports_included – Number of PSRs included in the SSR.
+report_included_in_Trinquart_data – Number of PSRs that appear in the Trinquart dataset' 68 PSRs. Some SSRs include PSRs that are not covered by Trinquart et al. (2016)'s 68 PSRs. Such SSRs reivew the effect of sodium intake on health outcomes other than cerebrocardiovascular disease or mortality. 
 study_design - Study designs to include, per inclusion criteria, as described in the SSR.
 study_design_unified – Unified coding for the study_design, reduced from study_design column.
 population - Populations to include, per inclusion criteria, as described in the SSR.
 population_unified – Unified coding for population, reduced from population column.
 exposure_intervention - Exposures/Interventions to include, per inclusion criteria, as described in the SSR.
-exposure_intervention_unified – Unified coding for exposure/intervention, reduced from the "exposure_intervention" column. 
-outcome - Study outcomes required for inclusion, per inclusion criteria, as described in the SSR. 
-Language_restriction - Report languages to include, per inclusion criteria. We did not reduce "outcome" to codes like previous columns because outcomes are too heterogeneous to be reduced.
+exposure_intervention_unified – Unified coding for exposure/intervention, reduced from the exposure_intervention column. 
+outcome - Study outcomes required for inclusion, per inclusion criteria, as described in the SSR. We did not reduce "outcome" to codes like previous columns because outcomes are too heterogeneous to be reduced.
+Language_restriction - Report languages to include, per inclusion criteria.
 Follow_up_period - Follow-up period required for inclusion, per inclusion criteria, as described in the SSR. 
 Follow_up_period_unified – Unified coding for follow-up period, reduced from te “follow_up_period” column. 
-Notes – Notes about each entry.
+Notes – Additional notes about each entry.
 
 6) inclusion_net_edges_trinquart.csv:
 citing_ID - The numeric ID of an SRR.
 cited_ID - The numeric ID of a PSR.
 
 DIFFERENCES BETWEEN THIS DATASET AND RELATED DATASET (Fu and Hsiao, 2020 https://doi.org/10.13012/B2IDB-9222782_V1 )
-- We removed file Article_attr.csv due to redundancy. The old file article_list.csv contains all information.
-- We renamed file article_list.csv as report_list.csv
-- We renamed file "Supplementary Reference List.pdf" as "supplementary_reference_list.pdf."
+- We removed file Article_attr.csv due to redundancy. The old file Article_list.csv contains all information.
+- We renamed file Article_list.csv to report_list.csv
+- We renamed file "Supplementary Reference List.pdf" to "supplementary_reference_list.pdf."
 - We added a new file salt_cont_author.csv.
-- We corrected a couple of mistakes in report_list.csv, and changed all column names to lower cases for consistency. In particular, we corrected the classification of two SRRs, Graudal 2014 (from “for” to “against”) and Poggio 2014 (from “against” to “for”), whose “statements” based on which “judgment” was made were mistakenly swapped in Web Table 2 of the supplement of Trinquart et al. 2016. 
+- We corrected a couple of mistakes in report_list.csv, and changed all column names to lower cases for consistency. In particular, we corrected the classification of two SRRs, Graudal 2014 (from “for” to “against”) and Poggio 2014 (from “against” to “for”), which were mistakenly swapped in Web Table 2 of the supplement of Trinquart et al. (2016). 
 - We added a new column, "study_design" to report_list.csv.
 - We corrected acronyms "Group, H. P. T. R" and "Group, T. of H. P. C. R." to "Hypertension Prevention Trial Research Group" in supplementary_reference_list.pdf.
 - We verified the original edge list file (inclusion_net_edges.csv) and corrected for a couple of mistakes.
-- We added a new file inclusion_net_edges_trinquart.csv to record the adjacency matrix constructed by Trinquart et al. (2016), based on their supplementary data file's Web Figure 4. We will explain the differences between inclusion_net_edges.csv and inclusion_net_edges_trinquart.csv in the next section.
+- We added a new file inclusion_net_edges_trinquart.csv to record the inclusion relationships identified by Trinquart et al. (2016), based on their supplementary data file's Web Figure 4. We will explain the differences between inclusion_net_edges.csv and inclusion_net_edges_trinquart.csv in the next section.
 
 DIFFERENCES BETWEEN INCLUSION_NET_EDGES.CSV AND INCLUSION_NET_EDGES_TRINQUART.CSV
 
@@ -132,6 +132,6 @@ SRR13: Trinquart's edge list has 28 edges, and our edge list has 26 edges. The d
 - Trinquart's edge list has: 13 --> 34, 13 --> 42, 13 --> 43, 13 --> 55 that are not in our edge list.
 Reason:
 We found PSR46 and PSR76 as included PSRs in SRR13.
-We did not find PSR34, PSR42, PSR43 and PSR55 as included PSRs in SRR13. In particular, PSR43 and PSR55 met the inclusion criteria. However, they report randonmized controlled trial (RCT) studies and two RCT studies were identified. Therefore, the analysis of RCTs were abandoned, and PSR43 and PSR55 did not contribute to evidence synthesis of SRR13.   
+We did not find PSR34, PSR42, PSR43 and PSR55 as included PSRs in SRR13. In particular, PSR43 and PSR55 met the inclusion criteria. However, they report randonmized controlled trial (RCT) studies and only two RCT studies were identified. Therefore, the analysis of RCTs were abandoned, and PSR43 and PSR55 did not contribute to evidence synthesis of SRR13.   
 
 SRR14: identical.
