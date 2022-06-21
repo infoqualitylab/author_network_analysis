@@ -90,19 +90,19 @@ citing_ID - The numeric ID of an SRR.
 cited_ID - The numeric ID of a PSR.
 
 DIFFERENCES BETWEEN THIS DATASET AND RELATED DATASET (Fu and Hsiao, 2020 https://doi.org/10.13012/B2IDB-9222782_V1 )
-- The file Article_attr.csv was removed due to redundancy. The old file article_list.csv contains all information.
-- The file article_list.csv was renamed report_list.csv
-- The file "Supplementary Reference List.pdf" was renamed "supplementary_reference_list.pdf."
-- A new file salt_cont_author.csv was added
-- Corrected a couple of mistakes in report_list.csv, and change all column names to lower cases for consistency. In particular, we corrected the classification of two SRRs, Graudal 2014 (from “for” to “against”) and Poggio 2014 (from “against” to “for”), whose “statements” based on which “judgment” was made were mistakenly swapped in Web Table 2 of the supplement of Trinquart et al. 2016. 
-- A new column, "study_design" was added to report_list.csv.
-- Acronyms "Group, H. P. T. R" and "Group, T. of H. P. C. R." were corrected to "Hypertension Prevention Trial Research Group" in supplementary_reference_list.pdf.
-- The edge list file (inclusion_net_edges.csv) was verified and corrected for a couple of mistakes.
-- A new file inclusion_net_edges_trinquart.csv was added to record the adjacency matrix constructed by Trinquart et al. (2016), based on their Trinquart's edge list in their supplementary data file. Differences between inclusion_net_edges.csv and inclusion_net_edges_trinquart.csv are explained in the next section.
+- We removed file Article_attr.csv due to redundancy. The old file article_list.csv contains all information.
+- We renamed file article_list.csv as report_list.csv
+- We renamed file "Supplementary Reference List.pdf" as "supplementary_reference_list.pdf."
+- We added a new file salt_cont_author.csv.
+- We corrected a couple of mistakes in report_list.csv, and changed all column names to lower cases for consistency. In particular, we corrected the classification of two SRRs, Graudal 2014 (from “for” to “against”) and Poggio 2014 (from “against” to “for”), whose “statements” based on which “judgment” was made were mistakenly swapped in Web Table 2 of the supplement of Trinquart et al. 2016. 
+- We added a new column, "study_design" to report_list.csv.
+- We corrected acronyms "Group, H. P. T. R" and "Group, T. of H. P. C. R." to "Hypertension Prevention Trial Research Group" in supplementary_reference_list.pdf.
+- We verified the original edge list file (inclusion_net_edges.csv) and corrected for a couple of mistakes.
+- We added a new file inclusion_net_edges_trinquart.csv to record the adjacency matrix constructed by Trinquart et al. (2016), based on their supplementary data file's Web Figure 4. We will explain the differences between inclusion_net_edges.csv and inclusion_net_edges_trinquart.csv in the next section.
 
 DIFFERENCES BETWEEN INCLUSION_NET_EDGES.CSV AND INCLUSION_NET_EDGES_TRINQUART.CSV
 
-Note: inclusion_net_edges_trinquart.csv will be referred as "Trinquart's edge list" from now on. It is translate from Web Figure 4 of Trinquart et al. (2016). Inclusion_net_edges.csv will be reffered to as "our edge list" from now on. 
+Note: inclusion_net_edges_trinquart.csv will be referred as "Trinquart's edge list" from now on. It is based on from Web Figure 4 of Trinquart et al. (2016)'s supplementary data file. Inclusion_net_edges.csv will be reffered to as "our edge list" from now on. 
 
 SRR1: identical
 SRR2: identical
@@ -130,10 +130,10 @@ SRR13: Trinquart's edge list has 28 edges, and our edge list has 26 edges. The d
 - Trinquart's edge list has: 13 --> 34, 13 --> 42, 13 --> 55 that are not in the edge list.
 Reason:
 We found PSR46 and PSR76 as included PSRs in SRR13.
-We did not find PSR34, PSR42, and PSR55 as included PSRs in SRR13. In particular, PSR55 met the inclusion criteria. However, since it is a report reporting a randomized controlled trial (RCT) study and two RCT studies were identified. The analysis of RCTs were abandoned, and PSR55 did not contribute to evidence synthesis and the final conclusion reached by SRR13.   
+We did not find PSR34, PSR42, and PSR55 as included PSRs in SRR13. In particular, PSR55 met the inclusion criteria. However, it is a report reporting a randomized controlled trial (RCT) study. And since only two RCT studies were identified, the analysis of RCTs were abandoned. Therefore, PSR55 did not contribute to evidence synthesis of SRR13.   
 
 SRR14: Trinquart's edge list has 11 edges, and our edge list has 11 edges too. The difference:
 Trinquart's edge list has 14 --> 33, and our edge list has 14 --> 52 instead. 
 Reason: 
-We did not find PSR33 as an included PSR in SRR14. It was identified by excluded (see Figure 2 of SRR14)
+We did not find PSR33 as an included PSR in SRR14. It was in fact excluded in the analysis (see Figure 2 of SRR14).
 We found PSR52 as an included PSR in SRR14. 
