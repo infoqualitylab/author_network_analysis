@@ -19,6 +19,8 @@ The salt controversy is the public health debate about whether a population-leve
 This dataset can be used to construct the inclusion network and the co-author network of the 82 SRRs and PSRs identifed by Trinquart et al. (2016). A PSR is "included" in an SRR if it is considered in the evidence sysnthesis of the SRR. Based on which PSRs are included in which SRRs, we can construct the inclusion network. The inclusion network is a bipartite network with two types of nodes: one type represents SSRs, and the other represents PSRs. In a inclusion network, if a SRR includes a PSR, there is a directed edge from the SRR to the PSR. The attribute file (report_list.csv) includes attributes of the 82 reports, and the edge list file (inclusion_net_edges.csv) contains the edge list of the inclusion network. Notably, 11 PSRs have never been included in any SRR in the dataset. They are unused PSRs. If visualized with the inclusion network, they will appear as isolated nodes. 
 
 We used a house-made workflow (Fu, Y. (2022). Scopus author info tool (1.0.1) [Python]. https://github.com/infoqualitylab/Scopus_author_info_collection) that uses the Scopus API and manual work to extract and disambiguate authorship information of the 82 reports. The report-author file (salt_cont_author.csv), which records can be used to compute the co-author network of the 82 reports. 
+
+We also included several other files in this dataset. We collected inclusion criteria (the criteria that make a PSR eligible to be included in a SRR) and recorded them in the file systematic_review_inclusion_criteria.csv. We included a file (potential_inclusion_link.csv) recording whether a given PSR had been published as of the search date of a given SRR, which makes the PSR potentially eligible for inclusion of the SRR. We also included the bibliography of the 82 reports (supplementary_reference_list.pdf).
  
 FILES AND FILE FORMATS
 1) report_list.csv - Unicode CSV
@@ -35,7 +37,7 @@ ROW EXPLANATIONS
 3) inclusion_net_edges.csv - Each row represents an inclusion of a PSR in an SRR.
 4) potential_inclusion_link.csv - A matrix showing systematic reviews in columns and primary studies in rows.  Cells with "p" denote where primary study reports were potentially eligible for systematic review reports, according to the publication date of the primary studies and the dates of last search in systematic reviews. This data was collected from Trinquart et al. (2016). 
 5) systematic_review_inclusion_criteria.csv - Each row is the inclusion criteria of a systematic review report.
-6) Supplementary Reference List.pdf - Each item is a bibliographic record of an SSR or a included PSR.
+6) supplementary_reference_list.pdf - Each item is a bibliographic record of an SSR or a included PSR.
 7) inclusion_net_edges_trinquart.csv - Each row represents an inclusion of a PSR in an SRR.
  
 COLUMN HEADER EXPLANATIONS
