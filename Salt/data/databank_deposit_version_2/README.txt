@@ -14,11 +14,11 @@ Related Dataset
 Fu, Yuanxi; Hsiao, Tzu-Kun (2020): Dataset for "Visualizing evidence-based disagreement over time: the landscape of a public health controversy 2002-2014". University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-9222782_V1
  
 Dataset Description
-The salt controversy is the public health debate about whether a population-level salt reduction is beneficial. This dataset covers 14 systematic review reports (SRRs) and 68 primary study reports (PSRs) addressing the effect of sodium intake on cerebrocardiovascular disease or mortality. The systematic review reports, primary study reports, and their opinion classification (for, against, and inconclusive) were collected from Trinquart et al. (2016) (Trinquart, L., Johns, D. M., & Galea, S. (2016). Why do we think we know what we know? A metaknowledge analysis of the salt controversy. International Journal of Epidemiology, 45(1), 251–260. https://doi.org/10.1093/ije/dyv184) as a snapshot of the status of the controversy as of September, 2014. 
+The salt controversy is the public health debate about whether a population-level salt reduction is beneficial. This dataset covers 14 systematic review reports (SRRs) and 68 primary study reports (PSRs) addressing the effect of sodium intake on cerebrocardiovascular disease or mortality. The systematic review reports, primary study reports, and their opinion classification (for, against, and inconclusive) were collected from Trinquart et al. (2016) (Trinquart, L., Johns, D. M., & Galea, S. (2016). Why do we think we know what we know? A metaknowledge analysis of the salt controversy. International Journal of Epidemiology, 45(1), 251–260. https://doi.org/10.1093/ije/dyv184) as a snapshot of the status of the salt controversy as of September, 2014. 
 
-This dataset can be used to construct the inclusion network and the co-author network of the 82 reports identifed by Trinquart et al. (2016). A PSR is "included" in a systematic review if it is considered in the evidence sysnthesis toward reaching a conclusion regarding the scientific question asked by the SRR. Based on which PSRs are included in which SRRs, we can construct the inclusion network. The inclusion network is a bipartite network with two types of nodes: one type represents SSRs, and the other represents PSRs. In a inclusion network, if a SRR includes a PSR, there is a directed edge from the SRR to the PSR. The attribute file (report_list.csv) includes attributes of the 82 reports, and the edge list file (inclusion_net_edges.csv) contains the edge list of the inclusion network. Notably, 11 PSRs have never been included in any SRR. They are unused PSRs within this dataset. If visualized with the inclusion network, they will appear as isolated nodes. 
+This dataset can be used to construct the inclusion network and the co-author network of the 82 SRRs and PSRs identifed by Trinquart et al. (2016). A PSR is "included" in an SRR if it is considered in the evidence sysnthesis of the SRR. Based on which PSRs are included in which SRRs, we can construct the inclusion network. The inclusion network is a bipartite network with two types of nodes: one type represents SSRs, and the other represents PSRs. In a inclusion network, if a SRR includes a PSR, there is a directed edge from the SRR to the PSR. The attribute file (report_list.csv) includes attributes of the 82 reports, and the edge list file (inclusion_net_edges.csv) contains the edge list of the inclusion network. Notably, 11 PSRs have never been included in any SRR in the dataset. They are unused PSRs. If visualized with the inclusion network, they will appear as isolated nodes. 
 
-We used a house-made workflow (Fu, Y. (2022). Scopus author info tool (1.0.1) [Python]. https://github.com/infoqualitylab/Scopus_author_info_collection) that uses the Scopus API and manual work to extract and disambiguate authorship information of the 82 articles. The report-author file (salt_cont_author.csv) can be used to compute the co-author network of the 82 reports. 
+We used a house-made workflow (Fu, Y. (2022). Scopus author info tool (1.0.1) [Python]. https://github.com/infoqualitylab/Scopus_author_info_collection) that uses the Scopus API and manual work to extract and disambiguate authorship information of the 82 reports. The report-author file (salt_cont_author.csv), which records can be used to compute the co-author network of the 82 reports. 
  
 FILES AND FILE FORMATS
 1) report_list.csv - Unicode CSV
@@ -26,8 +26,8 @@ FILES AND FILE FORMATS
 3) inclusion_net_edges.csv - Unicode CSV
 4) potential_inclusion_link.csv - Unicode CSV
 5) systematic_review_inclusion_criteria.csv - Unicode CSV
-6) Supplementary Reference List.pdf - PDF
-6) inclusion_net_edges_trinquart.csv - Unicode CSV
+6) supplementary_reference_list.pdf - PDF
+7) inclusion_net_edges_trinquart.csv - Unicode CSV
  
 ROW EXPLANATIONS
 1) report_list.csv - Each row describes an SSR or a PSR.
@@ -99,8 +99,6 @@ DIFFERENCES BETWEEN THIS DATASET AND RELATED DATASET (Fu and Hsiao, 2020 https:/
 - Acronyms "Group, H. P. T. R" and "Group, T. of H. P. C. R." were corrected to "Hypertension Prevention Trial Research Group" in supplementary_reference_list.pdf.
 - The edge list file (inclusion_net_edges.csv) was verified and corrected for a couple of mistakes.
 - A new file inclusion_net_edges_trinquart.csv was added to record the adjacency matrix constructed by Trinquart et al. (2016), based on their Trinquart's edge list in their supplementary data file. Differences between inclusion_net_edges.csv and inclusion_net_edges_trinquart.csv are explained in the next section.
-
-
 
 DIFFERENCES BETWEEN INCLUSION_NET_EDGES.CSV AND INCLUSION_NET_EDGES_TRINQUART.CSV
 
