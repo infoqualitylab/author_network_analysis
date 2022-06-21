@@ -104,14 +104,14 @@ DIFFERENCES BETWEEN INCLUSION_NET_EDGES.CSV AND INCLUSION_NET_EDGES_TRINQUART.CS
 
 Note: inclusion_net_edges_trinquart.csv will be referred as "Trinquart's edge list" from now on. It is based on from Web Figure 4 of Trinquart et al. (2016)'s supplementary data file. Inclusion_net_edges.csv will be reffered to as "our edge list" from now on. 
 
-SRR1: identical
-SRR2: identical
-SRR3: identical
+SRR1: identical.
+SRR2: identical.
+SRR3: identical.
 
 SRR4: Trinquart's edge list has 15 edges, and our edge list has 13 edges. Trinuart's edge list has addtional edges 2-->34 and 2-->56. We did not find PSR34 and PSR56 as included PSRs in SRR4.
 
-SRR5: identical
-SRR6: identical
+SRR5: identical.
+SRR6: identical.
 
 SRR7: Trinquart's edge list has 13 edges, and our edge list has 12 edges. Trinquart's edge list has additional edges 2 --> 34. We did not find PSR34 as a included PSR in SRR7.
 
@@ -119,21 +119,17 @@ SRR8: Trinquart's edge list has 23 edges, and our edge list has 21 edges. Trinqu
 
 SRR9: Trinquart's edge list has 23 edges, and our edge list has 21 edges. Trinquart's edge list has additional edges 2-->34 and 2-->43. We did not find PSR34 and PSR43 as included PSRs in SRR8.
 
-SRR10: identical
+SRR10: identical.
 
 SRR11: Trinquart's edge list has 26 edges, and our edge list has 27 edges. Our edge list has an additional edge 11 --> 75. We found PSR75 as an included PSR in SR11 (see Table F-4 of SRR11).
 
-SRR12: identical
+SRR12: identical.
 
 SRR13: Trinquart's edge list has 28 edges, and our edge list has 26 edges. The differences:
-- our edge list has 13 --> 46, 13 --> 76 that are not in the Trinquart's edge list. 
-- Trinquart's edge list has: 13 --> 34, 13 --> 42, 13 --> 55 that are not in the edge list.
+- our edge list has 13 --> 46, 13 --> 76 that are not in the Trinquart's edge list.
+- Trinquart's edge list has: 13 --> 34, 13 --> 42, 13 --> 43, 13 --> 55 that are not in our edge list.
 Reason:
 We found PSR46 and PSR76 as included PSRs in SRR13.
-We did not find PSR34, PSR42, and PSR55 as included PSRs in SRR13. In particular, PSR55 met the inclusion criteria. However, it is a report reporting a randomized controlled trial (RCT) study. And since only two RCT studies were identified, the analysis of RCTs were abandoned. Therefore, PSR55 did not contribute to evidence synthesis of SRR13.   
+We did not find PSR34, PSR42, PSR43 and PSR55 as included PSRs in SRR13. In particular, PSR43 and PSR55 met the inclusion criteria. However, they report randonmized controlled trial (RCT) studies and two RCT studies were identified. Therefore, the analysis of RCTs were abandoned, and PSR43 and PSR55 did not contribute to evidence synthesis of SRR13.   
 
-SRR14: Trinquart's edge list has 11 edges, and our edge list has 11 edges too. The difference:
-Trinquart's edge list has 14 --> 33, and our edge list has 14 --> 52 instead. 
-Reason: 
-We did not find PSR33 as an included PSR in SRR14. It was in fact excluded in the analysis (see Figure 2 of SRR14).
-We found PSR52 as an included PSR in SRR14. 
+SRR14: identical.
