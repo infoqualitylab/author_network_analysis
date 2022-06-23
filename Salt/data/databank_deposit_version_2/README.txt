@@ -17,6 +17,7 @@ This dataset can be used to construct the inclusion network and the co-author ne
 We used a house-made workflow (Fu, Y. (2022). Scopus author info tool (1.0.1) [Python]. https://github.com/infoqualitylab/Scopus_author_info_collection) that uses the Scopus API and manual work to extract and disambiguate authorship information for the 82 reports. The author information file (salt_cont_author.csv) is the product of this workflow and can be used to compute the co-author network of the 82 reports. 
 
 We also included several other files in this dataset. We collected inclusion criteria (the criteria that make a PSR eligible to be included in an SRR) and recorded them in the file systematic_review_inclusion_criteria.csv. We included a file (potential_inclusion_link.csv) recording whether a given PSR had been published as of the search date of a given SRR, which makes the PSR potentially eligible for inclusion in the SRR. We also included the bibliography of the 82 reports (supplementary_reference_list.pdf). Lastly, we discovered minor discrepancies between the inclusion relationships identified by Trinquart et al. (2016) and us. Therefore, we decided to prepare an additional edge list (inclusion_net_edges_trinquart.csv) to preserve the inclusion relationships identified by Trinquart et al. (2016). 
+
 FILES AND FILE FORMATS
 1) report_list.csv - Unicode CSV
 2) salt_cont_author.csv - Unicode CSV
@@ -25,6 +26,7 @@ FILES AND FILE FORMATS
 5) systematic_review_inclusion_criteria.csv - Unicode CSV
 6) supplementary_reference_list.pdf - PDF
 7) inclusion_net_edges_trinquart.csv - Unicode CSV
+
 ROW EXPLANATIONS
 1) report_list.csv - Each row describes an SSR or a PSR.
 2) salt_cont_author.csv - Each row is an occurrence of one author authoring a report.
@@ -33,6 +35,7 @@ ROW EXPLANATIONS
 5) systematic_review_inclusion_criteria.csv - Each row records the inclusion criteria of an SRR.
 6) supplementary_reference_list.pdf - Each item is a bibliographic record of an SSR or a PSR.
 7) inclusion_net_edges_trinquart.csv - Each row represents an inclusion of a PSR in an SRR according to Web Figure 4 of Trinquart et al. (2016).
+
 COLUMN HEADER EXPLANATIONS
 1) report_list.csv: ID - Numeric ID of the report
 short_name - Short name assigned to each report by Trinquart et al. (2016), usually first author's last name + publication year
@@ -44,6 +47,7 @@ attitude - Scientific opinion about the salt controversy from Trinquart et al. (
 doi - the DOI of the report (if applicable, otherwise blank)
 retracted(Y/N) - Y if the report was retracted or withdrawn, N if the report was not retracted or withdrawn.
 study_design - The study design of a report, which takes the following values: Case Control Study, Cohort Study, Systematic Review, and Randomized Controlled Trial. 
+
 2) salt_cont_author.csv: 
 ID - Numeric ID of the report
 title - Title of the report
@@ -52,11 +56,14 @@ author_surname - The surname of the author
 author_id - Unique identifier of the author, either from Scopus Author ID or assigned by us.
 organizational_author - If a report is published under the name of an organization, it is stored in this column. Otherwise, the cell is filled with "NA."
 Manual - If TRUE, the author information was extracted manually. If FALSE, the author information was retrieved from the Scopus citation database. 
+
 3) inclusion_net_edges.csv:
 citing_ID - The numeric ID of an SSR
 cited_ID - The numeric ID of a PSR
+
 4) potential_inclusion_link.csv:
 This data was translated from Web Figure 4 in the data supplement of Trinquart et al. (2016). A matrix whose column indices are SSRs and row indices are PSRs. Cells with "p" denote where PSRs were potentially eligible for inclusion in SRRs, according to the publication date of the PSRs and the dates of the last search of the SRRs. This data was collected from Web Figure 4 of the data supplement of Trinquart et al. (2016). 
+
 5)systematic_review_inclusion_criteria.csv:
 ID - The numeric ID of the SSR.
 short_name - ID of the SSR from Trinquart et al. (2016).
