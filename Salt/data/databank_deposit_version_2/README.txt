@@ -65,7 +65,7 @@ citing_ID - The numeric ID of an SRR
 cited_ID - The numeric ID of a PSR
 
 4) potential_inclusion_link.csv:
-This data was translated from Web Figure 4 in the data supplement of Trinquart et al. (2016). A matrix whose column indices are SRRs and row indices are PSRs. Cells with "p" denote where PSRs were potentially eligible for inclusion in SRRs, according to the publication date of the PSRs and the dates of the last search of the SRRs. This data was collected from Web Figure 4 of the data supplement of Trinquart et al. (2016). 
+This data was translated from Web Figure 4 in the data supplement of Trinquart et al. (2016). A matrix whose column indices are SRRs and row indices are PSRs. Cells with "p" denote where PSRs were potentially eligible for inclusion in SRRs, according to the publication date of the PSRs and the dates of the last search of the SRRs. 
 
 5)systematic_review_inclusion_criteria.csv:
 ID - The numeric ID of the SRR.
@@ -95,7 +95,7 @@ DIFFERENCES BETWEEN THIS DATASET AND RELATED DATASET (Fu and Hsiao, 2020 https:/
 - We renamed file Article_list.csv to report_list.csv
 - We renamed file "Supplementary Reference List.pdf" to "supplementary_reference_list.pdf".
 - We added a new file salt_cont_author.csv.
-- We corrected a couple of mistakes in report_list.csv, and changed all column names to lower cases for consistency. In particular, we corrected the classification of two SRRs, Graudal 2014 (from "for" to "against") and Poggio 2014 (from "against" to "for"), which were mistakenly swapped in Web Table 2 of the supplement of Trinquart et al. (2016). 
+- We corrected a couple of mistakes in report_list.csv, and changed all column names to lower cases for consistency. In particular, we corrected the classification of two SRRs, SRR13, Graudal 2014 (from "for" to "against") and SRR14, Poggio 2014 (from "against" to "for"), which were mistakenly swapped in Web Table 2 of the supplement of Trinquart et al. (2016). 
 - We added a new column, "study_design" to report_list.csv.
 - We corrected acronyms "Group, H. P. T. R" and "Group, T. of H. P. C. R." to "Hypertension Prevention Trial Research Group" in supplementary_reference_list.pdf.
 - We verified the original edge list file (inclusion_net_edges.csv) and corrected a couple of mistakes.
@@ -131,6 +131,6 @@ SRR13: Trinquart's edge list has 28 edges, and our edge list has 26 edges. The d
 - Trinquart's edge list has: 13 --> 34, 13 --> 42, 13 --> 43, 13 --> 55 that are not in our edge list.
 Reason:
 We found PSR46 and PSR76 as included PSRs in SRR13.
-We did not find PSR34, PSR42, PSR43 and PSR55 as included PSRs in SRR13. In particular, PSR43 and PSR55 met the inclusion criteria. However, they report randomized controlled trial (RCT) studies, and only two RCT studies were identified. Therefore, the analysis of RCTs was abandoned, and PSR43 and PSR55 did not contribute to the evidence synthesis of SRR13. 
+We did not find PSR34, PSR42, PSR43 and PSR55 as included PSRs in SRR13. In particular, PSR43 and PSR55 met the inclusion criteria of SRR13. However, they report randomized controlled trial (RCT) studies, and only two RCT studies were identified. Therefore, the analysis of RCTs was abandoned, and PSR43 and PSR55 did not contribute to the evidence synthesis of SRR13. 
 
 SRR14: identical.
