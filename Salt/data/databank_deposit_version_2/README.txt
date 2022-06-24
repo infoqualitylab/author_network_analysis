@@ -32,7 +32,7 @@ FILES AND FILE FORMATS
 
 ROW EXPLANATIONS
 1) report_list.csv - Each row describes an SRR or a PSR.
-2) salt_cont_author.csv - Each row is an occurrence of one author authoring a report.
+2) salt_cont_author.csv - Each report has one row per author.
 3) inclusion_net_edges.csv - Each row represents an inclusion of a PSR in an SRR identified by us from the full text of the SRRs. 
 4) potential_inclusion_link.csv - A matrix whose column indices are SRRs and row indices are PSRs. Cells with "p" denote where PSRs were potentially eligible for inclusion in SRRs, according to the publication date of the PSRs and the dates of the last search of the SRRs. This data was collected from Web Figure 4 of the data supplement of Trinquart et al. (2016). 
 5) systematic_review_inclusion_criteria.csv - Each row records the inclusion criteria of an SRR.
@@ -58,7 +58,7 @@ author_given_name - The given name of the author
 author_surname - The surname of the author
 author_id - Unique identifier of the author, either from Scopus Author ID or assigned by us.
 organizational_author - If a report is published under the name of an organization, it is stored in this column. Otherwise, the cell is filled with "NA."
-Manual - If TRUE, the author information was extracted manually. If FALSE, the author information was retrieved from the Scopus citation database. 
+Manual - If TRUE, the author information (author names) was extracted manually. If FALSE, the author information (author names and Scopus IDs) was retrieved from the Scopus citation database. 
 
 3) inclusion_net_edges.csv:
 citing_ID - The numeric ID of an SRR
