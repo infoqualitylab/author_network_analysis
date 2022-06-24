@@ -49,7 +49,7 @@ year - Publication year of the report
 attitude - Scientific opinion about the salt controversy from Trinquart et al. (2016) and take the value of for, against, or inconclusive. 
 doi - the DOI of the report (if applicable, otherwise blank)
 retracted(Y/N) - Y if the report was retracted or withdrawn, N if the report was not retracted or withdrawn.
-study_design - The study design of a report, which takes the following values: Case Control Study, Cohort Study, Systematic Review, and RCT (stands for randomized controlled trial). 
+study_design - The study design of a report, which takes the following values: Case Control Study, Cohort Study, Systematic Review, and Randomized Controlled Trial. 
 
 2) salt_cont_author.csv: 
 ID - Numeric ID of the report
