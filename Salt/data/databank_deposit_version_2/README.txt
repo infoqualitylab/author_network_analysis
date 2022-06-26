@@ -72,7 +72,7 @@ ID - The numeric ID of the SRR.
 short_name - ID of the SRR from Trinquart et al. (2016).
 attitude - An SRR's scientific opinion about the salt controversy from Trinquart et al. (2016), which takes the value of for, against, or inconclusive.
 no_of_studies_included - Number of studies included in the SRR.
-no_of_reports_included – Number of PSRs included in the SRR.
+no_of_reports_included – Number of PSRs included in the SRR. This number should correspond to the number of edges each SRR has in the file inclusion_net_edges.csv
 report_included_in_Trinquart_data – Number of PSRs that appear in the Trinquart dataset' 68 PSRs. Some SRRs include PSRs that are not covered by Trinquart et al. (2016)'s 68 PSRs. Such SSRs reivew the effect of sodium intake on health outcomes other than cerebrocardiovascular disease or mortality. 
 study_design - Study designs to include, per inclusion criteria, as described in the SRR.
 study_design_unified – Unified coding for the study_design, reduced from study_design column.
