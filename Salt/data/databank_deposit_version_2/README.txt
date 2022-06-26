@@ -126,11 +126,11 @@ SRR11: Trinquart's edge list has 26 edges, and our edge list has 27 edges. Our e
 
 SRR12: identical.
 
-SRR13: Trinquart's edge list has 28 edges, and our edge list has 26 edges. The differences:
+SRR13: Trinquart's edge list has 28 edges, and our edge list has 28 edges. The differences:
 - our edge list has 13 --> 46, 13 --> 76 that are not in the Trinquart's edge list.
-- Trinquart's edge list has: 13 --> 34, 13 --> 42, 13 --> 43, 13 --> 55 that are not in our edge list.
+- Trinquart's edge list has: 13 --> 34, 13 --> 42 that are not in our edge list.
 Reason:
 We found PSR46 and PSR76 as included PSRs in SRR13.
-We did not find PSR34, PSR42, PSR43 and PSR55 as included PSRs in SRR13. In particular, PSR43 and PSR55 met the inclusion criteria of SRR13. However, they report randomized controlled trial (RCT) studies, and only two RCT studies were identified. Therefore, the analysis of RCTs was abandoned, and PSR43 and PSR55 did not contribute to the evidence synthesis of SRR13. 
+We did not find PSR34, PSR42 as included PSRs in SRR13.
 
 SRR14: identical.
