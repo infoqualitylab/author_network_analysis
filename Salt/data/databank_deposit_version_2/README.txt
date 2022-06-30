@@ -73,7 +73,7 @@ short_name - ID of the SRR from Trinquart et al. (2016).
 attitude - An SRR's scientific opinion about the salt controversy from Trinquart et al. (2016), which takes the value of for, against, or inconclusive.
 no_of_studies_included - Number of studies included in the SRR.
 no_of_reports_included – Number of PSRs included in the SRR. This number should correspond to the number of edges each SRR has in the file inclusion_net_edges.csv
-report_included_in_Trinquart_data – Number of PSRs that appear in the Trinquart dataset' 68 PSRs. Some SRRs include PSRs that are not covered by Trinquart et al. (2016)'s 68 PSRs. Such SSRs reivew the effect of sodium intake on health outcomes other than cerebrocardiovascular disease or mortality. 
+no_of_included_reports_included_in_Trinquart_data – Number of PSRs that appear in the Trinquart dataset' 68 PSRs. Some SRRs include PSRs that are not covered by Trinquart et al. (2016)'s 68 PSRs. Such SSRs reivew the effect of sodium intake on health outcomes other than cerebrocardiovascular disease or mortality. 
 study_design - Study designs to include, per inclusion criteria, as described in the SRR.
 study_design_unified – Unified coding for the study_design, reduced from study_design column.
 population - Populations to include, per inclusion criteria, as described in the SRR.
@@ -84,6 +84,9 @@ outcome - Study outcomes required for inclusion, per inclusion criteria, as desc
 Language_restriction - Report languages to include, per inclusion criteria.
 Follow_up_period - Follow-up period required for inclusion, per inclusion criteria, as described in the SRR. 
 Follow_up_period_unified – Unified coding for follow-up period, reduced from te "follow_up_period" column. 
+last_search_year – the year when the last literature search of an SRR was performed.
+last_search_month – the month when the last literature search of an SRR was performed.
+last_search_day – the day when the last literature search of an SRR was performed.
 Notes – Additional notes about each entry.
 
 6) inclusion_net_edges_trinquart.csv:
