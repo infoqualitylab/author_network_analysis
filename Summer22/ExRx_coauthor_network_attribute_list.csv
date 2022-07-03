@@ -1,0 +1,1897 @@
+author_id,report_id,no_of_srrs,no_of_psrs,percent_srrs,author_full_name
+1,[335],0,1,0.0,Yunqiao Sun
+2,[412],0,1,0.0,Haiyan Yin
+3,[412],0,1,0.0,Baiqing Zhao
+4,[412],0,1,0.0,Yanqiang Liao
+5,[412],0,1,0.0,Qingkui Lin
+6,[266],0,1,0.0,Huipeng Fu 
+7,[266],0,1,0.0,Xiaohui Zhao
+8,[408],0,1,0.0,Yonghui Wu
+9,[408],0,1,0.0,Ouying Chen
+10,[408],0,1,0.0,Yaoyue Luo
+11,[408],0,1,0.0,Rongchen Jin
+12,[408],0,1,0.0,Shiwen He
+13,[242],0,1,0.0,Yu Liu
+14,[242],0,1,0.0,Ran Huo
+15,[242],0,1,0.0,Yi Lai
+16,[242],0,1,0.0,Qiuli Yao
+17,[242],0,1,0.0,Caiyun Chen
+19,[309],0,1,0.0,Honghua Liu
+20,"[242, 309]",0,2,0.0,Yan Chen
+21,[309],0,1,0.0,Xia Yi
+22,[309],0,1,0.0,Yinhua Zhang
+23,[309],0,1,0.0,Qiuhong Zhou
+24,[309],0,1,0.0,Yanlan Yu
+25,[309],0,1,0.0,Ying Huang
+26,[299],0,1,0.0,Xinyuan Wu
+27,[299],0,1,0.0,Li Li
+28,[299],0,1,0.0,Peiran Ding
+29,[299],0,1,0.0,Jun Li
+30,[419],0,1,0.0,Xia Wu
+31,[419],0,1,0.0,Wugeng Xue
+32,[419],0,1,0.0,Jing Fang
+33,[419],0,1,0.0,Junxing Wang
+34,[419],0,1,0.0,Xinliu Fan
+35,[419],0,1,0.0,Haixiao Ma
+36,[419],0,1,0.0,Zhe Liu
+37,[419],0,1,0.0,Caide Ye
+38,[419],0,1,0.0,Jinxiu Duan
+39,[373],0,1,0.0,Jinchun Wu
+40,[373],0,1,0.0,Bo Yang
+41,[373],0,1,0.0,Rong Xiao
+42,[373],0,1,0.0,Chengfeng Luo
+43,[373],0,1,0.0,Yanan Shang
+44,[227],0,1,0.0,Huilan Zhou
+47,[315],0,1,0.0,Tao Zhou
+48,[406],0,1,0.0,Fangping Guan
+49,[406],0,1,0.0,Xiaoqun Liu
+50,[406],0,1,0.0,Ning Cheng
+51,[406],0,1,0.0,Qiao Lin
+52,[406],0,1,0.0,Yaoping Lin
+53,[406],0,1,0.0,Xiaoxing Zheng
+54,[402],0,1,0.0,Zhaokang Zhang
+55,[402],0,1,0.0,Jiansheng Gao
+56,[402],0,1,0.0,Yu Liang
+57,[402],0,1,0.0,Lixia Zhang
+58,[382],0,1,0.0,Liman Zhang
+59,[382],0,1,0.0,Lirong Luo
+60,[432],0,1,0.0,Feng Zhang
+61,[432],0,1,0.0,Zhenghua Lin
+62,[432],0,1,0.0,Lili Zhang
+63,[432],0,1,0.0,Chuanfeng Wang
+64,[384],0,1,0.0,Jie Zhang
+65,[384],0,1,0.0,Wenwen Zhang
+66,[384],0,1,0.0,Hui Shen
+67,[311],0,1,0.0,Chengxiu Li
+68,[311],0,1,0.0,Zhigang Tan
+69,[311],0,1,0.0,Sheng Liu
+70,"[429, 435]",0,2,0.0,Qun Li
+71,"[429, 435]",0,2,0.0,Lifang Wang
+72,[429],0,1,0.0,Xin Zhang
+73,[285],0,1,0.0,Fang Du
+74,[285],0,1,0.0,Min Ren
+75,[285],0,1,0.0,Aiqin Wang
+76,[431],0,1,0.0,Qiaoju Yang
+77,[431],0,1,0.0,Ranran Huang
+78,[433],0,1,0.0,Qiu Lin
+79,[332],0,1,0.0,Guifeng Shi
+80,[257],0,1,0.0,Yuxiang Guan
+81,[257],0,1,0.0,Shanshan Wang
+82,[257],0,1,0.0,Mengnan Ma
+83,[380],0,1,0.0,Lanhong Suo
+84,[380],0,1,0.0,Hongjuan Yu
+85,[424],0,1,0.0,Yan Han
+86,[424],0,1,0.0,Qingxin Wang
+87,[424],0,1,0.0,Dan Luo
+88,[424],0,1,0.0,Junlin Xue
+90,"[199, 223]",0,2,0.0,Yaning Zhao
+91,[199],0,1,0.0,Shuxing Li
+92,[345],0,1,0.0,Xiaoling Huang
+93,[345],0,1,0.0,Shuping Wu
+94,[345],0,1,0.0,Huazhong Xu
+95,[441],0,1,0.0,Rong Wang
+96,[441],0,1,0.0,Fengguang Guan
+97,[441],0,1,0.0,Xinghui Yan
+98,[440],0,1,0.0,Cong Cao
+99,[440],0,1,0.0,Xiujun Guo
+100,[440],0,1,0.0,Ning Chen
+101,[440],0,1,0.0,Xin Yan
+102,[440],0,1,0.0,Huiling Zhang
+103,[32],0,1,0.0,Robert Joseph Fetsch
+104,[33],0,1,0.0,Martha Ann Rueter
+105,[34],0,1,0.0,Deborah Kay Orth
+106,[35],0,1,0.0, Mary Joan Hess-Homeier
+107,[39],0,1,0.0,M Reuter
+108,"[39, 44, 47]",0,3,0.0,Nanette Mutrie
+109,[39],0,1,0.0,D. V Harris
+110,[42],0,1,0.0,John L Setaro
+111,[43],0,1,0.0,Donald Epstein
+112,[52],0,1,0.0,Rima Dhir
+113,[52],0,1,0.0,Aruna Broota
+114,[54],0,1,0.0,Keith Douglas Kanner
+115,[63],0,1,0.0,S. S. Kumar
+116,[63],0,1,0.0,Paramjit Kaur
+117,[63],0,1,0.0,Sarabjit Kaur
+118,[80],0,1,0.0,V Rohini
+119,[80],0,1,0.0,R. S. Pandey
+120,[90],0,1,0.0,Deborah Bedner Kupecz
+121,[109],0,1,0.0,Leeanne Homburger Bonnet
+122,[110],0,1,0.0,Kimberlee Hoirup Bethany
+123,[116],0,1,0.0,Susan Parkinson
+124,[120],0,1,0.0,C. M. Bernaards
+125,[120],0,1,0.0,M. P. Bernaards
+126,[120],0,1,0.0,S. G. Jans
+127,[120],0,1,0.0,I. L. Houtman
+128,[120],0,1,0.0,P. M. Bongers
+129,[127],0,1,0.0,Rebecca Dudley Shelor
+130,[134],0,1,0.0,Wing Chung Lau
+131,[134],0,1,0.0,C. W. Yu
+132,[134],0,1,0.0,Antoinette Lee
+133,[134],0,1,0.0,Rita Y. T. Sung
+134,[138],0,1,0.0,José Luiz Lopes Vieira
+135,[138],0,1,0.0,Mauro Porcu
+136,[138],0,1,0.0,Priscila Garcia Marques Da Rocha
+137,[168],0,1,0.0,Donna S. Wang
+138,[169],0,1,0.0,Abbass Yavari
+139,"[176, 267]",0,2,0.0,Tyler Tapps
+140,[244],0,1,0.0,Jafar Barghi Moghaddam
+141,[244],0,1,0.0,Mehrdad Hefzollesan
+142,[244],0,1,0.0,Mir Hamid Salehian
+143,[244],0,1,0.0,Mohsen Shirmohammadzadeh
+144,[251],0,1,0.0,Ji Xd
+145,[251],0,1,0.0,Q. S. Wang
+147,[304],0,1,0.0,Cassandra W. H. Ho
+148,[304],0,1,0.0,J. S. Wong
+149,[304],0,1,0.0,W. T. Cheung
+150,[304],0,1,0.0,Dicky W. S. Chung
+151,[304],0,1,0.0,Titanic F. O. Lau
+152,[383],0,1,0.0,Khirollah Sadeghi
+153,[383],0,1,0.0,Seyed Ahmadi
+154,[383],0,1,0.0,Mansour Rezaei
+155,[383],0,1,0.0,Javad Miri
+156,[383],0,1,0.0,Alireza Abdi
+157,[383],0,1,0.0,Firoozeh Khamoushi
+158,[383],0,1,0.0,Mahin Salehi
+159,[383],0,1,0.0,Khadijeh Jamshidi
+160,[268],0,1,0.0,E Alijani
+161,[278],0,1,0.0,
+163,[16],1,0,1.0,Siri Kvam
+164,[16],1,0,1.0,Catrine Lykkedrang Kleppe
+165,[16],1,0,1.0,Inger Hilde Nordhus
+166,[36],0,1,0.0,James C. Hilyer
+167,[36],0,1,0.0,Dennis G. Wilson
+168,[36],0,1,0.0,Carol Dillon
+169,[36],0,1,0.0,Laura Caro
+170,[36],0,1,0.0,Chester Jenkins
+171,[36],0,1,0.0,Mark E. Meadows
+172,[36],0,1,0.0,Wayne Booker
+173,[36],0,1,0.0,William A. Spencer
+174,[40],0,1,0.0,Dean P. Lesser
+175,[40],0,1,0.0,Robert E. Smith
+176,[40],0,1,0.0,Nancy J. Bushnell
+177,[112],0,1,0.0,John E. Morley
+182,[303],0,1,0.0,Mary Lynn Marinucci
+183,[303],0,1,0.0,Leslie Sirrianni
+185,[391],0,1,0.0,A. J. Grande
+186,[391],0,1,0.0,V. F. M. Trevisani
+187,[435],0,1,0.0,Huirong Jiao
+188,[108],0,1,0.0,HE Kitzman 
+189,[108],0,1,0.0,TL Green
+190,[16],1,0,1.0,Anders Hovland
+191,[251],0,1,0.0,C. X.  Wang
+192,[88],0,1,0.0,H. O'Neal
+193,[312],0,1,0.0,A. Scott
+194,[312],0,1,0.0,C. Wagstaff
+195,[268],0,1,0.0,M Noorbakhsh
+196,[267],0,1,0.0,Donna Lindenmeier
+197,[312],0,1,0.0,L. Y. Herring
+198,[267],0,1,0.0,Tim Passmore
+6503862833,[81],0,1,0.0,Alexandra M. Shurgaja
+6503882444,[274],0,1,0.0,Laura F. Defina
+6504077128,[28],1,0,1.0,Chantal Arpin-Cribbie
+6504175075,[342],0,1,0.0,Elke Gützlaff
+6504261558,[359],0,1,0.0,Olaf Hoos
+6504821367,[362],0,1,0.0,L. Viñas Cabrera
+6504831020,[415],0,1,0.0,Carrie A. Bronars
+6505559523,[292],0,1,0.0,Hamilton Roschel
+6505808745,[93],0,1,0.0,Irit Poraz
+6505830834,[230],0,1,0.0,Badri Rickhi
+6505907125,[438],0,1,0.0,Marianna Noale
+6505961892,[93],0,1,0.0,Michal Kairi
+6505997583,[181],0,1,0.0,Panayotes Demakakos
+6506056250,[354],0,1,0.0,M. Menchetti
+6506078226,[284],0,1,0.0,Nancy L. Chernett
+6506080406,[48],0,1,0.0,Lenore S. Radloff
+6506095893,[123],0,1,0.0,Shirley Kishiyama
+6506136404,"[46, 50]",0,2,0.0,Elizabeth J. Doyne
+6506190520,[399],0,1,0.0,Georg Schönbächler
+6506251232,[293],0,1,0.0,Göran Umefjord
+6506281745,"[30, 31]",0,2,0.0,Roger R. Eischens
+6506399225,[273],0,1,0.0,Katia Gallegos-Carrillo
+6506425128,[153],0,1,0.0,Elizabeth Misener
+6506425962,[357],0,1,0.0,Viktor Kaldo
+6506485825,"[232, 291]",0,2,0.0,Ryan Huebinger
+6506493333,[401],0,1,0.0,Ursula Hillmer-Vogel
+6506535310,"[37, 45]",0,2,0.0,Jeffrey Fremont
+6506558618,[79],0,1,0.0,P. J. Naga Venkatesha Murthy
+6506655024,[68],0,1,0.0,Kim Shamash
+6506671695,[94],0,1,0.0,Stéphane Deleger
+6506674860,[102],0,1,0.0,Alison Woolery
+6506744848,[390],0,1,0.0,Soji Swaraj
+6506746772,[329],0,1,0.0,Dimitris N. Kiosses
+6506749276,[236],0,1,0.0,Cynthia Suveg
+6506755579,"[98, 101]",0,2,0.0,Diane Rigassio Radler
+6506799944,[99],0,1,0.0,H. Bäckmand
+6507011079,[150],0,1,0.0,Alisha L. Brosse
+6507013294,[130],0,1,0.0,Yurdaer Sermez
+6507031710,[135],0,1,0.0,Emily Klineberg
+6507066046,[212],0,1,0.0,Michael P. Walkup
+6507077695,[81],0,1,0.0,Boris B. Pinchasov
+6507149548,[359],0,1,0.0,Marcel Sieberer
+6507233742,"[9, 15, 410, 438]",2,2,0.5,Marco Solmi
+6507281992,[129],0,1,0.0,Kay Griver
+6507458944,[143],0,1,0.0,E. L. Van Der Kooi
+6507468815,[205],0,1,0.0,Erwin C.P.M. Tak
+6507482361,[346],0,1,0.0,Anette Rickenlund
+6507526641,[139],0,1,0.0,Evan Atlantis
+6507562219,[20],1,0,1.0,Manote Lotrakul
+6507627719,[219],0,1,0.0,Prabha Sunderajan
+6507689832,[234],0,1,0.0,Deborah Demolles
+6507896770,[61],0,1,0.0,K. Le Fevre
+6507911761,[392],0,1,0.0,Megan Kalucy
+6508105060,"[261, 346]",0,2,0.0,Karin Wadell
+6508123381,"[46, 50]",0,2,0.0,Ilona B. McDougall-Wilson
+6508136499,[203],0,1,0.0,Naomi Chaytor
+6508161184,[260],0,1,0.0,Martin T. Strassnig T.
+6508204889,[58],0,1,0.0,M. Walsh-Riddle
+6508268682,[369],0,1,0.0,Claire Pentecost
+6601967193,[152],0,1,0.0,Aliya B. Ladha
+6602084604,[436],0,1,0.0,Catherine D'Este
+6602096906,[140],0,1,0.0,G. A. Brenes
+6602111727,[20],1,0,1.0,Ammarin Thakkinstian
+6602174202,[92],0,1,0.0,Anne M. McHarg
+6602196619,"[153, 195]",0,2,0.0,Zvi D. Gellis
+6602278210,[28],1,0,1.0,Antonis Hatzigeorgiadis
+6602336142,"[22, 356, 427]",1,2,0.3333333333333333,Fiona Gaughran
+6602338792,[369],0,1,0.0,Paul Farrand
+6602373061,[130],0,1,0.0,Oya Topuz
+6602385251,"[26, 27]",2,0,1.0,Andrea Camaz Deslandes
+6602449748,[343],0,1,0.0,Richard C. Oude Voshaar
+6602457126,[56],0,1,0.0,Terry C. Camacho
+6602516103,[305],0,1,0.0,Alison Wearden
+6602527202,[67],0,1,0.0,Kenneth E. Mobily
+6602536089,[247],0,1,0.0,Nicola J. Wiles
+6602543517,[206],0,1,0.0,Lionel Lubitz
+6602551513,[324],0,1,0.0,Paula Ravasco
+6602554931,[58],0,1,0.0,S. Schniebolk
+6602559325,[305],0,1,0.0,Diane Escott
+6602588932,[198],0,1,0.0,Åsa Westrin
+6602609331,[4],1,0,1.0,Jost Langhorst
+6602670981,[314],0,1,0.0,P. Andreozzi
+6602687959,[113],0,1,0.0,P. Ekkekakis
+6602731256,[362],0,1,0.0,M. I. Fernández-San-Martín
+6602751797,[178],0,1,0.0,Janet Buckworth
+6602806877,[62],0,1,0.0,Nancy Norvell
+6602819769,[290],0,1,0.0,Flavio F. Marsiglia
+6602828196,[387],0,1,0.0,Jon Snaedal
+6602829865,[55],0,1,0.0,Karla A. Kubitz
+6602847888,[401],0,1,0.0,Thomas Wobrock
+6602850300,[273],0,1,0.0,Yvonne N. Flores
+6602884948,"[274, 291]",0,2,0.0,Paul Nakonezny
+6602900446,[82],0,1,0.0,Isto Ruoppila
+6602928303,[284],0,1,0.0,Laura T. Pizzi
+6602956669,[319],0,1,0.0,David Prvulovic
+6602966115,[86],0,1,0.0,Nigel R. Chaumeton
+6602966839,"[120, 205]",0,2,0.0,Ingrid J.M. Hendriksen
+6602981040,[264],0,1,0.0,P. Siddarth
+6602989160,[344],0,1,0.0,Gary S. Goldfield
+6602989482,[297],0,1,0.0,Andrea Fagiolini
+6602994532,[333],0,1,0.0,A. Canuto
+6602994588,"[69, 70, 89, 112, 139]",0,5,0.0,Maria A.Fiatarone Singh
+6603019268,[344],0,1,0.0,Heather Tulloch
+6603025840,[401],0,1,0.0,Thomas Schneider-Axmann
+6603045753,[277],0,1,0.0,W. Cahn
+6603060429,[230],0,1,0.0,Robin Reesal
+6603077146,"[352, 386, 411]",0,3,0.0,Pascal Sienaert
+6603095212,[121],0,1,0.0,Michael J. Forlenza
+6603137598,[143],0,1,0.0,J. S. Kalkman
+6603154125,[330],0,1,0.0,Örjan Ekblom
+6603183351,[213],0,1,0.0,Felice N. Jacka
+6603189102,[205],0,1,0.0,Elise Dusseldorp
+6603249790,[356],0,1,0.0,Z. Atakan
+6603291354,"[6, 293]",1,1,0.5,Per Carlbring
+6603305233,"[95, 106]",0,2,0.0,Heather O. Chambliss
+6603317348,[344],0,1,0.0,Steve Doucette
+6603321025,[103],0,1,0.0,Jayne Kulzer
+6603323147,[310],0,1,0.0,A. Waterreus
+6603333855,[208],0,1,0.0,Janne Schumann Tolstrup
+6603354690,[162],0,1,0.0,Lynn C. Waelde
+6603357863,[277],0,1,0.0,F. J.G. Backx
+6603379273,"[129, 166]",0,2,0.0,Christine McKibbin
+6603397458,"[219, 232, 291]",0,3,0.0,Bruce D. Grannemann
+6603417884,[407],0,1,0.0,Miguel Ruíz-Canela
+6603448009,[396],0,1,0.0,Lisa A. Uebelacker
+6603479223,"[219, 108]",0,2,0.0,Daniel I. Galper
+6603507307,[369],0,1,0.0,Melvyn Hillsdon
+6603508115,[189],0,1,0.0,Kerri N. Boutelle
+6603538738,[340],0,1,0.0,S. Mihrshahi
+6603569492,[38],0,1,0.0,I. Lisa McCann
+6603580098,"[83, 85]",0,2,0.0,Teri T. Baldewicz
+6603605609,[81],0,1,0.0,Oleg V. Grischin
+6603622470,"[98, 101]",0,2,0.0,Shula Minsky
+6603629778,[142],0,1,0.0,Fabien Pillard
+6603633653,[329],0,1,0.0,Lisa D. Ravdin
+6603654515,[250],0,1,0.0,Joel Landzberg
+6603667511,[235],0,1,0.0,Margreet Ten Have
+6603677862,[282],0,1,0.0,Irene Strychar
+6603709587,[259],0,1,0.0,N. David Åberg
+6603747584,[175],0,1,0.0,Jeannette Milgrom
+6603757100,[233],0,1,0.0,Karestan Koenen
+6603806651,[17],1,0,1.0,Glenn A. Melvin
+6603807336,[370],0,1,0.0,Bernhard T. Baune
+6603827346,"[148, 158]",0,2,0.0,Claudio Velluti
+6603854036,[149],0,1,0.0,Arul Earnest
+6603871689,[62],0,1,0.0,Dale Belles
+6603887734,[200],0,1,0.0,David O. Antonuccio
+6603921559,[86],0,1,0.0,Peter Harmer
+6603945248,[256],0,1,0.0,Mauro García-Toro
+6603960588,[415],0,1,0.0,Michael H. Ussher
+6604015526,[275],0,1,0.0,Cheryl Bourguignon
+6701313040,"[30, 31, 40]",0,3,0.0,Alan S. Gurman
+6701344218,[107],0,1,0.0,Lynette L. Craft
+6701347101,[371],0,1,0.0,Albertine J. Oldehinkel
+6701352326,[122],0,1,0.0,Krisann Alvarez
+6701376545,[117],0,1,0.0,M. Fisberg
+6701427418,[164],0,1,0.0,Sandy C. Burgener
+6701441488,[143],0,1,0.0,E. Lindeman
+6701441570,[28],1,0,1.0,Yannis Theodorakis
+6701475159,[93],0,1,0.0,Naama Constantini
+6701499133,"[148, 158]",0,2,0.0,Maria Carolina Hardoy
+6701543468,[162],0,1,0.0,Christine M. Blasey
+6701577640,[306],0,1,0.0,Markus Bühner
+6701581461,[290],0,1,0.0,Michael Belyea
+6701607007,[111],0,1,0.0,Gloria Coronado
+6701615014,[250],0,1,0.0,David J. Whellan
+6701640504,[275],0,1,0.0,Emily Hauenstein
+6701658147,[48],0,1,0.0,Eve K. Mo?cicki
+6701698964,[314],0,1,0.0,E. Ettorre
+6701702126,[310],0,1,0.0,J. C. Badcock
+6701721039,[204],0,1,0.0,Mats Börjesson
+6701722656,"[95, 106, 108]",0,3,0.0,James B. Kampert
+6701727150,[55],0,1,0.0,Walter Salazar-Rojas
+6701740880,[305],0,1,0.0,Adrine Woodham
+6701751203,[314],0,1,0.0,N. Gueli
+6701751973,[166],0,1,0.0,Laurie A. Lindamer
+6701778143,[224],0,1,0.0,Jorge Silverio
+6701780313,[369],0,1,0.0,Jo R. Welsman
+6701797233,[155],0,1,0.0,D. MacCrimmon
+6701797460,"[259, 320]",0,2,0.0,Margda Waern
+6701807247,[45],0,1,0.0,Linda Wilcoxon Craighead
+6701820609,[343],0,1,0.0,Hannie C. Comijs
+6701821531,[336],0,1,0.0,Norbert Thuerauf
+6701834549,[192],0,1,0.0,Ngaire Kerse
+6701843086,[154],0,1,0.0,Anastasia Georgiades
+6701857909,[136],0,1,0.0,M. Adli
+6701866315,[417],0,1,0.0,Grzegorz Bulaj
+6701900416,[211],0,1,0.0,Hein P.J. Van Hout
+6701918428,[295],0,1,0.0,Hélio Elkis
+7003269528,[274],0,1,0.0,Graham J. Emslie
+7003284391,[354],0,1,0.0,M. Amore
+7003299759,[338],0,1,0.0,John Attia
+7003301449,[79],0,1,0.0,D. K. Subbakrishna
+7003318067,[94],0,1,0.0,William J. Strawbridge
+7003372910,[230],0,1,0.0,John Toews
+7003380828,[302],0,1,0.0,Jon J. Pfaff
+7003385572,[416],0,1,0.0,Sebastian E. Baumeister
+7003390306,"[125, 276]",0,2,0.0,Erik J. Giltay
+7003393363,[254],0,1,0.0,Marianne Lunde
+7003395380,[250],0,1,0.0,Steven Keteyian
+7003398143,[319],0,1,0.0,Winfried Banzer
+7003406242,[82],0,1,0.0,Riitta Liisa Heikkinen
+7003424945,[146],0,1,0.0,M. P.J. Van Boxtel
+7003433840,[84],0,1,0.0,M. Alen
+7003436845,[192],0,1,0.0,Gregory S. Kolt
+7003441733,[2],1,0,1.0,Carolyn A. Greig
+7003473393,[129],0,1,0.0,Concepcion Barrio
+7003475980,[148],0,1,0.0,Bernardo Carpiniello
+7003493665,[174],0,1,0.0,Frank P. Deane
+7003497584,[123],0,1,0.0,Barry S. Oken
+7003514479,[189],0,1,0.0,Kirsten K. Ness
+7003555693,[156],0,1,0.0,Michael Höfler
+7003581057,[65],0,1,0.0,Deborah Koniak?Griffin
+7003585357,[306],0,1,0.0,Cornelius Schüle
+7003601583,[93],0,1,0.0,Gil Zalsman
+7003612455,[196],0,1,0.0,Rebecca A. Gary
+7003622297,[329],0,1,0.0,Patrick Raue
+7003630266,[220],0,1,0.0,Rebecca G. Logsdon
+7003635980,[303],0,1,0.0,Mark T. Hegel
+7003636771,"[243, 363]",0,2,0.0,Shuichi Awata
+7003647960,[213],0,1,0.0,Julie A. Pasco
+7003667235,[220],0,1,0.0,Susan M. McCurry
+7003667742,[157],0,1,0.0,R. M. Tappen
+7003676722,[277],0,1,0.0,T. Takken
+7003678505,"[132, 146, 278]",0,3,0.0,Hans Bosma
+7003689913,[66],0,1,0.0,Luis G. Escobedo
+7003694098,[250],0,1,0.0,Ann Swank
+7003697147,[91],0,1,0.0,Jasma Pandya
+7003752250,[101],0,1,0.0,Michael Gara
+7003754594,[129],0,1,0.0,Scott Roesch
+7003778626,[219],0,1,0.0,Conrad P. Earnest
+7003815544,[245],0,1,0.0,Maria Hernandez-Reif
+7003829458,"[330, 357]",0,2,0.0,Yvonne Forsell
+7003830231,[357],0,1,0.0,Agneta Öjehagen
+7003860203,[284],0,1,0.0,Laura N. Gitlin
+7003871325,[81],0,1,0.0,Arcady A. Putilov
+7003907368,[55],0,1,0.0,Steven J. Petruzzello
+7003919775,[87],0,1,0.0,Donna Kritz-Silverstein
+7003927709,[436],0,1,0.0,Jose Luis Ayuso-Mateos
+7003945728,[155],0,1,0.0,L. P. Voruganti
+7003976624,[326],0,1,0.0,R. K. Elswick
+7003980939,[113],0,1,0.0,J. E. Cunnick
+7003990854,[275],0,1,0.0,Diane Whaley
+7003991086,[305],0,1,0.0,Barbara Tomenson
+7004006411,[395],0,1,0.0,Ole Mors
+7004018130,"[365, 420]",0,2,0.0,Maria Augusta Vieira-Coelho
+7004037083,"[229, 264]",0,2,0.0,Helen Lavretsky
+7004048383,[222],0,1,0.0,Steve Selig
+7004073151,[59],0,1,0.0,W. F. Vitulli
+7004092598,[213],0,1,0.0,Mark A. Kotowicz
+7004112941,[391],0,1,0.0,M. S.  Peccin
+7004114471,[280],0,1,0.0,Stephen A. Bremner
+7004128448,[136],0,1,0.0,F. M. Reischies
+7004147804,[280],0,1,0.0,Bart Sheehan
+7004197718,[186],0,1,0.0,Willem J. Kop
+7004222751,[438],0,1,0.0,Michele Fornaro
+7004226864,[103],0,1,0.0,Karen Schmaling
+7004235106,"[183, 290]",0,2,0.0,Bernadette M. Melnyk
+7004255911,[396],0,1,0.0,Cynthia L. Battle
+7004256256,"[77, 83, 85, 96, 150, 210]",0,6,0.0,W. Edward Craighead
+7004262000,[211],0,1,0.0,Harm W.J. Van Marwijk
+7004283214,[218],0,1,0.0,Lars Wichstrøm
+7004289966,[326],0,1,0.0,Susan Kornstein
+7004290629,"[159, 407]",0,2,0.0,Miguel A. Martínez-González
+7004312567,[255],0,1,0.0,Douglas D. Schocken
+7004323715,[160],0,1,0.0,Barbara Resnick
+7004348315,[278],0,1,0.0,Eleanor M. Simonsick
+7004353592,[226],0,1,0.0,S. P. Cumming
+7004357169,[354],0,1,0.0,A. Buffa
+7004374614,[66],0,1,0.0,Janet B. Croft
+7004391239,[248],0,1,0.0,Mika Kivimäki
+7004412740,"[125, 276]",0,2,0.0,Frans G. Zitman
+7004425915,"[22, 265, 287, 351, 352, 381, 386, 411]",1,7,0.125,Marc De Hert
+7004443355,[233],0,1,0.0,Alberto Ascherio
+7004463675,[344],0,1,0.0,Janine Malcolm
+7004466835,[77],0,1,0.0,Mark Appelbaum
+7004494954,[197],0,1,0.0,Patricia L. Blanchette
+7004498523,"[77, 83, 85, 96, 150, 151, 154, 163, 210, 250, 255]",0,11,0.0,Michael Babyak
+7004509281,[416],0,1,0.0,Hans-Jörgen  Grabe
+7004518317,[306],0,1,0.0,Thomas C. Baghai
+7004523568,"[11, 26, 231, 270, 331]",2,3,0.4,Marcelo Pio de Almeida Fleck
+7004524964,[258],0,1,0.0,Poul Videbech
+7004545565,"[98, 101]",0,2,0.0,Matthew Menza
+7004552856,[136],0,1,0.0,P. Schlattmann
+7004562351,[167],0,1,0.0,Harry Prapavessis
+7004574196,[278],0,1,0.0,Marjan Van Den Akker
+7004604315,[211],0,1,0.0,Henriette E. Van Der Horst
+7004609106,[156],0,1,0.0,Andreas Ströhle
+7004624388,[93],0,1,0.0,Doron Gothelf
+7004645125,[280],0,1,0.0,Sandra Eldridge
+7004647724,[375],0,1,0.0,Glenna Dowling
+7004664088,[416],0,1,0.0,Michael F. Leitzmann
+7004676852,[438],0,1,0.0,Giuseppe Sergi
+7004716122,[215],0,1,0.0,Marie DesMeules
+7004722178,[188],0,1,0.0,T. Ingemann-Hansen
+7004745996,"[6, 293]",1,1,0.5,Peter Hassmén
+7004760420,[239],0,1,0.0,Sat Bir S. Khalsa
+7004818575,[142],0,1,0.0,Bruno Vellas
+7004839331,[58],0,1,0.0,M. B. Higginbotham
+7004850345,[196],0,1,0.0,Dominique L. Musselman
+7004863070,[92],0,1,0.0,Moyra F. Guthrie
+7004877586,[310],0,1,0.0,V. A. Morgan
+7004884514,"[21, 180, 258, 395]",1,3,0.25,Christian Gluud
+7004891687,[91],0,1,0.0,William B. Applegate
+7004926839,"[219, 232, 291]",0,3,0.0,Thomas J. Carmody
+7004928143,[213],0,1,0.0,Eva Leslie
+7004933140,[152],0,1,0.0,Christine M. Friedenreich
+7004961369,[128],0,1,0.0,Lucile L. Adams-Campbell
+7004979810,[201],0,1,0.0,Sureyya Dikmen
+7004995747,[58],0,1,0.0,F. R. Cobb
+7005008355,[72],0,1,0.0,Laura Gerace
+7005035241,[84],0,1,0.0,P. Hannonen
+7005050686,"[77, 83, 85, 96, 150, 151, 163, 210, 255]",0,9,0.0,P. Murali Doraiswamy
+7005058794,[55],0,1,0.0,Brad D. Hatfield
+7005077625,[208],0,1,0.0,Erik Lykke Mortensen
+7005082194,[152],0,1,0.0,Kerry S. Courneya
+7005096760,[355],0,1,0.0,Michael Moulton
+7005117230,"[183, 290]",0,2,0.0,Leigh Small
+7005154844,[49],0,1,0.0,James R. Macmahon
+7005157028,[186],0,1,0.0,Patricia A. Deuster
+7005185584,[229],0,1,0.0,Richard E. Olmstead
+7005211802,"[91, 140]",0,2,0.0,W. Jack Rejeski
+7005213800,[178],0,1,0.0,Timothy E. Kirby
+7005225389,[152],0,1,0.0,Karen Gelmon
+7005241507,[436],0,1,0.0,Somnath Chatterji
+7005259037,[208],0,1,0.0,Peter Schnohr
+7005261007,[113],0,1,0.0,M. L. Kohut
+7005265706,[71],0,1,0.0,Lucy A. Mead
+7005276015,[354],0,1,0.0,E. Tam
+7005321937,[1],1,0,1.0,Gioia Mura
+7005327802,[192],0,1,0.0,Bruce Arroll
+7005328890,[306],0,1,0.0,Martin Lieb
+7005345302,"[46, 50]",0,2,0.0,Kent M. Osborn
+7005347877,[84],0,1,0.0,K. Hakkinen
+7005368099,[262],0,1,0.0,Sophia L. Sze
+7005371076,[310],0,1,0.0,A. L. Neil
+7005376994,"[211, 216]",0,2,0.0,Pim Cuijpers
+7005394079,[392],0,1,0.0,Katherine Samaras
+7005422365,[143],0,1,0.0,G. W. Padberg
+7005422536,[323],0,1,0.0,Bonnie Spring
+7005425159,[171],0,1,0.0,K. Dodd
+7005436168,[123],0,1,0.0,Dale F. Kraemer
+7005454514,[204],0,1,0.0,Gunnar Ahlborg
+7005479262,[222],0,1,0.0,George Jerums
+7005488968,[230],0,1,0.0,Sabine Moritz
+7005494101,[278],0,1,0.0,Stephen B. Kritchevsky
+7005497794,[188],0,1,0.0,E. Stenager
+7005516628,[156],0,1,0.0,Roselind Lieb
+7005521189,[61],0,1,0.0,C. Pantelis
+7005521342,[357],0,1,0.0,Nils Lindefors
+7005534635,[143],0,1,0.0,G. Bleijenberg
+7005556390,[207],0,1,0.0,Hans Georg Zapotoczky
+7005568128,[64],0,1,0.0,R. S. Paffenbarger
+7005575041,[295],0,1,0.0,Rodrigo A. Bressan
+7005580068,[259],0,1,0.0,Kjell Torén
+7005669901,[416],0,1,0.0,Marcus Dörr
+7005683907,[183],0,1,0.0,Mary Z. Mays
+7005697907,[105],0,1,0.0,Iris Chi
+7005719430,"[40, 46, 50]",0,3,0.0,Robert A. Neimeyer
+7005742222,"[124, 308, 316, 413]",0,4,0.0,Gary Remington
+7005753356,"[3, 124, 190, 308, 316, 413]",1,5,0.16666666666666666,Guy Faulkner
+7005778369,[371],0,1,0.0,Elisabeth H. Bos
+7005822858,[220],0,1,0.0,David M. Buchner
+7005861329,[203],0,1,0.0,Frank Gilliam
+7005866079,[344],0,1,0.0,Ronald J. Sigal
+7005868666,[415],0,1,0.0,Paul A. Decker
+7005871528,[187],0,1,0.0,Heidi M. Blanck
+7005899021,[189],0,1,0.0,Eric Stice
+7005899067,"[135, 209]",0,2,0.0,Russell Viner
+7005904642,[333],0,1,0.0,L. Grassi
+7005909562,[212],0,1,0.0,Lisa C. Barry
+7005920751,[132],0,1,0.0,Aartjan T.F. Beekman
+7005942816,[369],0,1,0.0,Colin J. Greaves
+7005959363,[305],0,1,0.0,Tim Bradshaw
+7005988929,[100],0,1,0.0,Robin G. McCreadie
+7006013130,[114],0,1,0.0,A. Gandhi
+7006031601,[415],0,1,0.0,Christi A. Patten
+7006049399,[247],0,1,0.0,Aidan Searle
+7006060105,[426],0,1,0.0,M. Schedlowski
+7006065001,[197],0,1,0.0,Helen Petrovitch
+7006094707,[259],0,1,0.0,Maria A.I. Åberg
+7006102085,"[135, 209]",0,2,0.0,Kamaldeep Bhui
+7006112267,"[119, 302]",0,2,0.0,Leon Flicker
+7006145162,[200],0,1,0.0,Elizabeth V. Naylor
+7006177458,[235],0,1,0.0,Ron de Graaf
+7006183801,[305],0,1,0.0,Karina Lovell
+7006191523,"[21, 137, 180, 198, 258, 395]",1,5,0.16666666666666666,Merete Nordentoft
+7006255275,[306],0,1,0.0,Rainer Rupprecht
+7006263456,[430],0,1,0.0,Brandon L. Alderman
+7006267004,[342],0,1,0.0,Ulrich Schweiger
+7006276478,[220],0,1,0.0,Linda Teri
+7006277430,"[329, 354]",0,2,0.0,George S. Alexopoulos
+7006290848,[61],0,1,0.0,A. Sargeant
+7006299863,[426],0,1,0.0,A. Del Rey
+7006305683,[143],0,1,0.0,B. G.M. Van Engelen
+7006322598,"[115, 170]",0,2,0.0,Nicola W. Burton
+7006342609,[129],0,1,0.0,Sunder Mudaliar
+7006344446,[26],1,0,1.0,Antonio Ponce De Leon
+7006346685,[336],0,1,0.0,Wolfgang Sperling
+7006347434,[77],0,1,0.0,Leslie M. Forman
+7006356584,[233],0,1,0.0,Éilis J. O'Reilly
+7006367611,"[132, 146, 278]",0,3,0.0,Gertrudis I.J.M. Kempen
+7006376378,"[150, 151, 154, 255]",0,4,0.0,Alan L. Hinderliter
+7006387307,[409],0,1,0.0,Alison R. Yung
+7006392362,[387],0,1,0.0,Lenore J. Launer
+7006393119,[155],0,1,0.0,H. C. Gerstein
+7006437214,[246],0,1,0.0,Ira S. Ockene
+7006441240,"[245, 289]",0,2,0.0,Miguel Diego
+7006453025,[401],0,1,0.0,Peter Falkai
+7006470769,[72],0,1,0.0,Bernard Gutin
+7006506948,[426],0,1,0.0,W. Rief
+7006511474,[260],0,1,0.0,John W. Newcomer
+7006542576,"[79, 80]",0,2,0.0,B. N. Gangadhar
+7006562293,[200],0,1,0.0,David C. Fiore
+7006567237,[371],0,1,0.0,Peter de Jonge
+7006568819,[319],0,1,0.0,Christian Thiel
+7006572495,[140],0,1,0.0,S. P. Messier
+7006576455,[171],0,1,0.0,M. Galea
+7006579623,[333],0,1,0.0,S. Andreas
+7006590644,[48],0,1,0.0,Ben Z. Locke
+7006595568,[145],0,1,0.0,Marlene Fransen
+7006596857,[117],0,1,0.0,S. Tufik
+7006604233,[187],0,1,0.0,Mary K. Serdula
+7006628051,[132],0,1,0.0,Dorly J.H. Deeg
+7006630457,[314],0,1,0.0,M. Cacciafesta
+7006645948,"[41, 51]",0,2,0.0,Egil W. Martinsen
+7006714673,"[1, 148, 158]",1,2,0.3333333333333333,Mauro Giovanni Carta
+7006716124,[188],0,1,0.0,C. Knudsen
+7006718584,[240],0,1,0.0,Jennifer C. Lovejoy
+7006720009,"[132, 146, 278]",0,3,0.0,T. M.  Jacques
+7006741817,[135],0,1,0.0,Robert Booy
+7006768493,"[97, 131, 269]",0,3,0.0,Hector W.H. Tsang
+7006788675,[60],0,1,0.0,S. Weyerer
+7006893886,"[30, 31, 40]",0,3,0.0,John H. Greist
+7006992234,[86],0,1,0.0,Edward McAuley
+7007005108,[203],0,1,0.0,Jurgen Unutzer
+7007009387,"[53, 58, 178]",0,3,0.0,Charles F. Emery
+7007024863,[142],0,1,0.0,Yves Rolland
+7007034716,[102],0,1,0.0,Lonnie Zeltzer
+7007048101,[295],0,1,0.0,Jair de Jesus Mari
+7007070500,"[124, 190, 316]",0,3,0.0,Tony Cohn
+7007088639,[188],0,1,0.0,K. Overgaard
+7007092531,[56],0,1,0.0,Nancy B. Lazarus
+7007140927,[229],0,1,0.0,Linda M. Ercoli
+7007149429,[360],0,1,0.0,Rohan Ganguli
+7007179429,"[336, 368]",0,2,0.0,Johannes Kornhuber
+7007180724,[196],0,1,0.0,Sandra B. Dunbar
+7007183120,[57],0,1,0.0,E. M. LeBlanc
+7101605709,[288],0,1,0.0,Joseph J. Gallo
+7101648907,[354],0,1,0.0,M. Neri
+7101654161,[58],0,1,0.0,D. C. McKee
+7101658429,[302],0,1,0.0,Moira Sim
+7101684166,[5],1,0,1.0,T. Archer
+7101691350,[86],0,1,0.0,Terry E. Duncan
+7101707081,[362],0,1,0.0,R. Masa-Font
+7101717563,[298],0,1,0.0,Sophia Vinogradov
+7101735589,[280],0,1,0.0,Martin Underwood
+7101748853,[74],0,1,0.0,Peter A. Bath
+7101756037,[310],0,1,0.0,A. MacKinnon
+7101771723,[170],0,1,0.0,Kylie Ball
+7101801762,[247],0,1,0.0,Alan A. Montgomery
+7101832789,[317],0,1,0.0,Katherine A. Kaplan
+7101850290,[327],0,1,0.0,Bryan P. McCormick
+7101876132,[64],0,1,0.0,R. Leung
+7101899968,[2],1,0,1.0,Gillian E. Mead
+7101932751,[7],1,0,1.0,Robert Stanton
+7101956142,[280],0,1,0.0,Sarah E. Lamb
+7101964509,"[365, 420]",0,2,0.0,António Manuel Fonseca
+7101988166,"[77, 83, 85, 96, 150]",0,5,0.0,Steve Herman
+7101998868,[143],0,1,0.0,J. C.M. Hendriks
+7102010282,[297],0,1,0.0,Holly A. Swartz
+7102035910,[253],0,1,0.0,Donald Goff
+7102066570,"[55, 165, 179]",0,3,0.0,Daniel M. Landers
+7102075562,"[22, 265, 287, 348, 351, 352, 378, 381, 386, 411]",1,9,0.1,Michel Probst
+7102135927,[152],0,1,0.0,Yutaka Yasui
+7102138183,[162],0,1,0.0,David Spiegel
+7102143051,"[46, 50]",0,2,0.0,Eric D. Bowman
+7102158285,[93],0,1,0.0,Alan Apter
+7102180816,[174],0,1,0.0,Hamish J. McLeod
+7102184358,"[271, 321]",0,2,0.0,George C. Patton
+7102200486,[234],0,1,0.0,Roger A. Fielding
+7102223177,[181],0,1,0.0,Cesar de Oliveira
+7102225249,[48],0,1,0.0,Mary E. Farmer
+7102229903,[152],0,1,0.0,Roanne J. Segal
+7102230220,[75],0,1,0.0,Ken R. Muir
+7102238778,[67],0,1,0.0,Linda M. Rubenstein
+7102289698,[122],0,1,0.0,Mark Floyd
+7102289942,[400],0,1,0.0,A. Steptoe
+7102290997,[325],0,1,0.0,Matthew N. Bartels
+7102326291,[247],0,1,0.0,Anne M. Haase
+7102379464,[135],0,1,0.0,Mary M. Haines
+7102452820,"[2, 247]",1,1,0.5,Deborah A. Lawlor
+7102484758,"[77, 88]",0,2,0.0,Melissa A. Napolitano
+7102486173,[102],0,1,0.0,Hector Myers
+7102497294,[24],1,0,1.0,R. Purcell
+7102552632,"[129, 166]",0,2,0.0,Kevin Patrick
+7102607771,"[129, 166]",0,2,0.0,Gregory Norman
+7102625808,[340],0,1,0.0,G. D. Mishra
+7102660777,"[150, 151, 154, 163, 210, 255]",0,6,0.0,Andrew Sherwood
+7102670780,[356],0,1,0.0,K. Ismail
+7102671647,[188],0,1,0.0,J. Jakobsen
+7102691604,"[271, 321]",0,2,0.0,Terence Dwyer
+7102699841,[220],0,1,0.0,Laura E. Gibbons
+7102709050,[222],0,1,0.0,David L. Hare
+7102785932,"[271, 321]",0,2,0.0,Kristy Sanderson
+7102788548,"[58, 85]",0,2,0.0,D. J. Madden
+7102803269,[61],0,1,0.0,D. Veale
+7102816661,[119],0,1,0.0,Graeme Hankey
+7102817938,[155],0,1,0.0,A. G. Awad
+7102834870,[230],0,1,0.0,Hude Quan
+7102840168,[389],0,1,0.0,Serge Brand
+7102848510,[219],0,1,0.0,Timothy S. Church
+7102885568,"[73, 103]",0,2,0.0,Christopher Dwayne Collier
+7102906202,[349],0,1,0.0,Jai Sung Noh
+7102942521,[58],0,1,0.0,L. K. George
+7103015582,[111],0,1,0.0,Joaquín Montero
+7103032365,[146],0,1,0.0,J. Jolles
+7103058531,[99],0,1,0.0,S. Sarna
+7103064700,"[261, 346]",0,2,0.0,Britta Lindström 
+7103096477,[405],0,1,0.0,Ichiro Kawachi
+7103099936,"[137, 180]",0,2,0.0,Bengt Saltin
+7103153350,"[88, 95, 106, 219, 232, 291, 108]",0,7,0.0,Madhukar H. Trivedi
+7103188932,[75],0,1,0.0,Sheila C. O'Reilly
+7103248221,[323],0,1,0.0,Terry J. Lewin
+7103265845,[248],0,1,0.0,Martin J. Shipley
+7103319252,[250],0,1,0.0,William Kraus
+7103324215,[303],0,1,0.0,Namkee G. Choi
+7103327135,[71],0,1,0.0,Michael J. Klag
+7103349740,[264],0,1,0.0,E. Blackburn
+7103352645,[279],0,1,0.0,Mimi My Tse
+7201375105,[117],0,1,0.0,R. F. Santos
+7201399445,[156],0,1,0.0,Hildegard Pfister
+7201471000,[200],0,1,0.0,Mark Litt
+7201493723,[247],0,1,0.0,Katrina M. Turner
+7201608975,[133],0,1,0.0,Jane Gunn
+7201620912,[344],0,1,0.0,Glen P. Kenny
+7201627833,[68],0,1,0.0,Anthony H. Mann
+7201677811,"[224, 378]",0,2,0.0,José C. Ribeiro
+7201685476,[250],0,1,0.0,Stephen Gottlieb
+7201708494,[186],0,1,0.0,Jennifer L. Francis
+7201720357,"[11, 26, 88, 95, 106, 219, 108]",2,5,0.2857142857142857,Andrea L. Dunn
+7201722705,[250],0,1,0.0,Gordon Blackburn
+7201775813,[128],0,1,0.0,Lynn Rosenberg
+7201789618,[376],0,1,0.0,Gary J. Kennedy
+7201799357,"[14, 366]",1,1,0.5,Tim Carter
+7201799673,"[149, 376]",0,2,0.0,John R. Beard
+7201859223,"[153, 195, 303]",0,3,0.0,Martha L. Bruce
+7201897484,[262],0,1,0.0,Mei Chun Cheung
+7201905320,[105],0,1,0.0,Kee Lee Chou
+7201905361,[202],0,1,0.0,Kuei Ru Chou
+7201922805,[278],0,1,0.0,Susan M. Rubin
+7202080670,[396],0,1,0.0,Ivan W. Miller
+7202113897,[310],0,1,0.0,C. Harvey
+7202122671,"[133, 171, 175]",0,3,0.0,Jane Sims
+7202198835,[215],0,1,0.0,Wei Luo
+7202260274,[122],0,1,0.0,Joshua Caron
+7202269248,[222],0,1,0.0,Craig Goodman
+7202297218,[247],0,1,0.0,Deborah J. Sharp
+7202300001,[259],0,1,0.0,Nancy L. Pedersen
+7202305066,[152],0,1,0.0,Donald C. McKenzie
+7202308102,[129],0,1,0.0,Thomas L. Patterson
+7202311794,[213],0,1,0.0,Geoffrey C. Nicholson
+7202315044,[280],0,1,0.0,Anne Spencer
+7202377295,[272],0,1,0.0,Donna J. Lang
+7202401788,[59],0,1,0.0,M. C. Welsh
+7202411924,"[229, 264]",0,2,0.0,Michael R. Irwin
+7202414432,[57],0,1,0.0,J. K. McNeil
+7202420540,[197],0,1,0.0,Robert D. Abbott
+7202422985,[86],0,1,0.0,Susan C. Duncan
+7202449617,[305],0,1,0.0,Linda M. Davies
+7202473220,[71],0,1,0.0,Lisa Cooper-Patrick
+7202525825,[212],0,1,0.0,Margaret M. Matthews
+7202586454,[131],0,1,0.0,Fong Chan
+7202588888,[259],0,1,0.0,Michael Nilsson
+7202599550,[203],0,1,0.0,Joan Russo
+7202619429,[135],0,1,0.0,Jenny Head
+7202645907,[293],0,1,0.0,Gerhard Andersson
+7202668635,[320],0,1,0.0,Jane Carlsson
+7202678813,[218],0,1,0.0,Bo Larsson
+7202708248,[126],0,1,0.0,Kazuhisa Miyashita
+7202761793,[338],0,1,0.0,Michael Boyle
+7202803751,[258],0,1,0.0,Carsten Thomsen
+7202842593,[149],0,1,0.0,Brian Kelly
+7202861123,[153],0,1,0.0,Amy Horowitz
+7202892236,[272],0,1,0.0,Darren E.R. Warburton
+7202943645,"[115, 340]",0,2,0.0,Annette J. Dobson
+7202978517,[105],0,1,0.0,Duncan Macfarlane
+7202993090,[280],0,1,0.0,Rachel Potter
+7203060134,"[212, 219, 294]",0,3,0.0,Steven N. Blair
+7401432064,[260],0,1,0.0,Phillip D. Harvey
+7401444761,[294],0,1,0.0,Jonatan R. Ruiz
+7401481092,[392],0,1,0.0,Jackie Curtis
+7401581841,[68],0,1,0.0,Alastair J.D. Macdonald
+7401607376,[113],0,1,0.0,K. J. Yoon
+7401634068,[360],0,1,0.0,Gong Tang
+7401739855,[323],0,1,0.0,Clare E. Collins
+7401757570,[152],0,1,0.0,Robert D. Reid
+7401830989,[302],0,1,0.0,Robert U. Newton
+7401840755,[93],0,1,0.0,Pierre Singer
+7401857260,[274],0,1,0.0,Carroll W. Hughes
+7401868314,[394],0,1,0.0,Beth A. Lewis
+7401917213,"[201, 252]",0,2,0.0,Kathleen R. Bell
+7402013898,[288],0,1,0.0,Fernando A. Wagner
+7402056653,[246],0,1,0.0,Devin M. Mann
+7402102266,"[9, 12, 13, 15, 22, 26, 351, 381, 392]",6,3,0.6666666666666666,Philip B. Ward
+7402134607,[192],0,1,0.0,Elizabeth Robinson
+7402194246,[92],0,1,0.0,Ian C. Reid
+7402226282,[197],0,1,0.0,Lon R. White
+7402235062,[212],0,1,0.0,Kushang V. Patel
+7402236049,[369],0,1,0.0,Philip H. Evans
+7402290722,[213],0,1,0.0,Margaret J. Henry
+7402410103,[317],0,1,0.0,Allison G. Harvey
+7402449340,[305],0,1,0.0,Max Marshall
+7402471135,[246],0,1,0.0,Kristin L. Schneider
+7402482826,[111],0,1,0.0,Beti Thompson
+7402506038,"[297, 360]",0,2,0.0,Caroline R. Richardson
+7402606754,[356],0,1,0.0,A. David
+7402611447,"[201, 252]",0,2,0.0,Jeanne M. Hoffman
+7402621724,[144],0,1,0.0,Steven L. Wolf
+7402634129,[48],0,1,0.0,David B. Larson
+7402636617,[247],0,1,0.0,Glyn Lewis
+7402638581,[409],0,1,0.0,Rebecca Elliott
+7402679913,"[30, 31]",0,2,0.0,William P. Morgan
+7402698014,[167],0,1,0.0,Bernadette A. Murphy
+7402708134,[192],0,1,0.0,John Parsons
+7402751884,[329],0,1,0.0,James J. Gross
+7402889491,[349],0,1,0.0,Dae Ryong Kang
+7403167842,[262],0,1,0.0,Agnes S. Chan
+7403199453,[140],0,1,0.0,J. D. Williamson
+7403206451,[58],0,1,0.0,R. E. Coleman
+7403211068,[103],0,1,0.0,Edward Wagner
+7403258424,[144],0,1,0.0,Hei Fen Hwang
+7403311276,[128],0,1,0.0,Julie R. Palmer
+7403333811,[188],0,1,0.0,H. J. Hansen
+7403358478,"[300, 328]",0,2,0.0,Siu Man Ng
+7403496744,[222],0,1,0.0,Andrew Stewart
+7403520490,"[323, 338]",0,2,0.0,Amanda L. Baker
+7403580295,[415],0,1,0.0,James A. Levine
+7403932138,[423],0,1,0.0,Pin Chen Yang
+7404044781,[367],0,1,0.0,Tohru Nakagawa
+7404152243,[56],0,1,0.0,Richard D. Cohen
+7404273451,[243],0,1,0.0,Haruyasu Yamaguchi
+7404278124,[387],0,1,0.0,Melissa Garcia
+7404398037,"[271, 321]",0,2,0.0,Michael D. Schmidt
+7404419547,"[30, 31, 40]",0,3,0.0,Marjorie H. Klein
+7404437968,[64],0,1,0.0,I.M Lee
+7404502563,[103],0,1,0.0,Barbara Williams
+7404504112,[387],0,1,0.0,Milan Chang
+7404528724,[415],0,1,0.0,Matthew M. Clark
+7404539568,[68],0,1,0.0,Sube Banerjee
+7404568704,[114],0,1,0.0,V. K. Sharma
+7404758236,"[135, 209, 280]",0,3,0.0,Stephanie Taylor
+7404816518,[144],0,1,0.0,Mau Roung Lin
+7404915143,[105],0,1,0.0,Yeung Hung Cheng
+7404978645,[121],0,1,0.0,Gregory E. Miller
+7406055383,[86],0,1,0.0,Fuzhong Li
+7406120357,[105],0,1,0.0,Peter W.H. Lee
+7406521748,[202],0,1,0.0,Wei Hsiang Lin
+7406994141,"[154, 163, 255]",0,3,0.0,Patrick J. Smith
+7407087156,[113],0,1,0.0,W. Lee
+7407687647,[296],0,1,0.0,Hirofumi Tanaka
+7408718760,[363],0,1,0.0,Hideyo Yoshida
+7409121324,[118],0,1,0.0,Soo Myeong Lee
+7409386798,[164],0,1,0.0,Yang Yang
+7501503969,[349],0,1,0.0,Kang Soo Lee
+7501725008,[264],0,1,0.0,J. Lin
+7801372607,[243],0,1,0.0,Chiaki Ura
+7801378527,[280],0,1,0.0,David R. Ellard
+7801391238,[123],0,1,0.0,Daniel Zajdel
+7801415936,[323],0,1,0.0,Frances J. Kay-Lambkin
+7801416477,[407],0,1,0.0,Francisca Lahortiga
+7801422313,[111],0,1,0.0,Fernando Yañez
+7801556694,[148],0,1,0.0,Maria Luisa Seruis
+8115293800,[207],0,1,0.0,Stefan Priebe
+8146533300,[145],0,1,0.0,John Edmonds
+8207251400,[192],0,1,0.0,C. Raina Elley
+8228579800,[295],0,1,0.0,Sérgio Freirias
+8317301600,[344],0,1,0.0,Stasia Hadjiyannakis
+8322197500,[136],0,1,0.0,F. Dimeo
+8326332200,[130],0,1,0.0,Merih Özgen
+8326332300,[130],0,1,0.0,Füsun Ardiç
+8327831500,[418],0,1,0.0,Hyuma Makizako
+8333692100,[296],0,1,0.0,Daroonwan Suksom
+8337398300,[78],0,1,0.0,Teresa M. Damush
+8357311700,[248],0,1,0.0,Hermann Nabi
+8365303000,[5],1,0,1.0,M. Lindwall
+8400234700,[162],0,1,0.0,Barbara Symons
+8404566600,[10],1,0,1.0,Amber Watts
+8422488600,[416],0,1,0.0,Marcello R.P. Markus
+8428966600,[172],0,1,0.0,Kuei Min Chen
+8429450100,[369],0,1,0.0,Colin Green
+8431860300,[215],0,1,0.0,Claudia Lagace
+8432696200,[358],0,1,0.0,Tzu Ting Huang
+8442393800,[322],0,1,0.0,Victor MacHado Reis
+8449150100,[317],0,1,0.0,Eleanor L. McGlinchey
+8450588300,[415],0,1,0.0,Kristin S.Vickers Douglas
+8502496600,[181],0,1,0.0,Mark Hamer
+8510655500,[162],0,1,0.0,T. Andrew Hastings
+8517179700,[283],0,1,0.0,Jiun Yi Wang
+8517342300,[93],0,1,0.0,Levana Zigel
+8519687500,[323],0,1,0.0,Robin Callister
+8523402200,"[241, 265]",0,2,0.0,Attilio Carraro
+8547934300,[290],0,1,0.0,Gabriel Shaibi
+8571783200,[111],0,1,0.0,Gonzalo Fernandez
+8571783900,[111],0,1,0.0,Marco Bonhauser
+8578390100,[113],0,1,0.0,B. Arnston
+8590771700,[302],0,1,0.0,Helman Alfonso
+8597437200,[112],0,1,0.0,Theodora M. Stavrinos
+8597437300,[112],0,1,0.0,Yvonne Scarbek
+8597437400,[112],0,1,0.0,Garry Galambos
+8597437500,[112],0,1,0.0,Cas Liber
+8604209200,"[275, 326]",0,2,0.0,Patricia Anne Kinser
+8613630300,"[233, 405]",0,2,0.0,Olivia I. Okereke
+8620896500,"[300, 328]",0,2,0.0,Rainbow T.H. Ho
+8621142900,[256],0,1,0.0,Enric Vicens
+8637895500,[151],0,1,0.0,Cara O'Connell
+8641652600,[202],0,1,0.0,Yuh Kae Shyu
+8647003800,[113],0,1,0.0,A. Martin
+8653038300,[246],0,1,0.0,Bradley M. Appelhans
+8664086600,[71],0,1,0.0,Patricia P. Chang
+8665344200,[208],0,1,0.0,Trine Flensborg-Madsen
+8666841700,[126],0,1,0.0,Hiroichi Yamamoto
+8692243100,"[298, 375]",0,2,0.0,Erin M. Hubbard
+8694830100,[216],0,1,0.0,Annemieke van Straten
+8703984700,[387],0,1,0.0,Thor Aspelund
+8723105800,[135],0,1,0.0,Charlotte Clark
+8723681900,[147],0,1,0.0,Jean Philippe Heuze
+8742197200,[225],0,1,0.0,Carmen Castaneda-Sceppa
+8745830400,[159],0,1,0.0,Jose Javier Varo-Cenarruzabeitia
+8774126500,[264],0,1,0.0,D. S. Khalsa
+8784703500,[226],0,1,0.0,M. T. Veríssimo
+8852880600,[323],0,1,0.0,Holly Devir
+8858216200,[7],1,0,1.0,Mitch J. Duncan
+8888285000,[192],0,1,0.0,Simon Hatcher
+8911690100,[338],0,1,0.0,Mark McEvoy
+8913253900,[192],0,1,0.0,Liz Kiata
+8917355800,[209],0,1,0.0,Phil Edwards
+8917771700,[355],0,1,0.0,José-Antonio Cecchini-Estrada
+8922705500,[213],0,1,0.0,Lana J. Williams
+8933947800,[354],0,1,0.0,M. Cerri
+8943294600,[272],0,1,0.0,Shannon S.D. Bredin
+8947314800,[295],0,1,0.0,Cecília Attux
+9044195500,[84],0,1,0.0,A. Hakkinen
+9044696500,[160],0,1,0.0,Daria Luisi
+9242927300,"[177, 185, 286]",0,3,0.0,Christian Puta
+9250575900,[282],0,1,0.0,Jian Li Wang
+9336634100,[333],0,1,0.0,K. Weber
+9632420300,[152],0,1,0.0,Jeffrey K.H. Vallance
+9639198800,[278],0,1,0.0,Hilsa N. Ayonayon
+9734197200,[248],0,1,0.0,Archana Singh-Manoux
+9734478700,[150],0,1,0.0,Krista A. Barbour
+9736927100,"[148, 158]",0,2,0.0,Massimiliano Salvi
+9745501800,[342],0,1,0.0,Helge Frieling
+9844639400,"[177, 185]",0,2,0.0,Silke Boettger
+9940046400,[349],0,1,0.0,Ki Young Lim
+9940645100,[310],0,1,0.0,H. J. Stain
+9943546100,[152],0,1,0.0,Kirstin Lane
+10439690300,[172],0,1,0.0,Huey Shyan Lin
+10439950900,[130],0,1,0.0,Ay?e Sarsan
+10440188500,"[219, 232, 291]",0,3,0.0,Tracy L. Greer
+11140141000,[171],0,1,0.0,L. Joubert
+11440309600,[123],0,1,0.0,Kristin Flegal
+11440680600,[359],0,1,0.0,Marc Ziegenbein
+11640661600,[246],0,1,0.0,Yunsheng Ma
+11940501800,[263],0,1,0.0,Mayumi Hirosaki
+12041277100,[325],0,1,0.0,Jacob S. Ballon
+12042089500,[117],0,1,0.0,S. G. Stella
+12042481000,[118],0,1,0.0,Chae Moon Suh
+12139970400,[97],0,1,0.0,Samuel Y.C. Chan
+12143557700,[158],0,1,0.0,Antonia Baum
+12546002300,[256],0,1,0.0,Olga Ibarra
+12761583700,[275],0,1,0.0,Ann Gill Taylor
+12765015100,[202],0,1,0.0,Mei Yeh Wang
+12769147900,[246],0,1,0.0,Sherry L. Pagoto
+12770760700,[233],0,1,0.0,Fariba Mirzaei
+12774111600,[280],0,1,0.0,Anne Marie Slowther
+12786698900,[103],0,1,0.0,Shelly Gray
+12791431400,"[150, 151, 163, 210, 255]",0,5,0.0,Benson M. Hoffman
+12798792000,[126],0,1,0.0,Chanudda Nabkasorn
+12799033200,[126],0,1,0.0,Anek Sootmongkol
+12799206600,[126],0,1,0.0,Suwanna Junprasert
+12801321400,[171],0,1,0.0,S. Jespersen
+12807489000,[122],0,1,0.0,Mark LaSota
+13405272500,[416],0,1,0.0,Georg Schomerus
+13409371900,"[105, 304]",0,2,0.0,Sophia S.C. Chan
+13604705400,[306],0,1,0.0,Caroline Nothdurfter
+13806740900,"[131, 269]",0,2,0.0,Kelvin M.T. Fung
+13906388300,[292],0,1,0.0,Ana Lucia de Sá Pinto
+14012585600,[207],0,1,0.0,Brigitte Fuchs-Nieder
+14016488400,"[9, 11, 12, 13, 15, 22, 26, 27, 231, 270, 331, 381, 410, 427]",8,6,0.5714285714285714,Felipe Schuch
+14019434100,[401],0,1,0.0,Alkomiet Hasan
+14019465100,[280],0,1,0.0,Karla Diaz-Ordaz
+14028415700,[247],0,1,0.0,Sandra P. Hollinghurst
+14028808100,[259],0,1,0.0,H. Georg Kuhn
+14045669500,[389],0,1,0.0,Uwe Pühse
+14049094900,[415],0,1,0.0,Thomas P. Olson
+14051310700,[105],0,1,0.0,Edwin C.S. Yu
+14060035400,[210],0,1,0.0,Michael J. Coons
+14065940800,[253],0,1,0.0,Xiaoduo Fan
+14323471600,[303],0,1,0.0,C. Nathan Marti
+14421394900,"[365, 420]",0,2,0.0,Maria Paula Mota
+14526712000,[131],0,1,0.0,Ashley S.M. Chan
+14619963100,"[79, 80]",0,2,0.0,A. Vedamurthachar
+14621598600,[256],0,1,0.0,Margalida Gili
+14827896800,[294],0,1,0.0,Vanesa España-Romero
+14829316900,[362],0,1,0.0,L. M. Martín López
+14833384000,[24],1,0,1.0,A. G. Parker
+14919668900,[286],0,1,0.0,Steffen Schulz
+15021659800,[369],0,1,0.0,Fiona C. Warren
+15033299900,[114],0,1,0.0,U. Goswami
+15035564300,[114],0,1,0.0,S. Mondal
+15042811000,[344],0,1,0.0,Denis Prud'homme
+15044606400,"[183, 290]",0,2,0.0,Diana Jacobson
+15049580900,[204],0,1,0.0,Emina Hadzibajramovic
+15049950700,[391],0,1,0.0,A. B. Gomiero
+15069543200,"[21, 137, 180, 198, 258, 395]",1,5,0.16666666666666666,Jesper Krogh
+15069800800,[137],0,1,0.0,Michael Timmermann
+15077845800,"[173, 400, 428]",0,3,0.0,Po Wen Ku
+15081828500,[305],0,1,0.0,Caroline M. Swarbrick
+15743339900,[323],0,1,0.0,Alyna Turner
+15749791900,[390],0,1,0.0,Birinder S. Cheema
+15750135800,[358],0,1,0.0,Yen Fan Chin
+15750167900,[135],0,1,0.0,Muna Arephin
+15752770000,"[14, 28, 366]",2,1,0.6666666666666666,Ioannis Morres
+15756892600,[139],0,1,0.0,Deena S. Campbell
+15756940000,[139],0,1,0.0,Michael K. Baker
+15757008900,[317],0,1,0.0,Polina Eidelman
+15758602900,[139],0,1,0.0,James Wiltshire
+15766080500,[240],0,1,0.0,Masa Sasagawa
+15834385000,[363],0,1,0.0,Hajime Iwasa
+15835233300,[142],0,1,0.0,Adrian Klapouszczak
+15846042600,[233],0,1,0.0,Michel Lucas
+15922789600,[305],0,1,0.0,Nusrat Husain
+15925796600,[354],0,1,0.0,F. Neviani
+15926457000,[7],1,0,1.0,Corneel Vandelanotte
+16021401600,[240],0,1,0.0,Ryan Bradley
+16022004600,[366],0,1,0.0,Elizabeth Khalil
+16022269200,[254],0,1,0.0,Lone Lindberg
+16028169200,[390],0,1,0.0,Kingsley Agho
+16030281000,[286],0,1,0.0,Sandy Berger
+16040780600,[155],0,1,0.0,R. J. Van Lieshout
+16042661700,[133],0,1,0.0,Nancy Huang
+16068697800,[144],0,1,0.0,Sheng You Gong
+16070563000,[141],0,1,0.0,Manjunath Nandi Krishnamurthy
+16149153500,[310],0,1,0.0,D. Castle
+16171284300,[59],0,1,0.0,E. E. Labbé
+16204505100,[186],0,1,0.0,Ali A. Weinstein
+16229631000,[18],1,0,1.0,N. Brondino
+16232184700,[247],0,1,0.0,Melanie Chalder
+16239385100,[360],0,1,0.0,Andrea M. Kriska
+16241692800,[342],0,1,0.0,Dagmar Hartung
+16245996800,[145],0,1,0.0,Lillias Nairn
+16246941600,[423],0,1,0.0,Wen Lan Wu
+16300969400,[20],1,0,1.0,Alan Dellow
+16316171000,[236],0,1,0.0,Marni L. Jacob
+16319800000,[256],0,1,0.0,Bárbara Oliván
+16418053600,[389],0,1,0.0,Iraj Salehi
+16426042900,[396],0,1,0.0,Susanna R. Magee
+16444162500,[24],1,0,1.0,S. E. Hetrick
+16445186300,[243],0,1,0.0,Tetsuya Yamagami
+16469549300,[188],0,1,0.0,T. Petersen
+16479975500,[344],0,1,0.0,Jameason D. Cameron
+16506514000,[292],0,1,0.0,Bruno Gualano
+16549610100,"[297, 360]",0,2,0.0,Robert G. Holleman
+16639445800,[399],0,1,0.0,Hg Laurie Rauch
+16678283500,[362],0,1,0.0,A. Barroso García
+16744407200,[232],0,1,0.0,Benji T. Kurian
+17134923200,[149],0,1,0.0,Kathy Heathcote
+17343946100,"[21, 395]",1,1,0.5,Carsten Hjorthøj
+17736796100,[200],0,1,0.0,Richard Williams
+18438518400,[294],0,1,0.0,Xuemei Sui
+18438689500,[247],0,1,0.0,Rachel Winder
+18635134900,[209],0,1,0.0,Catherine Rothon
+18838665300,[200],0,1,0.0,Daniel R. Spogen
+19034106700,[415],0,1,0.0,Ramona S. DeJesus
+19134045200,"[245, 289]",0,2,0.0,Tiffany Field
+19233498500,[319],0,1,0.0,Karin Ademmer
+19934426500,[371],0,1,0.0,Nikolaos Stavrakakis
+20436264300,"[183, 290]",0,2,0.0,Stephanie Kelly
+20436475600,"[183, 290]",0,2,0.0,Judith O'Haver
+20734692400,[222],0,1,0.0,Itamar Levinger
+20734772100,[172],0,1,0.0,Chun Huw Li
+20834576800,[156],0,1,0.0,Jürgen Hoyer
+21734345600,[27],1,0,1.0,Helena Sales de Moraes
+21741774800,[193],0,1,0.0,Scott Brunero
+21743424700,"[148, 158]",0,2,0.0,Alessandra Pilu
+21743755900,"[148, 158]",0,2,0.0,Manlio Sorba
+21743769000,[353],0,1,0.0,José Rubens Rebelatto
+21834165900,[189],0,1,0.0,Sarah J. Jerstad
+21934878100,[181],0,1,0.0,Gerard J. Molloy
+22037205900,[296],0,1,0.0,Siriluck Suppapitiporn
+22135004600,[192],0,1,0.0,Sally Keeling
+22136463100,[155],0,1,0.0,G. Parker
+22136826400,[28],1,0,1.0,Afroditi Stathi
+22634546000,[139],0,1,0.0,Jodie Grady
+22939242100,[253],0,1,0.0,Zhenghui Yi
+22978435300,[294],0,1,0.0,Enrique G. Artero
+23006632000,[9],1,0,1.0,Andrew Soundy
+23007839000,[414],0,1,0.0,Akin Baskent
+23010163700,[414],0,1,0.0,Nilay Sahin
+23020086300,"[151, 163]",0,2,0.0,Sharon D. Rogers
+23024701600,[192],0,1,0.0,Karen J. Hayman
+23025599400,[401],0,1,0.0,Andree Niklas
+23033344500,[415],0,1,0.0,Tabetha A. Brockman
+23093142300,[322],0,1,0.0,Felipe José Aidar
+23098435200,[349],0,1,0.0,Byoung Hoon Oh
+23100160400,[286],0,1,0.0,Kathrin Koch
+23392797700,[286],0,1,0.0,Marco Herbsleb
+23393704700,[286],0,1,0.0,Tobias Siebert
+23398999100,[211],0,1,0.0,Petronella J. Van't Veer-Tazelaar
+23469018100,[262],0,1,0.0,Yvonne M.Y. Han
+23474033400,[153],0,1,0.0,Jean McGinty
+23482138400,"[4, 19]",2,0,1.0,Romy Lauche
+23486251500,[152],0,1,0.0,Caroline Proulx
+23493015800,[282],0,1,0.0,Lyne Messier
+23493565500,[155],0,1,0.0,Z. Punthakee
+23568910500,[287],0,1,0.0,Kim Sweers
+23569126400,"[265, 378]",0,2,0.0,Rui Manuel Nunes Corredeira
+23668653100,[305],0,1,0.0,Rebecca Pedley
+23669842900,[370],0,1,0.0,Heike Wersching
+23768010500,[211],0,1,0.0,Karlijn J. Joling
+23768203400,[288],0,1,0.0,Carmen García-Peña
+23986969700,[376],0,1,0.0,Magdalena Cerdá
+23991691800,[246],0,1,0.0,Molly E. Waring
+23992327200,[282],0,1,0.0,Richard Boyer
+23992772800,[294],0,1,0.0,Duck chul Lee
+24070918200,[263],0,1,0.0,Mitsugu Kajiura
+24074205600,[416],0,1,0.0,Sven Gläser
+24078491200,"[147, 313, 379]",0,3,0.0,Fabien Legrand
+24080059200,[225],0,1,0.0,Peggy L. Johnson
+24170989500,[294],0,1,0.0,Meghan Baruth
+24173006000,[239],0,1,0.0,Stephen Cope
+24315287900,[23],1,0,1.0,Albert Yeung
+24337529700,[166],0,1,0.0,Suranee Abeyesinhe
+24337972700,[278],0,1,0.0,Danielle Groffen
+24340328000,[160],0,1,0.0,Amanda Vogel
+24376370100,[208],0,1,0.0,Esben Meulengracht Flachs
+24381887600,[25],1,0,1.0,Mark Lyons
+24382350300,"[58, 77, 83, 85, 96, 150, 151, 154, 163, 210, 250, 255]",0,12,0.0,James A. Blumenthal
+24385990700,[327],0,1,0.0,Gretchen A. Snethen
+24462331900,[137],0,1,0.0,Lone Petersen
+24463645200,[362],0,1,0.0,J. Martín Royo
+24480294500,[436],0,1,0.0,Nirmala Naidoo
+24480570200,[15],1,0,1.0,Eduardo L. Cadore
+24483146200,[269],0,1,0.0,Edward P. Chan
+24484182700,[370],0,1,0.0,Michael Unrath
+24491570700,[423],0,1,0.0,Yu Kai Chang
+24492061300,[193],0,1,0.0,Scott Lamont
+24499894300,[284],0,1,0.0,Lynn Fields Harris
+24539320200,"[173, 247]",0,2,0.0,Kenneth R. Fox
+24539482700,"[30, 31]",0,2,0.0,John Faris
+24547168700,[438],0,1,0.0,Enzo Manzato
+24576354300,[248],0,1,0.0,Eric J. Brunner
+24721244300,[389],0,1,0.0,Markus Gerber
+24778918500,[18],1,0,1.0,M. Vandoni
+24780732400,[247],0,1,0.0,Ceire Costelloe
+24822008800,[188],0,1,0.0,U. Dalgas
+24822754900,[329],0,1,0.0,Nabil Kotbi
+24831624900,[172],0,1,0.0,Hui Chen Chao
+24921477300,[288],0,1,0.0,Claudia Espinel-Bermúdez
+25027473800,[2],1,0,1.0,Kerry Dwan
+25027911700,[255],0,1,0.0,Stephanie Mabe
+25029776100,[423],0,1,0.0,I. Mei Lin
+25221741100,[246],0,1,0.0,Jessica L. Oleski
+25222710100,[167],0,1,0.0,Louise S. Foley
+25223351500,[8],1,0,1.0,Stephan Heinzel
+25223786500,"[165, 179, 232, 291]",0,4,0.0,Chad Rethorst
+25224234100,"[165, 179]",0,2,0.0,Bradley M. Wipfli
+25228198700,[273],0,1,0.0,Edgar Denova-Gutiérrez
+25321050700,[172],0,1,0.0,Hsuan Man Hung
+25523095100,[241],0,1,0.0,Silvano Zanuso
+25631802100,[203],0,1,0.0,Robert Fraser
+25640020400,[240],0,1,0.0,Guan Cheng Sun
+25645920800,[167],0,1,0.0,Jo Anne De Pace
+25646410800,[167],0,1,0.0,Nerissa J. Podolinsky
+25654039600,[349],0,1,0.0,Joung Hwan Back
+25654890100,[389],0,1,0.0,Leila Jahangard
+25723459800,"[319, 401]",0,2,0.0,Berend Malchow
+25723531300,"[271, 321]",0,2,0.0,Charlotte McKercher
+25825769700,[314],0,1,0.0,W. Verrusio
+25923803200,[202],0,1,0.0,Li Jung Chung
+25932033500,[206],0,1,0.0,Brett A. Gordon
+25949852000,[38],0,1,0.0,David S. Holmes
+25950425000,[67],0,1,0.0,Michael W. O'Hara
+26027326800,[246],0,1,0.0,Matthew C. Whited
+26028761700,[2],1,0,1.0,Gary. M. Cooney
+26039262100,[292],0,1,0.0,Fernanda Rodrigues Lima
+26040650100,[331],0,1,0.0,N. S. Rocha
+26325267900,[213],0,1,0.0,Sharon L. Brennan
+26326634000,"[9, 12, 13, 15, 22, 26, 265, 287, 348, 351, 352, 381, 386, 410, 411, 427]",6,10,0.375,Davy Vancampfort
+26426193300,[119],0,1,0.0,Konrad Jamrozik
+26435750500,[216],0,1,0.0,Leonore de Wit
+26531141800,[316],0,1,0.0,Paul Gorczynski
+26533839900,[20],1,0,1.0,Thunyarat Anothaisintawee
+26635679700,[233],0,1,0.0,Rania Mekary
+26643185900,[306],0,1,0.0,Christoph Born
+26643189900,[139],0,1,0.0,Philip L. Bohle
+26643549100,[282],0,1,0.0,Alain Lesage
+26643641400,[327],0,1,0.0,Paul H. Lysaker
+26647500800,[317],0,1,0.0,Anda Gershon
+26648504300,[79],0,1,0.0,M. G. Harish
+26650698300,[118],0,1,0.0,Young Ja Jeong
+26658974500,[282],0,1,0.0,Geneviève Gariepy
+26667800900,[174],0,1,0.0,Simone Jaques
+27067659600,"[25, 236]",1,1,0.5,Matthew P. Herring
+27367766300,"[177, 185, 286]",0,3,0.0,Lars Donath
+27468084400,"[177, 185]",0,2,0.0,Franziska Wetzig
+34167745000,[273],0,1,0.0,Libia D. Dosamantes-Carrasco
+34568096500,[177],0,1,0.0,Karl-Jürgen Bar
+34769470700,[415],0,1,0.0,Susannah J. Tye
+34770669100,"[177, 185, 286]",0,3,0.0,Holger W. Gabriel
+34871467900,[149],0,1,0.0,Robert Brooks
+34976503100,[213],0,1,0.0,Carolyn E. Coulson
+35072791900,"[22, 25, 26, 357]",3,1,0.75,Mats Hallgren
+35077157400,[215],0,1,0.0,Sulan Dai
+35079013800,[436],0,1,0.0,Marta Miret
+35109645800,[214],0,1,0.0,Ali Mojtahed
+35109696000,[214],0,1,0.0,Mohammad Mojtahed
+35145369500,[349],0,1,0.0,Young Ki Chung
+35168542500,[201],0,1,0.0,James Behr
+35173481900,[139],0,1,0.0,Maria McNamara
+35182435900,[344],0,1,0.0,Angela S. Alberga
+35184950300,[319],0,1,0.0,Frank Hänsel
+35185405500,[321],0,1,0.0,Petr Otahal
+35186267100,[196],0,1,0.0,Melinda K. Higgins
+35193657100,"[190, 308, 413]",0,3,0.0,Kelly P. Arbour-Nicitopoulos
+35195385400,[322],0,1,0.0,Paulo Moreira Silva Dantas
+35195475400,[347],0,1,0.0,Maeng Je Cho
+35195702500,[276],0,1,0.0,Johanna M. Geleijnse
+35213085400,"[88, 95, 106]",0,3,0.0,Camillia G. Clark
+35227393400,[263],0,1,0.0,Hiroyasu Iso
+35228434200,[254],0,1,0.0,Per Bech
+35230635600,[263],0,1,0.0,Tetsuya Ohira
+35237466800,"[132, 278]",0,2,0.0,Annemarie Koster
+35240009300,[310],0,1,0.0,C. Galletly
+35240603700,[236],0,1,0.0,Patrick J. O'Connor
+35241949700,[274],0,1,0.0,Conrad Barnes
+35261421200,[336],0,1,0.0,Marion Clepce
+35261973900,[99],0,1,0.0,U. Kujala
+35264935900,[354],0,1,0.0,M. B.L. Rocchi
+35270135800,[142],0,1,0.0,Emma Reynish
+35271205800,[295],0,1,0.0,Maria das Graças Miquelutti Camargo
+35274549700,"[300, 328]",0,2,0.0,Cecilia L.W. Chan
+35303845700,[202],0,1,0.0,Pei Shan Tsai
+35307834100,[240],0,1,0.0,Amy L. Putiri
+35309962100,[426],0,1,0.0,F. Euteneuer
+35312236500,[378],0,1,0.0,Gustavo Silva
+35314289200,[263],0,1,0.0,Akihiko Kitamura
+35314309000,[263],0,1,0.0,Masahiko Kiyama
+35318439700,[319],0,1,0.0,Viola Oertel-Knöchel
+35318571400,[14],1,0,1.0,Oonagh Meade
+35318622500,[282],0,1,0.0,Norbert Schmitz
+35330577100,[333],0,1,0.0,M. G. Nanni
+35331605300,[241],0,1,0.0,Marco Bergamin
+35336523500,[409],0,1,0.0,Paul French
+35337630100,[224],0,1,0.0,Joaquim Ramos
+35344782100,[314],0,1,0.0,V. Gianturco
+35351499600,"[56, 94]",0,2,0.0,Robert E. Roberts
+35362220700,[203],0,1,0.0,John Miller
+35365490300,"[150, 151, 255]",0,3,0.0,Lana Watkins
+35371747900,[297],0,1,0.0,John M. Jakicic
+35371777500,[250],0,1,0.0,Christopher O'Connor
+35373585600,[273],0,1,0.0,Guilherme Borges
+35373858600,"[201, 252]",0,2,0.0,Janet M. Powell
+35373878900,[360],0,1,0.0,Jane A. Cauley
+35377249400,[87],0,1,0.0,Elizabeth Barrett-Connor
+35377631700,[298],0,1,0.0,Bruce Miller
+35377962400,"[77, 83, 85, 96]",0,4,0.0,K. Ranga Krishnan
+35379599600,[99],0,1,0.0,J. Kaprio
+35381812400,"[201, 252]",0,2,0.0,Charles H. Bombardier
+35386811300,[198],0,1,0.0,Mahdi Mohammad-Nezhad
+35401274700,[103],0,1,0.0,Paula Diehr
+35402334100,[250],0,1,0.0,Jonathan Howlett
+35406239400,[356],0,1,0.0,R. M. Murray
+35415214600,"[103, 203]",0,2,0.0,Paul Ciechanowski
+35416705700,[264],0,1,0.0,E. S. Epel
+35425739900,[93],0,1,0.0,Abraham Weizman
+35426378300,[310],0,1,0.0,P. McGorry
+35429481900,[291],0,1,0.0,R. C. Barber
+35449805100,[71],0,1,0.0,Daniel E. Ford
+35460420800,[294],0,1,0.0,Russell R. Pate
+35460842600,[103],0,1,0.0,James LoGerfo
+35461466000,[113],0,1,0.0,D. W. Russell
+35465828000,[53],0,1,0.0,Margaret Gatz
+35468361300,"[56, 94]",0,2,0.0,George A. Kaplan
+35477501400,"[77, 85, 150, 151]",0,4,0.0,Robert Waugh
+35478846800,[282],0,1,0.0,Ashok Malla
+35481090300,[276],0,1,0.0,Roos C. Van Der Mast
+35481288100,"[119, 302]",0,2,0.0,Osvaldo P. Almeida
+35483866800,[240],0,1,0.0,Sara Gillham
+35493184100,[93],0,1,0.0,Moshe Phillip
+35498702700,"[69, 70, 89]",0,3,0.0,Karen M. Clements
+35500896800,[111],0,1,0.0,Klaus Püschel
+35518345000,[133],0,1,0.0,Keith Hill
+35550556200,"[69, 70, 89, 112]",0,4,0.0,Nalin A. Singh
+35552192300,[319],0,1,0.0,Yurdagül Zopf
+35556649600,[356],0,1,0.0,K. E. Greenwood
+35569093700,[171],0,1,0.0,J. Joubert
+35573080400,[280],0,1,0.0,Angela Devine
+35575967000,[192],0,1,0.0,Anthony Dowell
+35583636000,[376],0,1,0.0,Danielle Ompad
+35586601000,"[247, 369]",0,2,0.0,Adrian H. Taylor
+35594258000,"[2, 92]",1,1,0.5,Mariono McMurdo
+35614522300,[51],0,1,0.0,Asle Hoffart
+35620229400,[201],0,1,0.0,Erin C. Dunn
+35732703000,[325],0,1,0.0,Julia Vakhrusheva
+35734602300,[214],0,1,0.0,Amirhossein Modabbernia
+35750256300,[164],0,1,0.0,Sara Marsh-Yant
+35755451500,[405],0,1,0.0,Shun Chiao Chang
+35762795300,[416],0,1,0.0,Katja Appel
+35769579700,[415],0,1,0.0,Christine A. Hughes
+35769746500,[241],0,1,0.0,John C. Sieverdes
+35781621900,[378],0,1,0.0,Tânia Bastos
+35790205200,[330],0,1,0.0,Björg Helgadóttir
+35795528200,[145],0,1,0.0,Paul Lam
+35798749600,[295],0,1,0.0,Larissa C. Martini
+35811072600,"[185, 286]",0,2,0.0,Hans Josef Muller
+35875266800,[145],0,1,0.0,Julie Winstanley
+36014098400,"[129, 298]",0,2,0.0,Dilip V. Jeste
+36017443100,[336],0,1,0.0,Karin Reich
+36026982100,[368],0,1,0.0,Katharina Luttenberger
+36027615100,[211],0,1,0.0,Peter M. Van De Ven
+36038154600,[72],0,1,0.0,Steven B. Heymsfield
+36065493500,[344],0,1,0.0,George A. Wells
+36070012200,"[365, 420]",0,2,0.0,José Vasconcelos-Raposo
+36078415500,[255],0,1,0.0,Wei Jiang
+36082368500,"[245, 289]",0,2,0.0,Jeannette Delgado
+36083986300,[282],0,1,0.0,Belinda Elisha
+36084229100,[284],0,1,0.0,Eric Jutkowitz
+36097682000,[376],0,1,0.0,Ebele O. Benjamin
+36101590900,[192],0,1,0.0,Kathy Peri
+36128422300,[322],0,1,0.0,André Luiz Carneiro
+36139023800,[336],0,1,0.0,Jan Wielopolski
+36169219600,"[298, 375]",0,2,0.0,Heather Leutwyler
+36177090800,[78],0,1,0.0,Joseph G. Damush
+36188616800,[228],0,1,0.0,Mehdi Pourasghar
+36192159600,[214],0,1,0.0,Abdollah Shafiabady
+36193788300,[253],0,1,0.0,Dengtang Liu
+36193880600,[243],0,1,0.0,Yohko Maki
+36339089900,[123],0,1,0.0,Cathleen Dehen
+36340064100,[131],0,1,0.0,Grace Lee
+36340073100,[123],0,1,0.0,Joanne Leyva
+36451369600,[204],0,1,0.0,Lars Rödjer
+36457380800,[252],0,1,0.0,Elizabeth K. Wise
+36460509800,[436],0,1,0.0,Maria Cabello
+36467966400,[352],0,1,0.0,Roselien Buys
+36470082600,[214],0,1,0.0,Ali Delavar
+36497157200,[216],0,1,0.0,Femke Lamers
+36505377500,[333],0,1,0.0,J. Volkert
+36543815700,[214],0,1,0.0,Habib Honari
+36544774200,[399],0,1,0.0,Ross Balchin
+36545250800,[208],0,1,0.0,Stine Schou Mikkelsen
+36659322700,[207],0,1,0.0,Andrea Haider-Stipacek
+36669171300,[349],0,1,0.0,Sang Joon Son
+36704030400,[342],0,1,0.0,Arno Kerling
+36704872400,"[139, 206]",0,2,0.0,Leona M. Knapman
+36714751600,[363],0,1,0.0,Yuko Yoshida
+36754991000,[72],0,1,0.0,Margaret M. Maher
+36805540300,[389],0,1,0.0,Hafez Bajoghli
+36815604700,[287],0,1,0.0,Johan Detraux
+36832753400,[389],0,1,0.0,Mohammad Haghighi
+36845148100,"[148, 158]",0,2,0.0,Anna Laura Floris
+36848762800,[277],0,1,0.0,A. C.P. van Strater
+36851906700,[97],0,1,0.0,C. K. Mok
+36853719100,[102],0,1,0.0,Beth Sternlieb
+36855253700,[259],0,1,0.0,Jenny Nyberg
+36865688500,[371],0,1,0.0,Annelieke M. Roest
+36865879100,[265],0,1,0.0,Dirk De Wachter
+36886312000,[18],1,0,1.0,C. Barbui
+36904533000,[278],0,1,0.0,Sara E. Perry
+36915619600,[355],0,1,0.0,Antonio Méndez-Giménez
+36917734200,[140],0,1,0.0,E. Ip
+36952314500,[151],0,1,0.0,Seema M. Patidar
+36954033000,"[319, 401]",0,2,0.0,Andrea Schmitt
+36956715800,[279],0,1,0.0,Sinfia Ks Vong
+36976096800,[276],0,1,0.0,Nathaly Rius-Ottenheim
+36987289100,[214],0,1,0.0,Mahvash Shahidi
+36997117600,[229],0,1,0.0,Lily L. Alstein
+36997423700,[229],0,1,0.0,Marquertie Riparetti-Brown
+36998781200,"[9, 15, 410, 438]",2,2,0.5,Nicola Veronese
+37000008900,[224],0,1,0.0,Jorge Mota-Pereira
+37015409100,[230],0,1,0.0,Helen Ewing
+37023472700,"[22, 381, 410, 427]",1,3,0.25,James Mugisha
+37043016300,[200],0,1,0.0,Marcia M. Lu
+37056218600,[314],0,1,0.0,B. Marigliano
+37064918800,[255],0,1,0.0,C. Virginia F. O'Hayer
+37078026500,[277],0,1,0.0,T. W. Scheewe
+37097970700,[228],0,1,0.0,Valiollah Dabidy Roshan
+37122103400,[338],0,1,0.0,Sarah A. Hiles
+37124683800,[320],0,1,0.0,Eva Lisa Petersson
+37124701800,[288],0,1,0.0,Mario Pérez-Zepeda
+37561949500,"[231, 331]",0,2,0.0,M. P. Vasconcelos-Moreno
+38861693900,[239],0,1,0.0,Lynn Hickey-Schultz
+38862854800,[239],0,1,0.0,Naomi Steiner
+39162021100,[256],0,1,0.0,Miguel Roca
+39261113300,[349],0,1,0.0,Ki Jung Chang
+39362480500,[319],0,1,0.0,Valentina Tesky
+40261987600,"[125, 276]",0,2,0.0,Daan Kromhout
+40361584100,[358],0,1,0.0,Ching Hsiang Wong
+41261351000,[342],0,1,0.0,Katja Hüper
+42060889600,[416],0,1,0.0,Martin Bahls
+42060994300,[325],0,1,0.0,Hilary F. Armstrong
+42760949200,[224],0,1,0.0,Serafim Carvalho
+44361266500,[342],0,1,0.0,Momme Kück
+45761309400,"[9, 12, 13, 15, 22, 24, 26, 348, 351, 352, 381, 386, 392, 410, 411, 427]",7,9,0.4375,Simon Rosenbaum
+47661884000,[357],0,1,0.0,Zangin Zeebari
+47960982800,[187],0,1,0.0,Dianna D. Carroll
+48663289700,[230],0,1,0.0,Tracy Jing Xu
+49561303500,[224],0,1,0.0,Daniela Fonte
+49762170300,[129],0,1,0.0,A'verria Sirkin
+49863133400,"[199, 223]",0,2,0.0,Na Dou
+49863886900,"[199, 223, 227]",0,3,0.0,Suhui Ma
+50161242500,"[4, 19]",2,0,1.0,Holger Cramer
+51565710600,"[245, 289]",0,2,0.0,Lissette Medina
+51663755100,[238],0,1,0.0,Sayed Roholla Mousavi
+51964773800,[162],0,1,0.0,Elizabeth O. Seibert
+53164951800,"[232, 291]",0,2,0.0,Marisa S.P. Toups
+53264918300,[225],0,1,0.0,Amy Shepherd
+53363371800,"[229, 264]",0,2,0.0,Natalie St Cyr
+53864637600,"[199, 223, 227]",0,3,0.0,Changxiang Cheng
+53874614300,"[173, 400, 428]",0,3,0.0,Li Jung Chen
+53875002100,[254],0,1,0.0,Vibeke Lund
+54389354300,[356],0,1,0.0,J. Lally
+54392038500,[354],0,1,0.0,S. Zanetidou
+54394130400,[7],1,0,1.0,Camille Short
+54397506400,[230],0,1,0.0,Patti Paccagnan
+54413002300,[362],0,1,0.0,S. Oller Canet
+54585710400,[25],1,0,1.0,Jacob D. Meyer
+54685405700,[243],0,1,0.0,Tomoharu Yamaguchi
+54785967400,[11],1,0,1.0,A. C. Kanitz
+54788104500,[162],0,1,0.0,Thomas F. Nagy
+54789969900,[226],0,1,0.0,D. M. Pindus
+54795661000,[356],0,1,0.0,E. Papanastasiou
+54879291500,"[46, 50]",0,2,0.0,Deborah J. Ossip-Klein
+54885338400,[20],1,0,1.0,Pichai Ittasakul
+54889783900,"[265, 287, 386]",0,3,0.0,Amber De Herdt
+54890783500,[333],0,1,0.0,S. Sehner
+54893588800,"[23, 300, 328]",1,2,0.3333333333333333,Jessie S.M. Chan
+54894526500,[288],0,1,0.0,Victoria Arango-Lopera
+54894546600,[228],0,1,0.0,Zeinab Mohammadian
+54912027100,[343],0,1,0.0,Rose M. Collard
+54922694200,[243],0,1,0.0,Ayumi Kaiho
+54924318600,[243],0,1,0.0,Mikie Isahai
+54924356100,[243],0,1,0.0,Fumiko Miyamae
+54924585200,[243],0,1,0.0,Tatsuhiko Murai
+54925634300,[243],0,1,0.0,Mika Sugiyama
+54931993000,[292],0,1,0.0,Christiano Robles Rodrigues Alves
+54939954700,[237],0,1,0.0,Majid Mohammadi
+54966482600,[284],0,1,0.0,Megan C. Mccoy
+55067327000,[264],0,1,0.0,N. Nazarian
+55080933900,[247],0,1,0.0,John Campbell
+55120971000,[389],0,1,0.0,Edith Holsboer-Trachsler
+55123222600,[338],0,1,0.0,Theo de Malmanche
+55130412600,[310],0,1,0.0,M. Cohen
+55150191800,[247],0,1,0.0,Michael Calnan
+55160106200,[219],0,1,0.0,Steven S. Henley
+55162061100,[306],0,1,0.0,Manfred Uhr
+55173153600,[308],0,1,0.0,John Cairney
+55175400300,[418],0,1,0.0,Kota Tsutsumimoto
+55175844100,[418],0,1,0.0,Hiroyuki Shimada
+55197503300,[418],0,1,0.0,Takehiko Doi
+55217337200,[262],0,1,0.0,Patrick P.K. Kwong
+55218294300,[262],0,1,0.0,Queenie Y. Wong
+55236496100,[238],0,1,0.0,Ahmad Hemat-Far
+55236894900,[238],0,1,0.0,Ahmad Shahsavari
+55237971300,[367],0,1,0.0,Shamima Akter
+55239601400,[343],0,1,0.0,Luigi Ferrucci
+55248161000,[392],0,1,0.0,Andrew Watkins
+55254702200,[166],0,1,0.0,Leslie Jordan
+55276486800,"[161, 178, 423]",0,3,0.0,I. Hua Chu
+55295610800,[426],0,1,0.0,K. Dannehl
+55341244700,[407],0,1,0.0,Alfredo Gea
+55342239400,[310],0,1,0.0,V. Carr
+55342398600,[387],0,1,0.0,Bjorn Einarsson
+55344309300,[436],0,1,0.0,Francisco Felix Caballero
+55348358200,[205],0,1,0.0,Eveline L.E.J. De Zeeuw
+55351673700,[139],0,1,0.0,William J. Evans
+55352799700,[280],0,1,0.0,Kathleen Spanjers
+55359985800,"[261, 346]",0,2,0.0,Andre Nyberg
+55361437700,[2],1,0,1.0,Janet B. Rimer
+55362303900,[254],0,1,0.0,Else Refsgaard
+55362616400,[254],0,1,0.0,Britta Thougaard
+55377832200,[366],0,1,0.0,Boliang Guo
+55382930700,[3],1,0,1.0,George Mammen
+55391050700,[93],0,1,0.0,Siegal Frishman
+55404603900,"[352, 386, 411]",0,3,0.0,Sabine Wyckaert
+55408586400,[51],0,1,0.0,Øyvind Solberg
+55410029000,[93],0,1,0.0,Bareket Falk
+55426062600,[128],0,1,0.0,Lauree A. Wise
+55426597900,"[400, 428]",0,2,0.0,Ming Shun Chung
+55431847500,[164],0,1,0.0,Ruth Gilbert
+55437101600,[245],0,1,0.0,Andrea Hernandez
+55438331200,[344],0,1,0.0,Penny Phillips
+55440681300,[283],0,1,0.0,Alan C. Tsai
+55446123600,[259],0,1,0.0,Ylva Bergh
+55449271500,[103],0,1,0.0,Sheryl Schwartz
+55455220100,[156],0,1,0.0,Anne Grit Müller
+55456267300,[200],0,1,0.0,Gary E. Johnson
+55475481800,[367],0,1,0.0,Shuichiro Yamamoto
+55479195400,[118],0,1,0.0,Min Cheol Park
+55479977000,[376],0,1,0.0,Stephen J. Mooney
+55486699800,[18],1,0,1.0,M. Rocchetti
+55491154600,"[4, 19]",2,0,1.0,Gustav Dobos
+55492307700,[243],0,1,0.0,Satoshi Tanaka
+55496859000,[430],0,1,0.0,Ryan L. Olson
+55506174300,[349],0,1,0.0,Chang Hyung Hong
+55513241000,[391],0,1,0.0,M. I. Abrahão
+55524067100,[269],0,1,0.0,Alan H.L. Chan
+55527622700,[159],0,1,0.0,Francisco Guillén-Grima
+55531654900,[115],0,1,0.0,Alison L. Marshall
+55535657100,[6],1,0,1.0,Markus B.T. Nyström
+55540481000,[279],0,1,0.0,Shuk Kwan Tang
+55544434700,[310],0,1,0.0,S. Saw
+55555239900,[390],0,1,0.0,Caroline A. Smith
+55556128200,[342],0,1,0.0,Kai G. Kahl
+55556806100,[325],0,1,0.0,Edward E. Smith
+55574194884,[366],0,1,0.0,David Turner
+55574300800,[333],0,1,0.0,M. Härter
+55584801482,[144],0,1,0.0,Chih Yi Chen
+55598006000,[295],0,1,0.0,Sérgio Tamai
+55598080500,[333],0,1,0.0,C. Da Ronch
+55599112600,[269],0,1,0.0,Alice Y.M. Jones
+55602906600,[414],0,1,0.0,Ali Yavuz Karahan
+55613241142,[241],0,1,0.0,Nicholas Smith
+55619310551,[59],0,1,0.0,S. W. Brown
+55628530729,[369],0,1,0.0,Rod S. Taylor
+55628570258,"[363, 418]",0,2,0.0,Takao Suzuki
+55628586269,[367],0,1,0.0,Tetsuya Mizoue
+55629070800,"[115, 170]",0,2,0.0,Wendy J. Brown
+55629950000,[269],0,1,0.0,Doreen W.H. Au
+55630559800,[292],0,1,0.0,Rosa Maria R. Pereira
+55636314829,[220],0,1,0.0,Eric B. Larson
+55662878800,[117],0,1,0.0,M. T. Mello
+55663864400,[91],0,1,0.0,Mauro Di Bari
+55664310300,[226],0,1,0.0,R. A. Martins
+55666438900,"[135, 209]",0,2,0.0,Stephen A. Stansfeld
+55667814100,[280],0,1,0.0,Nicky Atherton
+55674778200,[286],0,1,0.0,Daniela Eisentrager
+55675021000,[286],0,1,0.0,Stefanie Ostermann
+55701629400,[356],0,1,0.0,P. Gardner-Sood
+55711425400,[283],0,1,0.0,Shu Huang Chi
+55725607200,[263],0,1,0.0,Shinichi Sato
+55735387800,[18],1,0,1.0,E. Codrons
+55740575500,[215],0,1,0.0,Feng Wang
+55748820200,[295],0,1,0.0,André Reis
+55752607500,[362],0,1,0.0,N. Olona Tabueña
+55754867000,[337],0,1,0.0,Ki Bong Yoo
+55756221500,[367],0,1,0.0,Keisuke Kuwahara
+55759209100,"[185, 286]",0,2,0.0,Karl-Jürgen Bär
+55774718700,[23],1,0,1.0,Chaoyi Wang
+55794354300,[306],0,1,0.0,Nina Sarubin
+55800049400,[436],0,1,0.0,Paul Kowal
+55800249300,"[91, 132, 140, 216, 278, 343]",0,6,0.0,Brenda W.J.H. Penninx
+55827158400,[274],0,1,0.0,Shauna Barnes
+55830318100,[273],0,1,0.0,Santiago Henao-Morán
+55830396300,[273],0,1,0.0,E. Halley-Castillo Elizabeth
+55851940556,"[77, 83]",0,2,0.0,Kathleen Moore
+55878864800,[253],0,1,0.0,Jijun Wang
+55880378600,[292],0,1,0.0,Sonia Brucki
+55883537400,[28],1,0,1.0,Charalampos Krommidas
+55886708200,[320],0,1,0.0,Louise Danielsson
+55893202000,[342],0,1,0.0,Uwe Tegtbur
+55901065100,[325],0,1,0.0,David Kimhy
+55906881300,[230],0,1,0.0,Ming Fu Liu
+55907871200,[293],0,1,0.0,Carl Johan Uckelstam
+55908065200,[292],0,1,0.0,Carlos Alberto Abujabra Merege Filho
+55908172000,[293],0,1,0.0,Morgan Ström
+55908711000,[186],0,1,0.0,Charles Beadling
+55911801400,[288],0,1,0.0,Francisco Franco-Marina
+55920120200,"[191, 194]",0,2,0.0,Vicki S. Conn
+55921820100,[357],0,1,0.0,Martin Kraepelien
+55924691100,[24],1,0,1.0,A. P. Bailey
+55926700500,[371],0,1,0.0,Sanne H. Booij
+55933747600,[395],0,1,0.0,Charlotta Pisinger
+55937151900,[7],1,0,1.0,Amanda L. Rebar
+55937243500,[226],0,1,0.0,M. J. Coelho E Silva
+55939850100,[288],0,1,0.0,Sergio Sánchez-García
+55939901500,[288],0,1,0.0,Ricardo Ramírez-Aldana
+55942013600,[171],0,1,0.0,N. Taylor
+55945561900,[394],0,1,0.0,Katie J. Schuver
+55946191400,[349],0,1,0.0,Yunhwan Lee
+55946350700,[2],1,0,1.0,Fiona R. Waugh
+55953471100,[355],0,1,0.0,Christian Cecchini
+55962067300,[235],0,1,0.0,Karin Monshouwer
+55986357100,[126],0,1,0.0,Nobuyuki Miyai
+55989758800,[273],0,1,0.0,Jorge Salmerón
+55995443600,[277],0,1,0.0,A. G. Kroes
+55999373100,[300],0,1,0.0,Celia H.Y. Chan
+56000919400,[288],0,1,0.0,Teresa Juárez-Cedillo
+56004383100,[248],0,1,0.0,Marine Azevedo Da Silva
+56007614600,"[14, 366]",1,1,0.5,Patrick Callaghan
+56010437200,[370],0,1,0.0,Corinna Rahe
+56013575300,[273],0,1,0.0,Pablo Méndez-Hernández
+56013726100,[273],0,1,0.0,Nayeli Macias
+56019266600,[331],0,1,0.0,A. B. Zimmermann
+56019679500,[319],0,1,0.0,Kristina Steinbrecher
+56019762000,"[231, 331]",0,2,0.0,C. Borowsky
+56019843100,[319],0,1,0.0,Pia Mehler
+56023957400,[254],0,1,0.0,Klaus Martiny
+56035231400,[325],0,1,0.0,Samira Khan
+56035742900,[325],0,1,0.0,Rachel W. Chang
+56046884000,[23],1,0,1.0,Huiru Wang
+56053846000,[362],0,1,0.0,S. González Tejón
+56062267400,[152],0,1,0.0,John R. Mackey
+56063804300,[306],0,1,0.0,Katharina Konopka
+56063865500,[306],0,1,0.0,Ricarda Zimmermannc
+56066498800,"[300, 328]",0,2,0.0,Chong Wen Wang
+56067675200,[418],0,1,0.0,Sho Nakakubo
+56096268500,[343],0,1,0.0,Paul Naarding
+56108327800,"[233, 405]",0,2,0.0,An Pan
+56117898800,[347],0,1,0.0,Jun Young Lee
+56119414400,[347],0,1,0.0,Jee Eun Park
+56120492000,[356],0,1,0.0,S. Smith
+56130547800,[202],0,1,0.0,Bing Yi Liu
+56134520500,[172],0,1,0.0,Ming Hsien Chen
+56140650800,[367],0,1,0.0,Toru Honda
+56150115100,[337],0,1,0.0,Jae Woo Choi
+56152482700,[296],0,1,0.0,Susaree Prakhinkit
+56155942300,[359],0,1,0.0,Yvonne Ziert
+56155997200,[349],0,1,0.0,Hyun Woong Roh
+56161304500,[118],0,1,0.0,Sung Chan Hong
+56166227800,[162],0,1,0.0,Xin Hua Chen
+56188548100,[305],0,1,0.0,Jeff Warburton
+56188729800,[305],0,1,0.0,Omolade Femi-Ajao
+56203496900,[98],0,1,0.0,Beatrix Roemheld-Hamm
+56218826200,[27],1,0,1.0,Jerson Laks
+56220521300,[253],0,1,0.0,Oliver Freudenreich
+56224016600,"[77, 83, 85, 96]",0,4,0.0,Parinda Khatri
+56224575000,[349],0,1,0.0,Jinhee Kim
+56225206500,"[22, 438]",1,1,0.5,André F. Carvalho
+56229321100,[72],0,1,0.0,Sami A. Hashim
+56240973800,[225],0,1,0.0,Alisa K. Lincoln
+56247579900,[370],0,1,0.0,Volker Arolt
+56247740200,[159],0,1,0.0,Maira Bes-Rastrollo
+56264683800,[76],0,1,0.0,W. J. Millar
+56264750100,[141],0,1,0.0,Shirley Telles
+56265685500,[123],0,1,0.0,Mitchell Haas
+56278119200,"[308, 413]",0,2,0.0,Markus J. Duncan
+56282599100,[323],0,1,0.0,Kathryn L. Woodcock
+56284962600,[157],0,1,0.0,C. L. Williams
+56286930800,[320],0,1,0.0,Ilias Papoulias
+56294688000,[322],0,1,0.0,Dihogo Gama De Matos
+56294923100,[322],0,1,0.0,Ricardo Jacó De Oliveira
+56305118000,[378],0,1,0.0,Eluana Gomes
+56312494600,[18],1,0,1.0,L. Correale
+56328088700,[215],0,1,0.0,Howard Morrison
+56335136000,[218],0,1,0.0,Anne Mari Sund
+56339959900,[277],0,1,0.0,F. Jörg
+56375672900,[139],0,1,0.0,David J. Kennedy
+56405107600,[212],0,1,0.0,Fang Chi Hsu
+56409226300,[415],0,1,0.0,Mark D. Williams
+56410173000,[344],0,1,0.0,Jinhui Ma
+56424750400,[376],0,1,0.0,Spruha Joshi
+56431978500,[136],0,1,0.0,M. Bauer
+56438421900,[310],0,1,0.0,S. Shah
+56443205300,[358],0,1,0.0,Yu Hsia Tsai
+56452738400,[392],0,1,0.0,Scott Teasdale
+56458994900,[351],0,1,0.0,Hannes Guelinckx
+56459004400,[325],0,1,0.0,Lindsey Ayanruoh
+56462961200,[122],0,1,0.0,Amanda Haboush
+56463024200,[333],0,1,0.0,S. Massarenti
+56463030100,[333],0,1,0.0,M. C. Dehoust
+56464043000,"[98, 101]",0,2,0.0,Betty Vreeland
+56468572800,[323],0,1,0.0,Peter J. Kelly
+56472426600,[156],0,1,0.0,Hans Ulrich Wittchen
+56472869300,[314],0,1,0.0,A. Renzi
+56478082500,[243],0,1,0.0,Ryutaro Takahashi
+56478218400,[347],0,1,0.0,Song Hwa Chae
+56482775700,[387],0,1,0.0,Palmi V. Jonsson
+56489898800,[359],0,1,0.0,Charlotte Vogel
+56503241000,"[22, 26, 409, 410, 427]",2,3,0.4,Joseph Firth
+56513330600,[370],0,1,0.0,Klaus Berger
+56520360300,[353],0,1,0.0,Juliana Hotta Ansai
+56521543800,[11],1,0,1.0,R. S. Delevatti
+56525760300,[129],0,1,0.0,Hua Jin
+56533575100,[342],0,1,0.0,Anne Von Bohlen
+56533964300,[342],0,1,0.0,Luise Borchert
+56534115900,[342],0,1,0.0,Zeynep Ates
+56537632000,[328],0,1,0.0,Tzy Jyun Yao
+56538172100,[10],1,0,1.0,Kathleen T. Rhyner
+56538301800,[5],1,0,1.0,T. Josefsson
+56542937000,[396],0,1,0.0,Kaeli A. Sutton
+56559328400,[226],0,1,0.0,A. M. Teixeira
+56577545000,[8],1,0,1.0,Michael A. Rapp
+56583115700,[367],0,1,0.0,Takeshi Hayashi
+56587740900,[41],0,1,0.0,A. Medhus
+56621875200,[177],0,1,0.0,Hans Josef Müller
+56629314700,[82],0,1,0.0,Päivi Lampinen
+56634370400,"[79, 80]",0,2,0.0,N. Janakiramaiah
+56634706900,[354],0,1,0.0,D. Zocchi
+56647873200,[430],0,1,0.0,Christopher J. Brush
+56652240300,[18],1,0,1.0,L. Fusar-Poli
+56662814100,[416],0,1,0.0,Henry Völzke
+56673927900,[348],0,1,0.0,Tanja De Backer
+56674233300,[348],0,1,0.0,Herman Moens
+56674502000,[348],0,1,0.0,Pieter Naert
+56674654200,[348],0,1,0.0,Patrick Vanhalst
+56674685500,[348],0,1,0.0,Tomas Madou
+56674809600,[348],0,1,0.0,Chris Helon
+56685782700,"[21, 395]",1,1,0.5,Helene Speyer
+56705151600,"[148, 158]",0,2,0.0,Francesca Mannu
+56714626000,[17],1,0,1.0,Michael S. Gordon
+56716051800,[175],0,1,0.0,Victoria Teoh
+56719162200,[162],0,1,0.0,Lisa D. Butler
+56719775400,[7],1,0,1.0,David Geard
+56720101000,[356],0,1,0.0,C. O'Brien
+56720120000,[356],0,1,0.0,C. Fung
+56720228100,[356],0,1,0.0,O. Onagbesan
+56744332400,[234],0,1,0.0,David Sparrow
+56759548200,"[91, 140, 278]",0,3,0.0,Marco Pahor
+56760657800,[213],0,1,0.0,Michael Berk
+56769338600,"[297, 360]",0,2,0.0,Carol A. Janney
+56769973600,[20],1,0,1.0,Kanokporn Sukhato
+56786530400,[369],0,1,0.0,Kat Rayson
+56790491800,"[271, 321]",0,2,0.0,Alison J. Venn
+56797837200,[142],0,1,0.0,Daniel Rivière
+56797849100,[368],0,1,0.0,Eva Maria Stelzer
+56797952500,[72],0,1,0.0,Allan Geliebter
+56797961600,[368],0,1,0.0,Stephanie Book
+56797982900,[368],0,1,0.0,Stefan Först
+56798295300,[368],0,1,0.0,Matthias Schopper
+56803239300,[233],0,1,0.0,Walter C. Willett
+56813986600,"[66, 187]",0,2,0.0,David R. Brown
+56815878100,[349],0,1,0.0,Dongsoo Kim
+56827560300,[376],0,1,0.0,Andrew G. Rundle
+56828923400,[354],0,1,0.0,S. Ferrara
+56829188100,[354],0,1,0.0,G. Toni
+56921353200,[366],0,1,0.0,Marie Armstrong
+56922061900,[359],0,1,0.0,Michael Doose
+56922123000,[359],0,1,0.0,Niklas Hoffer
+56922192500,[359],0,1,0.0,Wojciech Stengert
+56922193500,[366],0,1,0.0,Emily Brighton
+56938195800,"[365, 420]",0,2,0.0,Lara S.F. Carneiro
+56946755600,[401],0,1,0.0,Katriona Keller-Varady
+56946835300,[401],0,1,0.0,Björn Adomßent
+56949738900,"[9, 12, 13, 15]",4,0,1.0,Justin Richards
+56949742600,[325],0,1,0.0,Marie C. Hansen
+56962600100,[416],0,1,0.0,Daniela Schmid
+56962718400,[356],0,1,0.0,D. Stahl
+56984638400,[423],0,1,0.0,Yuh Jen Lin
+56985194100,[74],0,1,0.0,Kevin Morgan
+56989518900,[379],0,1,0.0,Elise M. Neff
+56999993300,[409],0,1,0.0,Rebekah Carney
+57039798300,[117],0,1,0.0,A. P. Vilar
+57076829800,[362],0,1,0.0,A. M. Alba Muñoz
+57076856700,[362],0,1,0.0,T. Salvador Barbarroja
+57076892900,[362],0,1,0.0,R. Sanchís Catalán
+57076937600,[362],0,1,0.0,L. San Emeterio Echevarría
+57076938400,[362],0,1,0.0,C. Tajada Vitales
+57076983900,[362],0,1,0.0,B. Díaz Mújica
+57077018300,[362],0,1,0.0,M. Ibarra Jato
+57104639500,[284],0,1,0.0,Edward Hess
+57109747500,[8],1,0,1.0,Jimmy B. Lawrence
+57109810100,[197],0,1,0.0,George W. Ross
+57110161200,[354],0,1,0.0,L. Bagnoli
+57110279600,[8],1,0,1.0,Andreas Heissel
+57110455700,[8],1,0,1.0,Gunnar Kallies
+57125810500,[409],0,1,0.0,Lauren Jerome
+57188708084,[417],0,1,0.0,Skye McKennon
+57188931745,[23],1,0,1.0,Sean David Boyden
+57189001353,[399],0,1,0.0,Jani Linde
+57189003519,[25],1,0,1.0,Cillian P. McDowell
+57189218500,[359],0,1,0.0,Dominik Reim
+57189456001,[129],0,1,0.0,Kathleen O'Hanlon
+57189572584,[395],0,1,0.0,Merete Birk
+57189577482,[395],0,1,0.0,Hans Christian Brix Nørgaard
+57189582117,[395],0,1,0.0,Mette Karlsen
+57189817419,[67],0,1,0.0,Robert B. Wallace
+57190029858,[66],0,1,0.0,Drue H. Barrett
+57190045369,[310],0,1,0.0,R. Bush
+57190992714,[101],0,1,0.0,Marie Sakowitz
+57191242489,[23],1,0,1.0,Stanley Sai Chuen Hui
+57191364461,[324],0,1,0.0,Jerónima Correia
+57191407857,[322],0,1,0.0,Breno Guilherme De  Araújo Tinôco Cabral
+57191537058,[19],1,0,1.0,Dennis Anheyer
+57191616498,[314],0,1,0.0,M. T. Pecci
+57191884809,"[104, 356]",0,2,0.0,Alka M. Patel
+57191958833,[413],0,1,0.0,Mehala Subramanieapillai
+57192093779,[437],0,1,0.0,Junichi Otaki
+57192094846,[437],0,1,0.0,Yusuke Kurebayashi
+57192235862,[23],1,0,1.0,Liye Zou
+57192664619,[430],0,1,0.0,Peter J. Ehmann
+57193453048,[415],0,1,0.0,Angela M. Dieterich
+57193482097,[115],0,1,0.0,Jessica H. Ford
+57193557208,[310],0,1,0.0,A. Jablensky
+57193791658,[17],1,0,1.0,Sara Radovic
+57193844055,[395],0,1,0.0,Ane Storch Jakobsen
+57194128409,[328],0,1,0.0,Ka Fai Chung
+57194515955,[387],0,1,0.0,Jane S. Saczynski
+57195393204,[87],0,1,0.0,Catherine Corbeau
+57195406552,[25],1,0,1.0,Brett R. Gordon
+57195451002,[390],0,1,0.0,Lisa Vizza
+57195463545,[358],0,1,0.0,Chiu Bi Liu
+57195557334,[28],1,0,1.0,Nikos Comoutos
+57196172019,[118],0,1,0.0,Yong Kyu Kim
+57196358874,[356],0,1,0.0,R. Ohlsen
+57196496630,[207],0,1,0.0,Gerhard Hermann
+57196543185,[295],0,1,0.0,Mário Dinis Mateus
+57196652260,[200],0,1,0.0,Dianne L. Higgins
+57196683284,[166],0,1,0.0,Kelly Harrison
+57196781465,[254],0,1,0.0,Lene Sørensen
+57197128260,[92],0,1,0.0,Anne S. Mather
+57197137092,[247],0,1,0.0,Christine Wright
+57197560419,[142],0,1,0.0,Sandrine Andrieu
+57197596398,[61],0,1,0.0,V. De Souza
+57197741912,"[410, 427]",0,2,0.0,Ai Koyanagi
+57197802801,[246],0,1,0.0,Barbara C. Olendzki
+57197926496,[162],0,1,0.0,Adam Kaufman
+57198033094,[117],0,1,0.0,C. Lacroix
+57198069846,[98],0,1,0.0,Robert Stern
+57198205306,[356],0,1,0.0,D. Hopkins
+57198269436,[207],0,1,0.0,Manuela Panzer
+57198344854,[59],0,1,0.0,P. Kulkarni
+57198558624,[49],0,1,0.0,Ruth T. Gross
+57198809038,[197],0,1,0.0,Toby L. Smith
+57198966310,[336],0,1,0.0,Marie Fischer
+57199339101,[136],0,1,0.0,K. Knubben
+57199371573,[363],0,1,0.0,Shu Kumagai
+57199536039,[230],0,1,0.0,Barbara Urbanska
+57199750132,[123],0,1,0.0,Julie Lawrence
+57200247260,[158],0,1,0.0,Alessandra Cappai
+57200397889,[23],1,0,1.0,Xinfeng Quan
+57201111532,[23],1,0,1.0,Li Sun
+57201126256,[246],0,1,0.0,Philip A. Merriam
+57201386464,[18],1,0,1.0,P. Politi
+57201453691,[75],0,1,0.0,Michael Doherty
+57201549915,[420],0,1,0.0,Rita C. Alves
+57201570703,[343],0,1,0.0,Yuri Milaneschi
+57202373947,[370],0,1,0.0,Jürgen Wellmann
+57202542181,[286],0,1,0.0,Andreas Voss
+57202560550,[310],0,1,0.0,J. J. McGrath
+57202569532,[387],0,1,0.0,Vilmundur Gudnason
+57202659347,[192],0,1,0.0,Janine Wiles
+57202723913,[344],0,1,0.0,Réjeanne Gougeon
+57202798694,[347],0,1,0.0,Ki Woong Kim
+57203012282,[196],0,1,0.0,Andrew L. Smith
+57203032674,[325],0,1,0.0,Richard P. Sloan
+57203083453,[438],0,1,0.0,Stefania Maggi
+57203177933,[57],0,1,0.0,M. Joyner
+57203199622,[375],0,1,0.0,Bruce Cooper
+57203242818,[337],0,1,0.0,Jae Hyun Kim
+57203464410,[337],0,1,0.0,Kwang Sig Lee
+57203479712,[355],0,1,0.0,Celestino Rodríguez
+57203518562,[253],0,1,0.0,David C. Henderson
+57203557091,[278],0,1,0.0,Richard Schulz
+57203580903,[333],0,1,0.0,H. Schulz
+57203597332,[349],0,1,0.0,Soo Jin Lee
+57203664951,[337],0,1,0.0,Young Choi
+57203683611,[167],0,1,0.0,Elizabeth A. Osuch
+57203758572,"[151, 255]",0,2,0.0,Julie Johnson
+57203774837,[91],0,1,0.0,Michael E. Miller
+57204150152,[356],0,1,0.0,J. Eberherd
+57204716554,[269],0,1,0.0,William W.N. Tsang
+57204891343,"[9, 12, 13, 15, 22, 26, 348, 351, 352, 381, 410, 411, 427, 428, 438]",6,9,0.4,Brendon Stubbs
+57204908958,[248],0,1,0.0,Sara Kaffashian
+57205168661,[27],1,0,1.0,Priscila Kameda
+57205909881,[234],0,1,0.0,Daniel J. Gottlieb
+57207518447,[280],0,1,0.0,Margaret Thorogood
+57207581950,[417],0,1,0.0,Sarah Elizabeth Levitt
+57207840403,[438],0,1,0.0,A. Matthew Prina
+57208099127,[119],0,1,0.0,Paul Norman
+57208255541,[247],0,1,0.0,Helen Baxter
+57208356854,[337],0,1,0.0,Eun Cheol Park
+57208558282,[114],0,1,0.0,S. Das
+57209019346,[387],0,1,0.0,Sigurbjorn Bjornsson
+57210287333,"[159, 407]",0,2,0.0,Almudena Sánchez-Villegas
+57210707854,[197],0,1,0.0,Kamal H. Masaki
+57210966301,[418],0,1,0.0,Ryo Hotta
+57211035820,[142],0,1,0.0,David Thomas
+57211106138,[192],0,1,0.0,Simon A. Moyes
+57211155166,[133],0,1,0.0,Sandra Davidson
+57211284405,[247],0,1,0.0,Tim J. Peters
+57212077962,[126],0,1,0.0,Mikio Arita
+57212116249,[26],1,0,1.0,Edson S. Silva
+57212975141,[310],0,1,0.0,B. Hocking
+57213123839,[356],0,1,0.0,A. Keen
+57213348748,[200],0,1,0.0,Catherine McCarthy
+57213440047,[230],0,1,0.0,James Gordon
+57213503093,[239],0,1,0.0,Deborah Cohen
+57214499609,[48],0,1,0.0,Andrew L. Dannenberg
+57214651466,[207],0,1,0.0,Günter Klug
+57214661242,[347],0,1,0.0,Byung Soo Kim
+57214787343,[162],0,1,0.0,Jonathan Marshall
+57214830066,[26],1,0,1.0,André F. Carvalho
+57214957437,[66],0,1,0.0,Robert F. Anda
+57215031306,[395],0,1,0.0,Kamilla Pedersen
+57215035622,[389],0,1,0.0,Seyed Mohammad Hosseini
+57216229536,[399],0,1,0.0,Dee Blackhurst
+57216506722,[354],0,1,0.0,M. Belvederi Murri
+57216849811,[6],1,0,1.0,Gregory Neely
+57216998430,[67],0,1,0.0,Jon H. Lemke
+57217153933,"[146, 278]",0,2,0.0,Coen H. Van Gool
+57217502597,[41],0,1,0.0,L. Sandvik
+57217764999,[204],0,1,0.0,Ingibjörg Jonsdottir
+57218344128,[76],0,1,0.0,J. Chen
+57218849195,[159],0,1,0.0,Ignacio Ara
+57219085254,[292],0,1,0.0,Fabiana Braga Benatti
+57220254734,[97],0,1,0.0,Y. T. Au Yeung
+57220674721,[61],0,1,0.0,A. Mann
+57220774479,"[278, 387]",0,2,0.0,Tamara B. Harris
+57221044259,[23],1,0,1.0,Xiaoyue Hu
+57223121546,[256],0,1,0.0,María Serrano
+57223448363,[426],0,1,0.0,H. Engler
+57224647617,[197],0,1,0.0,Kaon Fong
+57224648430,[277],0,1,0.0,R. S. Kahn
+57224721640,"[113, 267]",0,2,0.0,Alex Bishop
+57225340883,[284],0,1,0.0,Walter W. Hauck
+57225803841,[92],0,1,0.0,Cesar Rodriguez
+57327765900,[27],1,0,1.0,Ana Heloisa Nascimento Beserra
